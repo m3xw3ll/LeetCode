@@ -57,6 +57,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |500|[Keyboard Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/500_keyboard_row.md)|
 |509|[Fibonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/509_fibonacci_number.md)|
 |557|[Reverse Words in a String III](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/557_reverse_words_in_a_string_3.md)|
+|575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
 |628|[Maximum Product of Three Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/628_maximum_product_of_three_numbers.md)|
 |709|[To Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/709_to_lower_case.md)|
 |728|[Self Dividing Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/728_self_dividing_numbers.md)|
