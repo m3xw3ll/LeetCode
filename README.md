@@ -40,6 +40,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |268|[Missing Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/268_missing_number.md)|
 |283|[Move Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/283_move_zeroes.md)|
 |326|[Power of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/326_power_of_three.md)|
+|338|[Counting Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/338_counting_bits.md)|
 |344|[Reverse String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/344_reverse_string.md)|
 |350|[Intersection of Two Arrays II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/350_intersection_of_two_arrays_2.md)|
 |387|[First Unique Character in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/387_first_unique_character_in_a_string.md)|
