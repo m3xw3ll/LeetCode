@@ -93,6 +93,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
 |1929|[Concatenation of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1929_concatenation_of_array.md)|
 |1974|[Minimum Time to Type Word Using Special Typewriter](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1974_minimum_time_to_type_word_using_special_typewriter.md)|
+|1991|[Find the Middle Index in Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1991_find_the_middle_index_in_array.md)|
 |2011|[Final Value of Variable After Performing Operations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2011_final_value_of_variable_after_performing_operations.md)|
 |2032|[Two Out of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2032_two_out_of_three.md)|
 |2085|[Count Common Words With One Occurence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2085_count_common_words_with_one_occurence.md)|
