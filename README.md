@@ -31,6 +31,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |144|[Binary Tree Preorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/144_binary_tree_preorder_traversal.md)|
 |145|[Binary Tree Postorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/145_binary_tree_postorder_traversal.md)|
 |169|[Majority Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/169_majority_element.md)|
+|190|[Reverse Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/190_reverse_bits.md)|
 |191|[Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/191_number_of_1_bit.md)|
 |225|[Implement Stack Using Queues](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/225_implement_stack_using_queues.md)|
 |231|[Power of Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/231_power_of_two.md)|
