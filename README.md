@@ -44,6 +44,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |350|[Intersection of Two Arrays II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/350_intersection_of_two_arrays_2.md)|
 |387|[First Unique Character in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/387_first_unique_character_in_a_string.md)|
 |389|[Find the Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/389_find_the_difference.md)|
+|405|[Convert a Number to Hexadecimal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/405_convert_a_number_to_hexadecimal.md)|
 |412|[Fizz Buzz](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/412_fizz_buzz.md)|
 |414|[Third Maximum Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/414_third_maximum_number.md)|
 |415|[Add Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/415_add_strings.md)|
@@ -98,6 +99,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2124|[Check if All As Appears Before All Bs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2124_check_if_all_a_appears_before_all_b.md)|
 |2154|[Keep Multiplying Found Vales by Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2154_keep_multiplying_found_values_by_two.md)|
 |2185|[Counting Words With a Given Prefix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2185_counting_words_with_a_given_prefix.md)|
+|2215|[Find the Difference of Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2215_find_the_difference_of_two_arrays.md)|
 |2235|[Add Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2235_add_two_integers.md)|
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2283_check_if_number_has_equal_digit_count_and_digit_value.md)|
