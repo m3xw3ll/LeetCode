@@ -70,6 +70,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1051|[Height Checker](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1051_height_checker.md)|
 |1108|[Defanging an IP Address](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1108_defanging_an_ip_address.md)|
 |1207|[Unique Number of Occurrences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1207_unique_number_of_occurrences.md)|
+|1221|[Split a String in Balanced Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1221_split_a_string_in_balanced_strings.md)|
 |1281|[Substract the Product and Sum of Digits of an Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1281_substract_the_product_and_sum_of_digits_of_an_integer.md)|
 |1287|[Element Appearing More Than 25% in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1287_element_appearing_more_than_25_percent_in_sorted_array.md)|
 |1295|[Find Numbers with Even Number of Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1295_find_numbers_with_even_number_of_digits.md)|
