@@ -77,6 +77,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1431|[Kids With the Greatest Number of Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1431_kids_with_the_greatest_number_of_candies.md)|
 |1470|[Shuffle the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1470_shuffle_the_array.md)|
 |1480|[Running Sum of 1d Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1480_running_sum_of_1d_array.md)|
+|1486|[XOR Operation in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1486_xor_operation_in_an_array.md)|
 |1512|[Number of Good Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1512_number_of_good_pairs.md)|
 |1528|[Shuffle String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1528_shuffle_string.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
