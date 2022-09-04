@@ -62,6 +62,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |709|[To Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/709_to_lower_case.md)|
 |728|[Self Dividing Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/728_self_dividing_numbers.md)|
 |747|[Largest Number at Least Twice of Others](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/747_largest_number_at_least_twice_of_others.md)|
+|771|[Jewels and Stones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/771_jewels_and_stones.md)|
 |796|[Rotate String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/796_rotate_string.md)|
 |804|[Unique Morse Code Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/804_unique_morse_code_words.md)|
 |819|[Most Common Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/819_most_common_word.md)|
