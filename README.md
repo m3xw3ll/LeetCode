@@ -59,6 +59,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |557|[Reverse Words in a String III](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/557_reverse_words_in_a_string_3.md)|
 |575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
 |628|[Maximum Product of Three Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/628_maximum_product_of_three_numbers.md)|
+|682|[Baseball Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/682_baseball_game.md)|
 |709|[To Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/709_to_lower_case.md)|
 |728|[Self Dividing Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/728_self_dividing_numbers.md)|
 |747|[Largest Number at Least Twice of Others](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/747_largest_number_at_least_twice_of_others.md)|
