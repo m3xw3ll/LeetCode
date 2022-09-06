@@ -21,6 +21,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |4|[Median of Two Sorted Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/4_median_of_two_sorted_arrays.md)|
 |9|[Palindrome Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/9_palindrome_number.md)|
 |28|[Implement strStr](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/28_implement_strStr.md)|
+|35|[Search Insert Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/35_search_insert_position.md)|
 |49|[Group Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/49_group_anagrams.md)|
 |50|[Length of Last Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/50_length_of_last_word.md)|
 |66|[Plus One](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/66_plus_one.md)|
