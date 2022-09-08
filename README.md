@@ -34,6 +34,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |144|[Binary Tree Preorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/144_binary_tree_preorder_traversal.md)|
 |145|[Binary Tree Postorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/145_binary_tree_postorder_traversal.md)|
 |151|[Reverse Words in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/151_reverse_words_in_a_string.md)|
+|162|[Find Peak Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/162_find_peak_element.md)|
 |169|[Majority Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/169_majority_element.md)|
 |190|[Reverse Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/190_reverse_bits.md)|
 |191|[Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/191_number_of_1_bit.md)|
