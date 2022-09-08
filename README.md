@@ -98,6 +98,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1512|[Number of Good Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1512_number_of_good_pairs.md)|
 |1528|[Shuffle String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1528_shuffle_string.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
+|1603|[Design Parking System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1603_design_parking_system.md)|
 |1636|[Sort Array by Increasing Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1636_sort_array_by_increasing_frequency.md)|
 |1662|[Check If Two String Arrays are Equivalent](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1662_check_if_two_string_arrays_are_equivalent.md)|
 |1672|[Richest Customer Wealth](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1672_richest_customer_wealth.md)|
