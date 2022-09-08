@@ -1,8 +1,9 @@
 def repeated_character(s):
-    prev = s[0]
-    for i in range(1, len(s)):
-        if s[i] == prev:
-            return prev
-        prev = s[i]
+    seen = set()
+    for i in range(len(s)):
+        if s[i] in seen:
+            return s[i]
+        else:
+            seen.add(s[i])
 
 print(repeated_character('abccbaacz'))
