@@ -19,6 +19,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |:----|:----|
 |1|[Two Sums](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1_two_sums.md)|
 |4|[Median of Two Sorted Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/4_median_of_two_sorted_arrays.md)|
+|7|[Reverse Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/7_reverse_integer.md)|
 |9|[Palindrome Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/9_palindrome_number.md)|
 |13|[Roman to Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/13_roman_to_integer.md)|
 |14|[Longest Common Prefix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/14_longest_common_prefix.md)|
