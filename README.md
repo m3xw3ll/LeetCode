@@ -86,6 +86,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1281|[Substract the Product and Sum of Digits of an Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1281_substract_the_product_and_sum_of_digits_of_an_integer.md)|
 |1287|[Element Appearing More Than 25% in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1287_element_appearing_more_than_25_percent_in_sorted_array.md)|
 |1295|[Find Numbers with Even Number of Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1295_find_numbers_with_even_number_of_digits.md)|
+|1360|[Number of Days Between Two Dates](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1360_number_of_days_between_two_dates.md)|
 |1323|[Maximum 69 Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1323_maximum_69_number.md)|
 |1346|[Check if N and its Double Exists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1346_check_if_n_and_its_double_exits.md)|
 |1356|[Sort Integers by The Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1356_sort_integers_by_the_number_of_one_bits.md)|
