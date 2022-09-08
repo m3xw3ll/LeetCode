@@ -74,6 +74,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |796|[Rotate String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/796_rotate_string.md)|
 |804|[Unique Morse Code Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/804_unique_morse_code_words.md)|
 |819|[Most Common Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/819_most_common_word.md)|
+|844|[Backspace String Compare](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/844_backspace_string_compare.md)|
 |881|[Boats to Save People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/881_boats_to_save_people.md)|
 |1002|[Find Common Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1002_find_common_characters.md)|
 |1051|[Height Checker](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1051_height_checker.md)|
