@@ -29,6 +29,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |50|[Length of Last Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/50_length_of_last_word.md)|
 |66|[Plus One](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/66_plus_one.md)|
 |67|[Add Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/67_add_binary.md)|
+|69|[Sqrt(x)](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/69_sqrtx.md)|
 |94|[Binary Tree Inorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/94_binary_tree_inorder_traversal.md)|
 |125|[Valid Palindrome](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/125_valid_palindrome.md)|
 |136|[Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/136_single_number.md)|
