@@ -79,6 +79,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |819|[Most Common Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/819_most_common_word.md)|
 |844|[Backspace String Compare](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/844_backspace_string_compare.md)|
 |881|[Boats to Save People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/881_boats_to_save_people.md)|
+|946|[Validate Stack Sequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/946_validate_stack_sequences.md)|
 |1002|[Find Common Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1002_find_common_characters.md)|
 |1051|[Height Checker](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1051_height_checker.md)|
 |1108|[Defanging an IP Address](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1108_defanging_an_ip_address.md)|
