@@ -52,6 +52,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |326|[Power of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/326_power_of_three.md)|
 |338|[Counting Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/338_counting_bits.md)|
 |344|[Reverse String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/344_reverse_string.md)|
+|347|[Top K Frequent Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/347_top_k_frequent_elements.md)|
 |350|[Intersection of Two Arrays II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/350_intersection_of_two_arrays_2.md)|
 |387|[First Unique Character in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/387_first_unique_character_in_a_string.md)|
 |389|[Find the Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/389_find_the_difference.md)|
