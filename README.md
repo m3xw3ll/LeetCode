@@ -134,6 +134,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2114|[Maximum Number of Words Found in Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2114_maximum_number_of_words_found_in_sentences.md)|
 |2124|[Check if All As Appears Before All Bs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2124_check_if_all_a_appears_before_all_b.md)|
 |2154|[Keep Multiplying Found Vales by Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2154_keep_multiplying_found_values_by_two.md)|
+|2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2160_minimum_sum_of_four_digit_number_after_splitting_digits.md)|
 |2185|[Counting Words With a Given Prefix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2185_counting_words_with_a_given_prefix.md)|
 |2215|[Find the Difference of Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2215_find_the_difference_of_two_arrays.md)|
 |2235|[Add Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2235_add_two_integers.md)|
