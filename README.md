@@ -73,6 +73,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |628|[Maximum Product of Three Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/628_maximum_product_of_three_numbers.md)|
 |682|[Baseball Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/682_baseball_game.md)|
 |693|[Binary Number with Alternating Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/693_binary_number_with_alternating_bits.md)|
+|704|[Binary Search](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/704_binary_search.md)|
 |709|[To Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/709_to_lower_case.md)|
 |728|[Self Dividing Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/728_self_dividing_numbers.md)|
 |747|[Largest Number at Least Twice of Others](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/747_largest_number_at_least_twice_of_others.md)|
