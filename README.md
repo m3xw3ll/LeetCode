@@ -118,6 +118,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1689|[Partitioning Into Minimum Number of Deci-Binary Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1689_partitioning_into_minimum_number_of_deci_binary_numbers.md)|
 |1704|[Determine if String Halves are Alike](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1704_determine_if_string_halves_are_alike.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
+|1812|[Determine Color of a Chessboard Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1812_determine_color_of_a_chessboard_square.md)|
 |1816|[Truncate Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1816_truncate_sentence.md)|
 |1832|[Check if Sentence is Pangram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1832_check_if_sentence_is_pangram.md)|
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
