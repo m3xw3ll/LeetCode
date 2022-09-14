@@ -50,6 +50,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |263|[Ugly Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/263_ugly_number.md)|
 |268|[Missing Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/268_missing_number.md)|
 |283|[Move Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/283_move_zeroes.md)|
+|287|[Find the Duplicate Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/287_find_the_duplicate_number.md)|
 |326|[Power of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/326_power_of_three.md)|
 |338|[Counting Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/338_counting_bits.md)|
 |344|[Reverse String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/344_reverse_string.md)|
