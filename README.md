@@ -91,6 +91,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |977|[Squares of a Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/977_squares_of_a_sorted_array.md)|
 |1002|[Find Common Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1002_find_common_characters.md)|
 |1009|[Complement of Base 10 Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1009_complement_of_base_10_integer.md)|
+|1037|[Valid Boomerang](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1037_valid_boomerang.md)|
 |1051|[Height Checker](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1051_height_checker.md)|
 |1108|[Defanging an IP Address](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1108_defanging_an_ip_address.md)|
 |1154|[Day of the Year](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1154_day_of_the_year.md)|
