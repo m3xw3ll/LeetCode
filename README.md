@@ -107,6 +107,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1346|[Check if N and its Double Exists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1346_check_if_n_and_its_double_exits.md)|
 |1356|[Sort Integers by The Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1356_sort_integers_by_the_number_of_one_bits.md)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1365_how_many_numbers_are_smaller_than_the_current_number.md)|
+|1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
 |1431|[Kids With the Greatest Number of Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1431_kids_with_the_greatest_number_of_candies.md)|
 |1464|[Maximum Product of Two Elements in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1464_maximum_product_of_two_elements_in_an_array.md)|
 |1470|[Shuffle the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1470_shuffle_the_array.md)|
