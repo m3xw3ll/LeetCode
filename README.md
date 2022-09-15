@@ -125,6 +125,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1812|[Determine Color of a Chessboard Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1812_determine_color_of_a_chessboard_square.md)|
 |1816|[Truncate Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1816_truncate_sentence.md)|
+|1822|[Sign of the Product of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1822_sign_of_the_product_of_an_array.md)|
 |1832|[Check if Sentence is Pangram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1832_check_if_sentence_is_pangram.md)|
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
 |1913|[Maximum Product Difference Between Two Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1913_maximum_product_difference_between_two_pairs.md)|
