@@ -145,6 +145,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1991|[Find the Middle Index in Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1991_find_the_middle_index_in_array.md)|
 |2011|[Final Value of Variable After Performing Operations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2011_final_value_of_variable_after_performing_operations.md)|
 |2032|[Two Out of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2032_two_out_of_three.md)|
+|2053|[Kth Distinct String in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2053_kth_distinct_string_in_an_array.md)|
 |2057|[Smallest Index With Equal Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2057_smallest_index_with_equal_value.md)|
 |2085|[Count Common Words With One Occurence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2085_count_common_words_with_one_occurence.md)|
 |2089|[Find Target Indices After Sorting Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2089_find_target_indices_after_sorting_array.md)|
