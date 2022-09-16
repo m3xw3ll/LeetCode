@@ -49,6 +49,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |258|[Add Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/258_add_digits.md)|
 |263|[Ugly Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/263_ugly_number.md)|
 |268|[Missing Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/268_missing_number.md)|
+|278|[First Bad Version](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/278_first_bad_version.md)|
 |283|[Move Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/283_move_zeroes.md)|
 |287|[Find the Duplicate Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/287_find_the_duplicate_number.md)|
 |326|[Power of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/326_power_of_three.md)|
