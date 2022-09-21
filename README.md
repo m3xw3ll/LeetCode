@@ -154,6 +154,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1941|[Check if All Characters have Equal Numnber of Occurrences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1941_check_if_all_characters_have_equal_number_of_occurrences.md)|
 |1974|[Minimum Time to Type Word Using Special Typewriter](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1974_minimum_time_to_type_word_using_special_typewriter.md)|
 |1991|[Find the Middle Index in Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1991_find_the_middle_index_in_array.md)|
+|2000|[Reverse Prefix of Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2000_reverse_prefix_of_word.md)|
 |2011|[Final Value of Variable After Performing Operations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2011_final_value_of_variable_after_performing_operations.md)|
 |2032|[Two Out of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2032_two_out_of_three.md)|
 |2053|[Kth Distinct String in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2053_kth_distinct_string_in_an_array.md)|
