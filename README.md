@@ -173,6 +173,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2351|[First Letter to Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2351_first_letter_to_appear_twice.md)|
 |2357|[Make Array Zero By Subtracting Equal Amounts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2357_make_array_zero_by_substracting_equal_amounts.md)|
 |2390|[Remove Stars From a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2390_removing_stars_from_a_string.md)|
+|2413|[Smallest Even Multiple](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2413_smallest_even_multiple.md)|
 
 
 ### Databases
