@@ -85,6 +85,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |653|[Two Sums IV - Input is a BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/653_two_sum_four_input_is_a_bst.md)|
 |682|[Baseball Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/682_baseball_game.md)|
 |693|[Binary Number with Alternating Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/693_binary_number_with_alternating_bits.md)|
+|700|[Search in a Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/700_search_in_a_binary_search_tree.md)|
 |704|[Binary Search](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/704_binary_search.md)|
 |709|[To Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/709_to_lower_case.md)|
 |728|[Self Dividing Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/728_self_dividing_numbers.md)|
