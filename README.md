@@ -74,6 +74,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |414|[Third Maximum Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/414_third_maximum_number.md)|
 |415|[Add Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/415_add_strings.md)|
 |434|[Number of Segments in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/434_number_of_segments_in_a_string.md)|
+|441|[Arranging Coins](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/441_arranging_coins.md)|
 |442|[Find all Duplicates in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/442_find_all_duplicates_in_an_array.md)|
 |448|[Find All Numbers Disappeared in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/448_find_all_numbers_disappeared_in_an_array.md)|
 |451|[Sort Characters by Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/451_sort_characters_by_frequency.md)|
