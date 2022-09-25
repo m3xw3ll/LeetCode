@@ -66,6 +66,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |350|[Intersection of Two Arrays II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/350_intersection_of_two_arrays_2.md)|
 |371|[Sum of Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/371_sum_of_two_integers.md)|
 |374|[Guess Number Higher or Lower](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/374_guess_number_higher_or_lower.md)|
+|383|[Ransom Note](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/383_ransom_note.md)|
 |387|[First Unique Character in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/387_first_unique_character_in_a_string.md)|
 |389|[Find the Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/389_find_the_difference.md)|
 |405|[Convert a Number to Hexadecimal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/405_convert_a_number_to_hexadecimal.md)|
