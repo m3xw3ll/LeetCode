@@ -185,6 +185,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2215|[Find the Difference of Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2215_find_the_difference_of_two_arrays.md)|
 |2235|[Add Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2235_add_two_integers.md)|
 |2239|[Find Closest Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2239_find_closest_number_to_zero.md)|
+|2255|[Count Prefixes of a Given String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2255_count_prefixes_of_a_given_string.md)|
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2283_check_if_number_has_equal_digit_count_and_digit_value.md)|
 |2299|[Strong Password Checker II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2299_strong_password_checker_2.md)|
