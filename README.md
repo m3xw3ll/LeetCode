@@ -170,6 +170,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2089|[Find Target Indices After Sorting Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2089_find_target_indices_after_sorting_array.md)|
 |2095|[Delete the Middle Node of a Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2095_delete_the_middle_node_of_a_linked_list.md)|
 |2114|[Maximum Number of Words Found in Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2114_maximum_number_of_words_found_in_sentences.md)|
+|2119|[A Number After a Double Reversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2119_a_number_after_a_double_reversal.md)|
 |2124|[Check if All As Appears Before All Bs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2124_check_if_all_a_appears_before_all_b.md)|
 |2129|[Capitalize the Title](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2129_capitalize_the_title.md)|
 |2154|[Keep Multiplying Found Vales by Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2154_keep_multiplying_found_values_by_two.md)|
