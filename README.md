@@ -82,6 +82,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |482|[License Key Formatting](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/482_license_key_formatting.md)|
 |500|[Keyboard Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/500_keyboard_row.md)|
 |504|[Base 7](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/504_base_7.md)|
+|506|[Relative Ranks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/506_relative_ranks.md)|
 |509|[Fibonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/509_fibonacci_number.md)|
 |557|[Reverse Words in a String III](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/557_reverse_words_in_a_string_3.md)|
 |575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
