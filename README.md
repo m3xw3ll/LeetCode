@@ -136,6 +136,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
 |1431|[Kids With the Greatest Number of Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1431_kids_with_the_greatest_number_of_candies.md)|
 |1432|[Number of Steps to Reduce a Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1432_number_of_steps_to_reduce_a_number_to_zero.md)|
+|1436|[Destination City](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1436_destination_city.md)|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.md)|
 |1464|[Maximum Product of Two Elements in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1464_maximum_product_of_two_elements_in_an_array.md)|
 |1470|[Shuffle the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1470_shuffle_the_array.md)|
