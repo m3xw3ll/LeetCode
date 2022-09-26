@@ -151,6 +151,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1523|[Count Odd Numbers in an Interval Range](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1523_count_odd_number_in_an_interval_range.md)|
 |1528|[Shuffle String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1528_shuffle_string.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
+|1561|[Maximum Number of Coins You Can Get](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1561_maximum_number_of_coins_you_can_get.md)|
 |1603|[Design Parking System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1603_design_parking_system.md)|
 |1619|[Mean of Array After Removing Some Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/mean_of_array_after_removing_some_elements.md)|
 |1636|[Sort Array by Increasing Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1636_sort_array_by_increasing_frequency.md)|
