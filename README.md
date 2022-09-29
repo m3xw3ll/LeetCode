@@ -169,6 +169,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1773|[Count Items Matching a Rule](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1773_count_items_matching_a_rule.md)|
 |1791|[Find Center of Star Graph](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1791_find_center_of_star_graph.md)|
+|1805|[Number of Different Integers in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1805_number_of_different_integers_in_a_string.md)|
 |1812|[Determine Color of a Chessboard Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1812_determine_color_of_a_chessboard_square.md)|
 |1816|[Truncate Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1816_truncate_sentence.md)|
 |1822|[Sign of the Product of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1822_sign_of_the_product_of_an_array.md)|
