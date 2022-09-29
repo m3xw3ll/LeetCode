@@ -54,6 +54,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |231|[Power of Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/231_power_of_two.md)|
 |242|[Valid Anagram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/242_valid_anagram.md)|
 |258|[Add Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/258_add_digits.md)|
+|260|[Single Number 3](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/260_single_number_3.md)|
 |263|[Ugly Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/263_ugly_number.md)|
 |268|[Missing Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/268_missing_number.md)|
 |278|[First Bad Version](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/278_first_bad_version.md)|
