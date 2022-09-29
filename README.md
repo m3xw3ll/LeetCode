@@ -203,6 +203,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2283_check_if_number_has_equal_digit_count_and_digit_value.md)|
 |2299|[Strong Password Checker II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2299_strong_password_checker_2.md)|
+|2315|[Count Asterisks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2315_count_asterisks.md)|
 |2347|[Best Poker Hand](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2347_best_poker_hand.md)|
 |2351|[First Letter to Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2351_first_letter_to_appear_twice.md)|
 |2357|[Make Array Zero By Subtracting Equal Amounts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2357_make_array_zero_by_substracting_equal_amounts.md)|
