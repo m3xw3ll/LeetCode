@@ -178,6 +178,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1832|[Check if Sentence is Pangram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1832_check_if_sentence_is_pangram.md)|
 |1844|[Replace All Digits with Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1844_replace_all_digits_with_characters.md)|
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
+|1903|[Largest Odd Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1903_largest_odd_number_in_string.md)|
 |1913|[Maximum Product Difference Between Two Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1913_maximum_product_difference_between_two_pairs.md)|
 |1929|[Concatenation of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1929_concatenation_of_array.md)|
 |1935|[Maximum Number of Words You Can Type](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1935_maximum_number_of_words_you_can_type.md)|
