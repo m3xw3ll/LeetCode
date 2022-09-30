@@ -187,6 +187,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1979|[Find Greatest Common Divisor of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1979_find_greatest_common_divisor_of_array.md)|
 |1991|[Find the Middle Index in Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1991_find_the_middle_index_in_array.md)|
 |2000|[Reverse Prefix of Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2000_reverse_prefix_of_word.md)|
+|2006|[Count Number of Pairs With Absolute Difference K](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2006_count_number_of_pairs_with_absolute_difference_k.md)|
 |2011|[Final Value of Variable After Performing Operations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2011_final_value_of_variable_after_performing_operations.md)|
 |2032|[Two Out of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2032_two_out_of_three.md)|
 |2047|[Number of Valid Words in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2047_number_of_valid_words_in_a_sentence.md)|
