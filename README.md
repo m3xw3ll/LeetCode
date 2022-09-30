@@ -217,7 +217,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2347|[Best Poker Hand](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2347_best_poker_hand.md)|
 |2351|[First Letter to Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2351_first_letter_to_appear_twice.md)|
 |2357|[Make Array Zero By Subtracting Equal Amounts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2357_make_array_zero_by_substracting_equal_amounts.md)|
-|2367|[Number of Arithmetic Triplets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md)|
+|2367|[Number of Arithmetic Triplets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md)||
 |2390|[Remove Stars From a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2390_removing_stars_from_a_string.md)|
 |2396|[Strictly Palindromic Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2396_strictly_palindromic_number.md)|
 |2413|[Smallest Even Multiple](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2413_smallest_even_multiple.md)|
@@ -259,3 +259,5 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1890|[The Latest Login in 202](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1890_the_latest_login_in_2020.md)|
 |1965|[Employee With Missing Information](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1965_employees_with_missing_information.md)|
 
+
+[]: https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md
