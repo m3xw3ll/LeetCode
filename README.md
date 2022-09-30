@@ -207,6 +207,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2185|[Counting Words With a Given Prefix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2185_counting_words_with_a_given_prefix.md)|
 |2206|[Divide Array Into Equal Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2206_divide_array_into_equal_pairs.md)|
 |2215|[Find the Difference of Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2215_find_the_difference_of_two_arrays.md)|
+|2220|[Minimum Bit Flips to Convert Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2220_minimum_bit_flips_to_convert_number.md)|
 |2235|[Add Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2235_add_two_integers.md)|
 |2239|[Find Closest Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2239_find_closest_number_to_zero.md)|
 |2255|[Count Prefixes of a Given String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2255_count_prefixes_of_a_given_string.md)|
