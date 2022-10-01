@@ -109,6 +109,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |771|[Jewels and Stones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/771_jewels_and_stones.md)|
 |796|[Rotate String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/796_rotate_string.md)|
 |804|[Unique Morse Code Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/804_unique_morse_code_words.md)|
+|806|[Number of Lines To Write String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/806_number_of_lines_to_write_string.md)|
 |819|[Most Common Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/819_most_common_word.md)|
 |824|[Goat Latin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/824_goat_latin.md)|
 |844|[Backspace String Compare](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/844_backspace_string_compare.md)|
