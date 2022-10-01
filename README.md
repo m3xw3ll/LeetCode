@@ -86,6 +86,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |461|[Hamming Distance](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/461_hamming_distance.md)|
 |476|[Number Complement](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/476_number_complement.md)|
 |482|[License Key Formatting](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/482_license_key_formatting.md)|
+|485|[Max Consecutive Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/485_max_consecutive_ones.md)|
 |500|[Keyboard Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/500_keyboard_row.md)|
 |504|[Base 7](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/504_base_7.md)|
 |506|[Relative Ranks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/506_relative_ranks.md)|
