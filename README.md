@@ -224,6 +224,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2224|[Minimum Number of Operations to Convert Time](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2224_minimum_number_of_operations_to_convert_time.md)|
 |2235|[Add Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2235_add_two_integers.md)|
 |2239|[Find Closest Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2239_find_closest_number_to_zero.md)|
+|2243|[Calculate Digit Sum of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2243_calculate_digit_sum_of_a_string.md)|
 |2255|[Count Prefixes of a Given String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2255_count_prefixes_of_a_given_string.md)|
 |2264|[Largest 3-Same-Digit Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2264_largest_three_same_digit_number_in_string.md)|
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
