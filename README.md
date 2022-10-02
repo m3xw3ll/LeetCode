@@ -234,6 +234,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2396|[Strictly Palindromic Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2396_strictly_palindromic_number.md)|
 |2413|[Smallest Even Multiple](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2413_smallest_even_multiple.md)|
 |2418|[Sort the People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2418_sort_the_people.md)|
+|2427|[Number of Common Factors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2427_number_of_common_factors.md)|
 
 
 ### Databases
