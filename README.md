@@ -36,6 +36,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |69|[Sqrt(x)](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/69_sqrtx.md)|
 |83|[Remove Duplicates from Sorted List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/83_remove_duplicates_from_sorted_list.md)|
 |94|[Binary Tree Inorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/94_binary_tree_inorder_traversal.md)|
+|100|[Same Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/100_same_tree.md)|
 |112|[Path Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/112_path_sum.md)|
 |125|[Valid Palindrome](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/125_valid_palindrome.md)|
 |136|[Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/136_single_number.md)|
