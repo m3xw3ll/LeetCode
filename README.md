@@ -52,6 +52,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |190|[Reverse Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/190_reverse_bits.md)|
 |191|[Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/191_number_of_1_bit.md)|
 |201|[Bitwise AND of Numbers Range](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/201_bitwise_and_of_number_range.md)|
+|202|[Happy Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/202_happy_number.md)|
 |203|[Remove Linked List Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/203_remove_linked_list_elements.md)|
 |204|[Count Primes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/204_count_primes.md)|
 |206|[Reverse Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/206_reverse_linked_list.md)|
