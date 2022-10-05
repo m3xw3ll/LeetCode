@@ -215,6 +215,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2022|[Convert 1D Array Into 2D Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2022_convert_1d_array_into_2d_array.md)|
 |2023|[Minimum Number of Moves to Seat Everyone](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2023_minimum_number_of_moves_to_seat_everyone.md)|
 |2032|[Two Out of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2032_two_out_of_three.md)|
+|2042|[Check if Numbers Are Ascending in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2042_check_if_numbers_are_ascending_in_a_sentence.md)|
 |2047|[Number of Valid Words in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2047_number_of_valid_words_in_a_sentence.md)|
 |2053|[Kth Distinct String in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2053_kth_distinct_string_in_an_array.md)|
 |2057|[Smallest Index With Equal Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2057_smallest_index_with_equal_value.md)|
