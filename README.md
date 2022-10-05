@@ -172,6 +172,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1512|[Number of Good Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1512_number_of_good_pairs.md)|
 |1523|[Count Odd Numbers in an Interval Range](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1523_count_odd_number_in_an_interval_range.md)|
 |1528|[Shuffle String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1528_shuffle_string.md)|
+|1544|[Make The String Great](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1544_make_the_string_great.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
 |1561|[Maximum Number of Coins You Can Get](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1561_maximum_number_of_coins_you_can_get.md)|
 |1592|[Rearrange Spaces Between Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1592_rearrange_spaces_between_words.md)|
