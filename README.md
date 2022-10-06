@@ -28,6 +28,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |19|[Remove Nth Node From End of List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/19_remove_nth_node_from_end_of_list.md)|
 |26|[Remove Duplicates From Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/26_remove_duplicates_from_sorted_array.md)|
 |28|[Implement strStr](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/28_implement_strStr.md)|
+|34|[Find First and Last Position of Element in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/34_find_first_and_last_position_of_element_in_sorted_array.md)|
 |35|[Search Insert Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/35_search_insert_position.md)|
 |46|[Permutations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/46_permutations.md)|
 |49|[Group Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/49_group_anagrams.md)|
