@@ -254,6 +254,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2367|[Number of Arithmetic Triplets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md)||
 |2390|[Remove Stars From a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2390_removing_stars_from_a_string.md)|
 |2396|[Strictly Palindromic Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2396_strictly_palindromic_number.md)|
+|2409|[Count Days Spent Together](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2409_count_days_spent_together.md)|
 |2413|[Smallest Even Multiple](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2413_smallest_even_multiple.md)|
 |2418|[Sort the People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2418_sort_the_people.md)|
 |2423|[Remove Letter To Equalize Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2423_remove_letter_to_equalize_frequency.md)|
