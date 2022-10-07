@@ -131,6 +131,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |884|[Uncommon Words from Two Sentences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/884_uncommon_words_from_two_sentences.md)|
 |896|[Monotonic Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/896_monotonic_array.md)|
 |905|[Sort Array By Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/905_sort_array_by_parity.md)|
+|912|[Sort an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/912_sort_an_array.md)|
 |917|[Reverse Only Letters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/917_reverse_only_letters.md)|
 |938|[Range Sum of BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/938_range_sum_of_bst.md)|
 |946|[Validate Stack Sequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/946_validate_stack_sequences.md)|
