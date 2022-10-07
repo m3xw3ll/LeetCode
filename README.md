@@ -72,6 +72,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |287|[Find the Duplicate Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/287_find_the_duplicate_number.md)|
 |326|[Power of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/326_power_of_three.md)|
 |338|[Counting Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/338_counting_bits.md)|
+|342|[Power of Four](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/342_power_of_four.md)|
 |344|[Reverse String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/344_reverse_string.md)|
 |345|[Reverse Vowels of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/345_reverse_vowels_of_a_string.md)|
 |347|[Top K Frequent Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/347_top_k_frequent_elements.md)|
