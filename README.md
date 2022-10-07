@@ -157,6 +157,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1323|[Maximum 69 Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1323_maximum_69_number.md)|
 |1332|[Remove Palindromic Subsequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1332_remove_palindromic_subsequences.md)|
 |1346|[Check if N and its Double Exists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1346_check_if_n_and_its_double_exits.md)|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1351_count_negative_numbers_in_a_matrix.md)|
 |1356|[Sort Integers by The Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1356_sort_integers_by_the_number_of_one_bits.md)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1365_how_many_numbers_are_smaller_than_the_current_number.md)|
 |1374|[Generate a String With Characters That Have Odd Counts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1374_generate_a_string_with_characters_that_have_odd_counts.md)|
