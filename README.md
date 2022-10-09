@@ -213,6 +213,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1935|[Maximum Number of Words You Can Type](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1935_maximum_number_of_words_you_can_type.md)|
 |1941|[Check if All Characters have Equal Numnber of Occurrences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1941_check_if_all_characters_have_equal_number_of_occurrences.md)|
 |1952|[Three Divisors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1952_three_divisors.md)|
+|1961|[Check If String Is a Prefix of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1961_check_if_string_is_a_prefix_of_array.md)|
 |1967|[Number of Strings That Appear as Substrings in Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1967_number_of_strings_that_appear_as_substrings_in_word.md)|
 |1974|[Minimum Time to Type Word Using Special Typewriter](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1974_minimum_time_to_type_word_using_special_typewriter.md)|
 |1979|[Find Greatest Common Divisor of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1979_find_greatest_common_divisor_of_array.md)|
