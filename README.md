@@ -196,6 +196,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1704|[Determine if String Halves are Alike](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1704_determine_if_string_halves_are_alike.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1773|[Count Items Matching a Rule](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1773_count_items_matching_a_rule.md)|
+|1790|[Check if One String Swap Can Make Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1790_check_if_one_string_swap_can_make_strings_equal.md)|
 |1791|[Find Center of Star Graph](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1791_find_center_of_star_graph.md)|
 |1796|[Second Largest Digit in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1796_second_largest_digit_in_string.md)|
 |1805|[Number of Different Integers in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1805_number_of_different_integers_in_a_string.md)|
