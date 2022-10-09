@@ -229,6 +229,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2047|[Number of Valid Words in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2047_number_of_valid_words_in_a_sentence.md)|
 |2053|[Kth Distinct String in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2053_kth_distinct_string_in_an_array.md)|
 |2057|[Smallest Index With Equal Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2057_smallest_index_with_equal_value.md)|
+|2068|[Check Whether Two Strings are Almost Equivalent](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2068_check_whether_two_strings_are_almost_equivalent.md)|
 |2085|[Count Common Words With One Occurence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2085_count_common_words_with_one_occurence.md)|
 |2089|[Find Target Indices After Sorting Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2089_find_target_indices_after_sorting_array.md)|
 |2095|[Delete the Middle Node of a Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2095_delete_the_middle_node_of_a_linked_list.md)|
