@@ -245,6 +245,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2119|[A Number After a Double Reversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2119_a_number_after_a_double_reversal.md)|
 |2124|[Check if All As Appears Before All Bs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2124_check_if_all_a_appears_before_all_b.md)|
 |2129|[Capitalize the Title](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2129_capitalize_the_title.md)|
+|2148|[Count Elements With Strictly Smaller and Greater Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2148_count_elements_with_strictly_smaller_and_greater_elements.md)|
 |2150|[Find All Lonely Numbers in the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2150_find_all_the_lonely_numbers_in_the_array.md)|
 |2154|[Keep Multiplying Found Vales by Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2154_keep_multiplying_found_values_by_two.md)|
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2160_minimum_sum_of_four_digit_number_after_splitting_digits.md)|
