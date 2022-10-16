@@ -199,6 +199,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1684|[Count the Number of Consistent Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1684_count_the_number_of_consistent_strings.md)|
 |1689|[Partitioning Into Minimum Number of Deci-Binary Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1689_partitioning_into_minimum_number_of_deci_binary_numbers.md)|
 |1704|[Determine if String Halves are Alike](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1704_determine_if_string_halves_are_alike.md)|
+|1732|[Find the Highest Altitude](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1732_find_the_highest_altitude.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1768|[Merge Strings Alternately](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1768_merge_strings_alternately.md)|
 |1773|[Count Items Matching a Rule](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1773_count_items_matching_a_rule.md)|
