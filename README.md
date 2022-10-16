@@ -213,6 +213,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1837|[Sum of Digits in Base K](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1837_sum_of_digits_in_base_k.md)|
 |1844|[Replace All Digits with Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1844_replace_all_digits_with_characters.md)|
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
+|1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
 |1903|[Largest Odd Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1903_largest_odd_number_in_string.md)|
 |1913|[Maximum Product Difference Between Two Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1913_maximum_product_difference_between_two_pairs.md)|
 |1929|[Concatenation of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1929_concatenation_of_array.md)|
