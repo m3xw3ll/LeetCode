@@ -161,6 +161,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1295|[Find Numbers with Even Number of Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1295_find_numbers_with_even_number_of_digits.md)|
 |1360|[Number of Days Between Two Dates](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1360_number_of_days_between_two_dates.md)|
 |1323|[Maximum 69 Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1323_maximum_69_number.md)|
+|1331|[Rank Transform of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1331_rank_transform_of_an_array.md)|
 |1332|[Remove Palindromic Subsequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1332_remove_palindromic_subsequences.md)|
 |1337|[The K Weakest Rows in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1337_the_k_weakest_rows_in_a_matrix.md)|
 |1346|[Check if N and its Double Exists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1346_check_if_n_and_its_double_exits.md)|
