@@ -147,6 +147,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1037|[Valid Boomerang](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1037_valid_boomerang.md)|
 |1047|[Remove All Adjacent Duplicates In String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1047_remove_all_adjacent_duplicates_in_string.md)|
 |1051|[Height Checker](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1051_height_checker.md)|
+|1089|[Duplicate Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1089_duplicate_zeros.md)|
 |1108|[Defanging an IP Address](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1108_defanging_an_ip_address.md)|
 |1154|[Day of the Year](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1154_day_of_the_year.md)|
 |1160|[Find Words That Can Be Formed by Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1160_find_words_that_can_be_formed_by_characters.md)|
