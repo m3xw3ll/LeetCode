@@ -105,6 +105,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |509|[Fibonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/509_fibonacci_number.md)|
 |520|[Detect Capital](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/520_detect_capital.md)|
 |541|[Reverse String II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/541_reverse_string_2.md)|
+|551|[Student Attendance Record I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/551_student_attendance_1.md)|
 |557|[Reverse Words in a String III](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/557_reverse_words_in_a_string_3.md)|
 |575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
 |628|[Maximum Product of Three Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/628_maximum_product_of_three_numbers.md)|
