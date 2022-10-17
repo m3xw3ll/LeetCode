@@ -287,7 +287,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2423|[Remove Letter To Equalize Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2423_remove_letter_to_equalize_frequency.md)|
 |2427|[Number of Common Factors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2427_number_of_common_factors.md)|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2441_largest_positive_integer_that_exists_with_its_negative.md)|
-
+|2442|[Count Number of Distinct Integers After Reverse Operations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2442_count_number_of_distinct_integers_after_reverse_operations.md)|
 
 ### Databases
 
