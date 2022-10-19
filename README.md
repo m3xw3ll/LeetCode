@@ -266,6 +266,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2215|[Find the Difference of Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2215_find_the_difference_of_two_arrays.md)|
 |2220|[Minimum Bit Flips to Convert Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2220_minimum_bit_flips_to_convert_number.md)|
 |2224|[Minimum Number of Operations to Convert Time](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2224_minimum_number_of_operations_to_convert_time.md)|
+|2231|[Largest Number After Digit Swaps by Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2231_largest_number_after_digit_swaps_by_parity.md)|
 |2235|[Add Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2235_add_two_integers.md)|
 |2236|[Root Equals Sum of Children](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2236_root_equals_sum_of_children.md)|
 |2239|[Find Closest Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2239_find_closest_number_to_zero.md)|
