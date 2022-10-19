@@ -162,6 +162,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1290|[Convert Binary Number in a Linked List to Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1290_convert_binary_number_in_a_linked_list_to_integer.md)|
 |1295|[Find Numbers with Even Number of Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1295_find_numbers_with_even_number_of_digits.md)|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1309_decrypt_string_from_alphabet_to_integer_mapping.md)|
+|1313|[Decompress Run-Length Encoded List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1313_decompress_run_length_encoded_list.md)|
 |1360|[Number of Days Between Two Dates](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1360_number_of_days_between_two_dates.md)|
 |1323|[Maximum 69 Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1323_maximum_69_number.md)|
 |1331|[Rank Transform of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1331_rank_transform_of_an_array.md)|
