@@ -227,6 +227,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
 |1903|[Largest Odd Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1903_largest_odd_number_in_string.md)|
 |1913|[Maximum Product Difference Between Two Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1913_maximum_product_difference_between_two_pairs.md)|
+|1925|[Count Square Sum Triples](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1925_count_square_sum_triples.md)|
 |1929|[Concatenation of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1929_concatenation_of_array.md)|
 |1935|[Maximum Number of Words You Can Type](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1935_maximum_number_of_words_you_can_type.md)|
 |1941|[Check if All Characters have Equal Numnber of Occurrences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1941_check_if_all_characters_have_equal_number_of_occurrences.md)|
