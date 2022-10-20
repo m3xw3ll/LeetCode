@@ -278,6 +278,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2264|[Largest 3-Same-Digit Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2264_largest_three_same_digit_number_in_string.md)|
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2283_check_if_number_has_equal_digit_count_and_digit_value.md)|
+|2284|[Sender With Largest Word Count](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2284_sender_with_largest_word_count.md)|
 |2299|[Strong Password Checker II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2299_strong_password_checker_2.md)|
 |2309|[Greatest English Letter in Upper and Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2309_greatest_english_letter_in_upper_and_lower_case.md)|
 |2315|[Count Asterisks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2315_count_asterisks.md)|
