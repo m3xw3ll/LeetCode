@@ -149,6 +149,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1002|[Find Common Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1002_find_common_characters.md)|
 |1009|[Complement of Base 10 Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1009_complement_of_base_10_integer.md)|
 |1037|[Valid Boomerang](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1037_valid_boomerang.md)|
+|1046|[Last Stone Weight](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1046_last_stone_weight.md)|
 |1047|[Remove All Adjacent Duplicates In String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1047_remove_all_adjacent_duplicates_in_string.md)|
 |1051|[Height Checker](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1051_height_checker.md)|
 |1089|[Duplicate Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1089_duplicate_zeros.md)|
