@@ -89,6 +89,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |386|[Lexicographical Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/386_lexicographical_numbers.md)|
 |387|[First Unique Character in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/387_first_unique_character_in_a_string.md)|
 |389|[Find the Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/389_find_the_difference.md)|
+|392|[Is Subsequence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/392_is_subsequence.md)|
 |405|[Convert a Number to Hexadecimal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/405_convert_a_number_to_hexadecimal.md)|
 |412|[Fizz Buzz](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/412_fizz_buzz.md)|
 |414|[Third Maximum Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/414_third_maximum_number.md)|
