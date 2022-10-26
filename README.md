@@ -184,6 +184,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1356|[Sort Integers by The Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1356_sort_integers_by_the_number_of_one_bits.md)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1365_how_many_numbers_are_smaller_than_the_current_number.md)|
 |1374|[Generate a String With Characters That Have Odd Counts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1374_generate_a_string_with_characters_that_have_odd_counts.md)|
+|1380|[Lucky Numbers in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1380_lucky_numbers_in_a_matrix.md)|
 |1389|[Create Target Array in the Given Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1389_create_target_array_in_the_given_order.md)|
 |1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
 |1408|[String Matching in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1408_string_matching_in_an_array.md)|
