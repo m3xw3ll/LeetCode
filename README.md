@@ -119,6 +119,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |628|[Maximum Product of Three Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/628_maximum_product_of_three_numbers.md)|
 |645|[Set Missmatch](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/645_set_missmatch.md)|
 |653|[Two Sums IV - Input is a BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/653_two_sum_four_input_is_a_bst.md)|
+|671|[Second Minimum Node in a Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/671_second_minimum_node_in_a_binary_tree.md)|
 |682|[Baseball Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/682_baseball_game.md)|
 |692|[Top K Frequent Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/692_top_k_frequent_words.md)|
 |693|[Binary Number with Alternating Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/693_binary_number_with_alternating_bits.md)|
