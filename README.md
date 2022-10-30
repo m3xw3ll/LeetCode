@@ -151,6 +151,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |922|[Sort Array By Parity II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/922_sort_array_by_parity_2.md)|
 |938|[Range Sum of BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/938_range_sum_of_bst.md)|
 |942|[DI String Match](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/942_di_string_match.md)|
+|944|[Delete Column to Make Sorted](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/944_delete_column_to_make_sorted.md)|
 |946|[Validate Stack Sequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/946_validate_stack_sequences.md)|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/961_n_repeated_element_in_size_2n_array.md)|
 |977|[Squares of a Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/977_squares_of_a_sorted_array.md)|
