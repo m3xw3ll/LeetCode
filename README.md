@@ -105,6 +105,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |476|[Number Complement](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/476_number_complement.md)|
 |482|[License Key Formatting](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/482_license_key_formatting.md)|
 |485|[Max Consecutive Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/485_max_consecutive_ones.md)|
+|492|[Construct the Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/492_construct_the_rectangle.md)|
 |496|[Next Greater Element I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/496_next_greater_element_1.md)|
 |500|[Keyboard Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/500_keyboard_row.md)|
 |504|[Base 7](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/504_base_7.md)|
