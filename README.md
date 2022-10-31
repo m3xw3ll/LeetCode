@@ -288,6 +288,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2150|[Find All Lonely Numbers in the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2150_find_all_the_lonely_numbers_in_the_array.md)|
 |2154|[Keep Multiplying Found Vales by Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2154_keep_multiplying_found_values_by_two.md)|
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2160_minimum_sum_of_four_digit_number_after_splitting_digits.md)|
+|2164|[Sort Even and Odd Indices Independently](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2164_sort_even_and_odd_indices_independently.md)|
 |2169|[Count Operations to Obtain Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2169_count_operations_to_obtain_zero.md)|
 |2176|[Count Equal and Divisible Pairs in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2176_count_equal_and_divisible_pairs_in_an_array.md)|
 |2181|[Merge Nodes in Between Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2181_merge_nodes_in_between_zeros.md)|
