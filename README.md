@@ -236,6 +236,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1672|[Richest Customer Wealth](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1672_richest_customer_wealth.md)|
 |1678|[Goal Parser Interpretation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1678_goal_parser_interpretation.md)|
 |1684|[Count the Number of Consistent Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1684_count_the_number_of_consistent_strings.md)|
+|1688|[Count of Matches in Tournament](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1688_count_of_matches_in_tournament.md)|
 |1689|[Partitioning Into Minimum Number of Deci-Binary Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1689_partitioning_into_minimum_number_of_deci_binary_numbers.md)|
 |1694|[Reformat Phone Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1694_reformat_phone_number.md)|
 |1704|[Determine if String Halves are Alike](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1704_determine_if_string_halves_are_alike.md)|
