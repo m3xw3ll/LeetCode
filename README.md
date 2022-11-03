@@ -302,6 +302,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2180|[Count Integers With Even Digit Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2180_count_integers_with_even_digit_sum.md)|
 |2181|[Merge Nodes in Between Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2181_merge_nodes_in_between_zeros.md)|
 |2185|[Counting Words With a Given Prefix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2185_counting_words_with_a_given_prefix.md)|
+|2194|[Cells in a Range on an Excel Sheet](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2194_cells_in_a_range_on_an_excel_sheet.md)|
 |2206|[Divide Array Into Equal Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2206_divide_array_into_equal_pairs.md)|
 |2215|[Find the Difference of Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2215_find_the_difference_of_two_arrays.md)|
 |2220|[Minimum Bit Flips to Convert Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2220_minimum_bit_flips_to_convert_number.md)|
