@@ -166,6 +166,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |961|[N-Repeated Element in Size 2N Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/961_n_repeated_element_in_size_2n_array.md)|
 |965|[Univalued Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/965_univalued_binary_tree.md)|
 |977|[Squares of a Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/977_squares_of_a_sorted_array.md)|
+|989|[Add to Array-Form of Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/989_add_to_array_form_of_integer.md)|
 |1002|[Find Common Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1002_find_common_characters.md)|
 |1009|[Complement of Base 10 Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1009_complement_of_base_10_integer.md)|
 |1037|[Valid Boomerang](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1037_valid_boomerang.md)|
