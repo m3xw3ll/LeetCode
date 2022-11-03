@@ -33,6 +33,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |35|[Search Insert Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/35_search_insert_position.md)|
 |41|[First Missing Positive](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/41_first_missing_positive.md)|
 |46|[Permutations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/46_permutations.md)|
+|48|[Rotate Image](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/48_rotate_image.md)|
 |49|[Group Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/49_group_anagrams.md)|
 |50|[Length of Last Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/50_length_of_last_word.md)|
 |66|[Plus One](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/66_plus_one.md)|
