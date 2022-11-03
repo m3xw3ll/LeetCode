@@ -138,6 +138,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |744|[Find Smallest Letter Greater Than Target](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/744_find_smallest_letter_greater_than_target.md)|
 |747|[Largest Number at Least Twice of Others](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/747_largest_number_at_least_twice_of_others.md)|
 |762|[Prime Number of Set Bits in Binary Representation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/762_prime_number_of_set_bits_in_binary_representation.md)|
+|766|[Toeplitz Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/766_toeplitz_matrix.md)|
 |771|[Jewels and Stones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/771_jewels_and_stones.md)|
 |796|[Rotate String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/796_rotate_string.md)|
 |804|[Unique Morse Code Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/804_unique_morse_code_words.md)|
