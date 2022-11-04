@@ -56,6 +56,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |151|[Reverse Words in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/151_reverse_words_in_a_string.md)|
 |162|[Find Peak Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/162_find_peak_element.md)|
 |169|[Majority Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/169_majority_element.md)|
+|171|[Excel Sheet Column Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/171_excel_sheet_column_number.md)|
 |172|[Factorial Trailing Zeroes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/172_factorial_trailing_zeroes.md)|
 |190|[Reverse Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/190_reverse_bits.md)|
 |191|[Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/191_number_of_1_bit.md)|
