@@ -69,6 +69,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |215|[Kth Largest Element in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/215_kth_largest_element_in_an_array.md)|
 |217|[Contains Duplicate](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/217_contains_duplicate.md)|
 |219|[Contains Duplicates II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/219_contains_duplicates_2.md)|
+|223|[Rectangle Area](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/223_rectangle_area.md)|
 |225|[Implement Stack Using Queues](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/225_implement_stack_using_queues.md)|
 |226|[Invert Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/226_invert_binary_tree.md)|
 |230|[Kth Smallest Element in a BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/230_kth_smallest_element_in_a_bst.md)|
