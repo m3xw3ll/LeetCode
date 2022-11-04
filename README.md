@@ -63,6 +63,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |202|[Happy Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/202_happy_number.md)|
 |203|[Remove Linked List Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/203_remove_linked_list_elements.md)|
 |204|[Count Primes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/204_count_primes.md)|
+|205|[Isomorphic Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/205_isomorphic_strings.md)|
 |206|[Reverse Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/206_reverse_linked_list.md)|
 |215|[Kth Largest Element in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/215_kth_largest_element_in_an_array.md)|
 |217|[Contains Duplicate](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/217_contains_duplicate.md)|
