@@ -336,6 +336,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2299|[Strong Password Checker II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2299_strong_password_checker_2.md)|
 |2309|[Greatest English Letter in Upper and Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2309_greatest_english_letter_in_upper_and_lower_case.md)|
 |2315|[Count Asterisks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2315_count_asterisks.md)|
+|2319|[Check if Matrix is X-Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2319_check_if_matrix_is_xmatrix.md)|
 |2331|[Evaluate Boolean Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2331_evaluate_boolean_binary_tree.md)|
 |2341|[Maximum Number of Pairs in Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2341_maximum_number_of_pairs_in_array.md)|
 |2347|[Best Poker Hand](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2347_best_poker_hand.md)|
