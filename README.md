@@ -231,6 +231,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1544|[Make The String Great](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1544_make_the_string_great.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
 |1561|[Maximum Number of Coins You Can Get](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1561_maximum_number_of_coins_you_can_get.md)|
+|1572|[Matrix Diagonal Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1572_matrix_diagonal_sum.md)|
 |1576|[Replace All ?´s to Avoid Consecutive Repeating Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1576_replace_all_questionmarks_to_avoid_consecutive_repeating_characters.md)|
 |1592|[Rearrange Spaces Between Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1592_rearrange_spaces_between_words.md)|
 |1603|[Design Parking System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1603_design_parking_system.md)|
