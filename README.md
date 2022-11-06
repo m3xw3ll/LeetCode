@@ -25,6 +25,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |12|[Integer to Roman](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/12_integer_to_roman.md)|
 |13|[Roman to Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/13_roman_to_integer.md)|
 |14|[Longest Common Prefix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/14_longest_common_prefix.md)|
+|18|[4Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/18_4Sum.md)|
 |19|[Remove Nth Node From End of List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/19_remove_nth_node_from_end_of_list.md)|
 |20|[Valid Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/20_valid_parentheses.md)|
 |26|[Remove Duplicates From Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/26_remove_duplicates_from_sorted_array.md)|
