@@ -254,6 +254,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1704|[Determine if String Halves are Alike](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1704_determine_if_string_halves_are_alike.md)|
 |1710|[Maximum Units on a Truck](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1710_maximum_units_on_a_truck.md)|
 |1716|[Calculate Money in Leetcode Bank](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1716_calculate_money_in_leetcode_bank.md)|
+|1720|[Decode XORed Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1720_decode_xored_array.md)|
 |1732|[Find the Highest Altitude](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1732_find_the_highest_altitude.md)|
 |1742|[Maximum Number of Balls in a Box](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1742_maximum_number_of_balls_in_a_box.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
