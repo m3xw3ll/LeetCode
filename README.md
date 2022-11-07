@@ -41,6 +41,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |66|[Plus One](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/66_plus_one.md)|
 |67|[Add Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/67_add_binary.md)|
 |69|[Sqrt(x)](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/69_sqrtx.md)|
+|70|[Climbing Stairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/70_climbing_stairs.md)|
 |73|[Set Matrix Zeroes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/73_set_matrix_zeroes.md)|
 |83|[Remove Duplicates from Sorted List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/83_remove_duplicates_from_sorted_list.md)|
 |94|[Binary Tree Inorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/94_binary_tree_inorder_traversal.md)|
