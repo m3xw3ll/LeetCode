@@ -163,6 +163,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |876|[Middle of the Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/876_middle_of_the_linked_list.md)|
 |881|[Boats to Save People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/881_boats_to_save_people.md)|
 |884|[Uncommon Words from Two Sentences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/884_uncommon_words_from_two_sentences.md)|
+|888|[Fair Candy Swap](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/888_fair_candy_swap.md)|
 |890|[Find and Replace Pattern](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/890_find_and_replace_pattern.md)|
 |896|[Monotonic Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/896_monotonic_array.md)|
 |905|[Sort Array By Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/905_sort_array_by_parity.md)|
