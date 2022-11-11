@@ -89,6 +89,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |287|[Find the Duplicate Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/287_find_the_duplicate_number.md)|
 |290|[Word Pattern](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/290_word_pattern.md)|
 |292|[Nim Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/292_nim_game.md)|
+|303|[Range Sum Query - Immutable](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/303_range_sum_query_immutable.md)|
 |326|[Power of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/326_power_of_three.md)|
 |338|[Counting Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/338_counting_bits.md)|
 |342|[Power of Four](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/342_power_of_four.md)|
