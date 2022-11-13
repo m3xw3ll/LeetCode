@@ -375,6 +375,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2446|[Determine if Two Events Have Conflict](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2446_determine_if_two_events_have_conflict.md)|
 |2455|[Average Value of Even Numbers That Are Divisible by Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2455_average_value_of_even_numbers_that_are_divisible_by_three.md)|
 |2460|[Apply Operations to an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2460_apply_operations_to_an_array.md)|
+|2465|[Number of Distinct Averages](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2465_number_of_distinct_averages.md)|
 |2469|[Convert the Temperature](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2469_convert_the_temperature.md)|
 
 ### Databases
