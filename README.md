@@ -145,6 +145,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |704|[Binary Search](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/704_binary_search.md)|
 |709|[To Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/709_to_lower_case.md)|
 |728|[Self Dividing Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/728_self_dividing_numbers.md)|
+|729|[My Calendar I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/729_my_calendar_one.md)|
 |744|[Find Smallest Letter Greater Than Target](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/744_find_smallest_letter_greater_than_target.md)|
 |747|[Largest Number at Least Twice of Others](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/747_largest_number_at_least_twice_of_others.md)|
 |762|[Prime Number of Set Bits in Binary Representation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/762_prime_number_of_set_bits_in_binary_representation.md)|
