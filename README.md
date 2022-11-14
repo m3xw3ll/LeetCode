@@ -32,6 +32,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |26|[Remove Duplicates From Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/26_remove_duplicates_from_sorted_array.md)|
 |27|[Remove Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/27_remove_element.md)|
 |28|[Implement strStr](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/28_implement_strStr.md)|
+|29|[Divide Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/29_divide_two_integers.md)|
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/34_find_first_and_last_position_of_element_in_sorted_array.md)|
 |35|[Search Insert Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/35_search_insert_position.md)|
 |41|[First Missing Positive](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/41_first_missing_positive.md)|
