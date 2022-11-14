@@ -307,6 +307,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2027|[Minimum Moves to Convert String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2027_minimum_moves_to_convert_string.md)|
 |2032|[Two Out of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2032_two_out_of_three.md)|
 |2042|[Check if Numbers Are Ascending in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2042_check_if_numbers_are_ascending_in_a_sentence.md)|
+|2043|[Simple Bank System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2043_simple_bank_system.md)|
 |2047|[Number of Valid Words in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2047_number_of_valid_words_in_a_sentence.md)|
 |2053|[Kth Distinct String in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2053_kth_distinct_string_in_an_array.md)|
 |2057|[Smallest Index With Equal Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2057_smallest_index_with_equal_value.md)|
@@ -323,7 +324,6 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2129|[Capitalize the Title](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2129_capitalize_the_title.md)|
 |2133|[Check if Every Row and Column Contains All Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2133_check_if_every_row_and_column_contains_all_numbers.md)|
 |2138|[Divide a String Into Groups of Size k](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2138_divide_a_string_into_groups_of_size_k.md)|
-|2043|[Simple Bank System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2043_simple_bank_system.md)|
 |2148|[Count Elements With Strictly Smaller and Greater Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2148_count_elements_with_strictly_smaller_and_greater_elements.md)|
 |2150|[Find All Lonely Numbers in the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2150_find_all_the_lonely_numbers_in_the_array.md)|
 |2154|[Keep Multiplying Found Vales by Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2154_keep_multiplying_found_values_by_two.md)|
@@ -352,6 +352,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2283_check_if_number_has_equal_digit_count_and_digit_value.md)|
 |2284|[Sender With Largest Word Count](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2284_sender_with_largest_word_count.md)|
+|2293|[Min Max Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2293_min_max_game.md)|
 |2299|[Strong Password Checker II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2299_strong_password_checker_2.md)|
 |2309|[Greatest English Letter in Upper and Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2309_greatest_english_letter_in_upper_and_lower_case.md)|
 |2315|[Count Asterisks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2315_count_asterisks.md)|
