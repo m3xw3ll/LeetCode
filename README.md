@@ -244,6 +244,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1534|[Count Good Triplets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1534_count_good_triplets.md)|
 |1539|[Kth Missing Positive Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1539_kth_missing_positive_number.md)|
 |1544|[Make The String Great](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1544_make_the_string_great.md)|
+|1550|[Three Consecutive Odds](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1550_three_consecutive_odds.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
 |1561|[Maximum Number of Coins You Can Get](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1561_maximum_number_of_coins_you_can_get.md)|
 |1572|[Matrix Diagonal Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1572_matrix_diagonal_sum.md)|
