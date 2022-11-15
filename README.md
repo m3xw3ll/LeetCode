@@ -135,6 +135,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |561|[Array Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/561_array_partition.md)|
 |575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
 |599|[Minimum Index Sum of Two Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/599_minimum_index_sum_of_two_lists.md)|
+|617|[Merge Two Binary Trees](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/617_merge_two_binary_trees.md)|
 |628|[Maximum Product of Three Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/628_maximum_product_of_three_numbers.md)|
 |645|[Set Missmatch](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/645_set_missmatch.md)|
 |653|[Two Sums IV - Input is a BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/653_two_sum_four_input_is_a_bst.md)|
