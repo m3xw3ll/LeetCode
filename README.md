@@ -135,6 +135,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |557|[Reverse Words in a String III](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/557_reverse_words_in_a_string_3.md)|
 |561|[Array Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/561_array_partition.md)|
 |575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
+|594|[Longest Harmonious Subsequence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/594_longest_harmonious_subsequence.md)|
 |599|[Minimum Index Sum of Two Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/599_minimum_index_sum_of_two_lists.md)|
 |605|[Can Place Flowers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/605_can_place_flowers.md)|
 |617|[Merge Two Binary Trees](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/617_merge_two_binary_trees.md)|
