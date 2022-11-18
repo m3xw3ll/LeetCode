@@ -295,6 +295,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
 |1886|[Determine Wheather Matrix Can Be Obtained By Rotation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1886_determine_wheather_matrix_can_be_obtained_by_rotation.md)|
 |1903|[Largest Odd Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1903_largest_odd_number_in_string.md)|
+|1910|[Remove All Occurrences of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1910_remove_all_occurrences_of_a_string.md)|
 |1913|[Maximum Product Difference Between Two Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1913_maximum_product_difference_between_two_pairs.md)|
 |1925|[Count Square Sum Triples](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1925_count_square_sum_triples.md)|
 |1929|[Concatenation of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1929_concatenation_of_array.md)|
