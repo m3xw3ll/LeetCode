@@ -232,6 +232,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
 |1408|[String Matching in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1408_string_matching_in_an_array.md)|
 |1410|[HTML Entity Parser](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1410_html_entity_parser.md)|
+|1422|[Maximum Score After Splitting a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1422_maximum_score_after_splitting_a_string.md)|
 |1431|[Kids With the Greatest Number of Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1431_kids_with_the_greatest_number_of_candies.md)|
 |1432|[Number of Steps to Reduce a Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1432_number_of_steps_to_reduce_a_number_to_zero.md)|
 |1436|[Destination City](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1436_destination_city.md)|
