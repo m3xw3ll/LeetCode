@@ -300,6 +300,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1929|[Concatenation of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1929_concatenation_of_array.md)|
 |1935|[Maximum Number of Words You Can Type](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1935_maximum_number_of_words_you_can_type.md)|
 |1941|[Check if All Characters have Equal Numnber of Occurrences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1941_check_if_all_characters_have_equal_number_of_occurrences.md)|
+|1945|[Sum of Digits of String After Convert](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1945_sum_of_digits_of_string_after_convert.md)|
 |1952|[Three Divisors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1952_three_divisors.md)|
 |1957|[Delete Character to Make Fancy String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1957_delete_character_to_make_fancy_string.md)|
 |1961|[Check If String Is a Prefix of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1961_check_if_string_is_a_prefix_of_array.md)|
