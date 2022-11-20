@@ -378,6 +378,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2352|[Equal Row and Column Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2352_equal_row_and_column_pairs.md)|
 |2357|[Make Array Zero By Subtracting Equal Amounts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2357_make_array_zero_by_substracting_equal_amounts.md)|
 |2367|[Number of Arithmetic Triplets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md)||
+|2373|[Largest Local Value in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2373_largest_local_value_in_a_matrix.md)|
 |2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2379_minimum_recolors_to_get_k_consecutive_black_blocks.md)|
 |2390|[Remove Stars From a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2390_removing_stars_from_a_string.md)|
 |2396|[Strictly Palindromic Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2396_strictly_palindromic_number.md)|
