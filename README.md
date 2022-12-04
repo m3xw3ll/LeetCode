@@ -153,6 +153,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |682|[Baseball Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/682_baseball_game.md)|
 |692|[Top K Frequent Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/692_top_k_frequent_words.md)|
 |693|[Binary Number with Alternating Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/693_binary_number_with_alternating_bits.md)|
+|695|[Max Area of Island](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/695_max_area_of_island.md)|
 |700|[Search in a Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/700_search_in_a_binary_search_tree.md)|
 |701|[Insert into a Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/701_insert_into_a_binary_search_tree.md)|
 |704|[Binary Search](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/704_binary_search.md)|
