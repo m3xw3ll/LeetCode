@@ -414,6 +414,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2460|[Apply Operations to an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2460_apply_operations_to_an_array.md)|
 |2465|[Number of Distinct Averages](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2465_number_of_distinct_averages.md)|
 |2469|[Convert the Temperature](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2469_convert_the_temperature.md)|
+|2485|[Find the Pivot Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2485_find_the_pivot_integer.md)|
 |2490|[Circular Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2490_circular_sentence.md)|
 
 ### Databases
