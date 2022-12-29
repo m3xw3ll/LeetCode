@@ -85,6 +85,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |223|[Rectangle Area](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/223_rectangle_area.md)|
 |225|[Implement Stack Using Queues](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/225_implement_stack_using_queues.md)|
 |226|[Invert Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/226_invert_binary_tree.md)|
+|228|[Summary Ranges](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/228_summary_ranges.md)|
 |230|[Kth Smallest Element in a BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/230_kth_smallest_element_in_a_bst.md)|
 |231|[Power of Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/231_power_of_two.md)|
 |242|[Valid Anagram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/242_valid_anagram.md)|
