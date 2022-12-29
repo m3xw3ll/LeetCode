@@ -50,6 +50,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |73|[Set Matrix Zeroes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/73_set_matrix_zeroes.md)|
 |78|[Subsets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/78_subsets.md)|
 |83|[Remove Duplicates from Sorted List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/83_remove_duplicates_from_sorted_list.md)|
+|88|[Merge Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/88_merge_sorted_array.md)|
 |94|[Binary Tree Inorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/94_binary_tree_inorder_traversal.md)|
 |100|[Same Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/100_same_tree.md)|
 |104|[Maximum Depth of Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/104_maximum_depth_of_binary_tree.md)|
