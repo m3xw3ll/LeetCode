@@ -176,6 +176,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |832|[Flipping an Image](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/832_flipping_an_image.md)|
 |836|[Rectangle Overlap](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/836_rectangle_overlap.md)|
 |844|[Backspace String Compare](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/844_backspace_string_compare.md)|
+|859|[Buddy Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/859_buddy_strings.md)|
 |867|[Transpose Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/867_transpose_matrix.md)|
 |876|[Middle of the Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/876_middle_of_the_linked_list.md)|
 |881|[Boats to Save People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/881_boats_to_save_people.md)|
