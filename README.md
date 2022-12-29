@@ -419,6 +419,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2490|[Circular Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2490_circular_sentence.md)|
 |2496|[Maximum Value of a String in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2496_maximum_value_of_a_string_in_an_array.md)|
 |2500|[Delete Greatest Value in Each Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2500_delete_greatest_value_in_each_row.md)|
+|2506|[Count Pairs of Similar Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2506_count_pairs_of_similar_strings.md)|
 
 ### Databases
 
