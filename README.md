@@ -49,6 +49,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |70|[Climbing Stairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/70_climbing_stairs.md)|
 |73|[Set Matrix Zeroes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/73_set_matrix_zeroes.md)|
 |78|[Subsets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/78_subsets.md)|
+|79|[Word Search](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/79_word_search.md)|
 |83|[Remove Duplicates from Sorted List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/83_remove_duplicates_from_sorted_list.md)|
 |88|[Merge Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/88_merge_sorted_array.md)|
 |94|[Binary Tree Inorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/94_binary_tree_inorder_traversal.md)|
