@@ -123,6 +123,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |412|[Fizz Buzz](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/412_fizz_buzz.md)|
 |414|[Third Maximum Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/414_third_maximum_number.md)|
 |415|[Add Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/415_add_strings.md)|
+|419|[Battleship in a Board](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/419_battleship_in_a_board.md)|
 |434|[Number of Segments in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/434_number_of_segments_in_a_string.md)|
 |441|[Arranging Coins](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/441_arranging_coins.md)|
 |442|[Find all Duplicates in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/442_find_all_duplicates_in_an_array.md)|
