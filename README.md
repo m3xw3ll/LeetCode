@@ -407,6 +407,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2373|[Largest Local Value in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2373_largest_local_value_in_a_matrix.md)|
 |2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2379_minimum_recolors_to_get_k_consecutive_black_blocks.md)|
 |2390|[Remove Stars From a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2390_removing_stars_from_a_string.md)|
+|2395|[Find Subarrays With Equal Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2395_find_subarrays_with_equal_sum.md)|
 |2396|[Strictly Palindromic Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2396_strictly_palindromic_number.md)|
 |2399|[Check Distances Between Same Letters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2399_check_distances_between_same_letters.md)|
 |2404|[Most Frequent Even Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2404_most_frequent_even_element.md)|
