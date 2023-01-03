@@ -31,6 +31,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |18|[4Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/18_4Sum.md)|
 |19|[Remove Nth Node From End of List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/19_remove_nth_node_from_end_of_list.md)|
 |20|[Valid Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/20_valid_parentheses.md)|
+|21|[Merge Two Sorted Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/21_merge_two_sorted_lists.md)|
 |22|[Generate Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/22_generate_parentheses.md)|
 |26|[Remove Duplicates From Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/26_remove_duplicates_from_sorted_array.md)|
 |27|[Remove Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/27_remove_element.md)|
