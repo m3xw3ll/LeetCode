@@ -300,6 +300,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1768|[Merge Strings Alternately](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1768_merge_strings_alternately.md)|
 |1773|[Count Items Matching a Rule](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1773_count_items_matching_a_rule.md)|
+|1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.md)|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1784_check_if_binary_string_has_at_most_one_segment_of_ones.md)|
 |1790|[Check if One String Swap Can Make Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1790_check_if_one_string_swap_can_make_strings_equal.md)|
 |1791|[Find Center of Star Graph](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1791_find_center_of_star_graph.md)|
