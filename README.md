@@ -410,6 +410,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2396|[Strictly Palindromic Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2396_strictly_palindromic_number.md)|
 |2399|[Check Distances Between Same Letters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2399_check_distances_between_same_letters.md)|
 |2404|[Most Frequent Even Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2404_most_frequent_even_element.md)|
+|2405|[Optimal Partition of String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2405_optimal_partition_of_string.md)|
 |2409|[Count Days Spent Together](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2409_count_days_spent_together.md)|
 |2413|[Smallest Even Multiple](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2413_smallest_even_multiple.md)|
 |2418|[Sort the People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2418_sort_the_people.md)|
