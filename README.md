@@ -313,6 +313,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1832|[Check if Sentence is Pangram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1832_check_if_sentence_is_pangram.md)|
 |1837|[Sum of Digits in Base K](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1837_sum_of_digits_in_base_k.md)|
 |1844|[Replace All Digits with Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1844_replace_all_digits_with_characters.md)|
+|1845|[Seat Reservation Manager](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1845_seat_reservation_manager.md)|
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
 |1869|[1869_longer_contiguous_segments_of_ones_than_zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1869_longer_contiguous_segments_of_ones_than_zeros.md)|
 |1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
