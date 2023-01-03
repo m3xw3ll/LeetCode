@@ -113,6 +113,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |371|[Sum of Two Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/371_sum_of_two_integers.md)|
 |374|[Guess Number Higher or Lower](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/374_guess_number_higher_or_lower.md)|
 |383|[Ransom Note](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/383_ransom_note.md)|
+|384|[Shuffle an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/384_shuffle_an_array.md)|
 |386|[Lexicographical Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/386_lexicographical_numbers.md)|
 |387|[First Unique Character in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/387_first_unique_character_in_a_string.md)|
 |389|[Find the Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/389_find_the_difference.md)|
