@@ -300,6 +300,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1716|[Calculate Money in Leetcode Bank](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1716_calculate_money_in_leetcode_bank.md)|
 |1720|[Decode XORed Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1720_decode_xored_array.md)|
 |1732|[Find the Highest Altitude](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1732_find_the_highest_altitude.md)|
+|1736|[Latest Time by Replacing Hidden Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1736_latest_time_by_replacing_hidding_digits.md)|
 |1742|[Maximum Number of Balls in a Box](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1742_maximum_number_of_balls_in_a_box.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1768|[Merge Strings Alternately](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1768_merge_strings_alternately.md)|
