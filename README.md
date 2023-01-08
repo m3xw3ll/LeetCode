@@ -440,6 +440,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2500|[Delete Greatest Value in Each Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2500_delete_greatest_value_in_each_row.md)|
 |2506|[Count Pairs of Similar Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2506_count_pairs_of_similar_strings.md)|
 |2520|[Count the Digits That Divide a Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2520_count_the_digits_that_divide_a_number.md)|
+|2529|[Maximum Count of Positive Integer and Negative Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2529_maximum_count_of_positive_integer_and_negative_integer.md)|
 
 ### Databases
 
