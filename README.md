@@ -195,6 +195,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |905|[Sort Array By Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/905_sort_array_by_parity.md)|
 |912|[Sort an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/912_sort_an_array.md)|
 |917|[Reverse Only Letters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/917_reverse_only_letters.md)|
+|921|[Minimum Add to Make Parentheses Valid](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/921_minimum_add_to_make_parentheses_valid.md)|
 |922|[Sort Array By Parity II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/922_sort_array_by_parity_2.md)|
 |925|[Long Pressed Name](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/925_long_pressed_name.md)|
 |929|[Unique Email Addresses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/929_unique_email_addresses.md)|
