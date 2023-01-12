@@ -72,6 +72,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |171|[Excel Sheet Column Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/171_excel_sheet_column_number.md)|
 |172|[Factorial Trailing Zeroes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/172_factorial_trailing_zeroes.md)|
 |187|[Repeated DNA Sequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/187_repeated_dna_sequences.md)|
+|189|[Rotate Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/189_rotate_array.md)|
 |190|[Reverse Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/190_reverse_bits.md)|
 |191|[Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/191_number_of_1_bit.md)|
 |200|[Number of Islands](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/200_number_of_islands.md)|
