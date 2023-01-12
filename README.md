@@ -288,6 +288,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1619|[Mean of Array After Removing Some Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/mean_of_array_after_removing_some_elements.md)|
 |1629|[Slowest Key](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1629_slowest_key.md)|
 |1636|[Sort Array by Increasing Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1636_sort_array_by_increasing_frequency.md)|
+|1637|[Widest Vertical Area Between Two Points Containing No Points](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1637_widest_vertical_area_between_two_points_containing_no_points.md)|
 |1647|[Minimum Deletions to Make Character Frequencies Unique](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1647_minimum_deletions_to_make_character_frequencies_unique.md)|
 |1662|[Check If Two String Arrays are Equivalent](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1662_check_if_two_string_arrays_are_equivalent.md)|
 |1672|[Richest Customer Wealth](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1672_richest_customer_wealth.md)|
