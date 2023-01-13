@@ -227,6 +227,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1184|[Distance Between Bus Stops](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1184_distance_between_bus_stops.md)|
 |1185|[Day of the Week](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1185_day_of_the_week.md)|
 |1189|[Maximum Number of Balloons](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1189_maximum_number_of_balloons.md)|
+|1200|[Minimum Absolute Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1200_minimum_absolute_difference.md)|
 |1207|[Unique Number of Occurrences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1207_unique_number_of_occurrences.md)|
 |1217|[Minimum Costs to Move Chips to The Same Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1217_minimum_cost_to_move_chips_to_the_same_position.md)|
 |1221|[Split a String in Balanced Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1221_split_a_string_in_balanced_strings.md)|
