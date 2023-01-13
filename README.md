@@ -207,6 +207,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |946|[Validate Stack Sequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/946_validate_stack_sequences.md)|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/961_n_repeated_element_in_size_2n_array.md)|
 |965|[Univalued Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/965_univalued_binary_tree.md)|
+|976|[Largest Perimeter Triangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/976_largest_perimeter_triangle.md)|
 |977|[Squares of a Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/977_squares_of_a_sorted_array.md)|
 |989|[Add to Array-Form of Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/989_add_to_array_form_of_integer.md)|
 |997|[Find the Town Judge](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/997_find_the_town_judge.md)|
