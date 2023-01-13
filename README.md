@@ -327,6 +327,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1844|[Replace All Digits with Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1844_replace_all_digits_with_characters.md)|
 |1845|[Seat Reservation Manager](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1845_seat_reservation_manager.md)|
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
+|1860|[Incremental Memory Leak](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1860_incremental_memory_leak.md)|
 |1869|[1869_longer_contiguous_segments_of_ones_than_zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1869_longer_contiguous_segments_of_ones_than_zeros.md)|
 |1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
 |1886|[Determine Wheather Matrix Can Be Obtained By Rotation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1886_determine_wheather_matrix_can_be_obtained_by_rotation.md)|
