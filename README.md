@@ -451,6 +451,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2496|[Maximum Value of a String in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2496_maximum_value_of_a_string_in_an_array.md)|
 |2500|[Delete Greatest Value in Each Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2500_delete_greatest_value_in_each_row.md)|
 |2506|[Count Pairs of Similar Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2506_count_pairs_of_similar_strings.md)|
+|2515|[Shortest Distance to Target String in a Circular Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2515_shortest_distance_to_target_string_in_a_circular_array.md)|
 |2520|[Count the Digits That Divide a Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2520_count_the_digits_that_divide_a_number.md)|
 |2525|[Categorize Box According to Criteria](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2525_categorize_box_according_to_criteria.md)|
 |2529|[Maximum Count of Positive Integer and Negative Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2529_maximum_count_of_positive_integer_and_negative_integer.md)|
