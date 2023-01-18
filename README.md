@@ -268,6 +268,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1436|[Destination City](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1436_destination_city.md)|
 |1446|[Consecutive Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1446_consecutive_characters.md)|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.md)|
+|1460|[Make Two Arrays Equal by Reversing Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1460_make_two_arrays_equal_by_reversing_subarrays.md)|
 |1464|[Maximum Product of Two Elements in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1464_maximum_product_of_two_elements_in_an_array.md)|
 |1470|[Shuffle the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1470_shuffle_the_array.md)|
 |1476|[Subrectangle Queries](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1476_subrectangle_queries.md)|
