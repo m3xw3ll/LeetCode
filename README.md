@@ -104,6 +104,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |292|[Nim Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/292_nim_game.md)|
 |295|[Find Median from Data Stream](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/295_find_median_from_data_stream.md)|
 |303|[Range Sum Query - Immutable](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/303_range_sum_query_immutable.md)|
+|319|[Bulb Switcher](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/319_bulb_switcher.md)|
 |326|[Power of Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/326_power_of_three.md)|
 |338|[Counting Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/338_counting_bits.md)|
 |342|[Power of Four](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/342_power_of_four.md)|
