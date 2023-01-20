@@ -32,7 +32,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |19|[Remove Nth Node From End of List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/19_remove_nth_node_from_end_of_list.md)|
 |20|[Valid Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/20_valid_parentheses.md)|
 |21|[Merge Two Sorted Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/21_merge_two_sorted_lists.md)|
-|22|[Generate Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/22_generate_parentheses.md)|
+|22|[Generate Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/22_generate_garentheses.md)|
 |26|[Remove Duplicates From Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/26_remove_duplicates_from_sorted_array.md)|
 |27|[Remove Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/27_remove_element.md)|
 |28|[Implement strStr](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/28_implement_strStr.md)|
@@ -497,6 +497,3 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1872|[Calculate Special Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1873_calculate_special_bonus.md)|
 |1890|[The Latest Login in 202](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1890_the_latest_login_in_2020.md)|
 |1965|[Employee With Missing Information](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1965_employees_with_missing_information.md)|
-
-
-[]: https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md
