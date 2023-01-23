@@ -466,6 +466,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2525|[Categorize Box According to Criteria](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2525_categorize_box_according_to_criteria.md)|
 |2529|[Maximum Count of Positive Integer and Negative Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2529_maximum_count_of_positive_integer_and_negative_integer.md)|
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2535_difference_between_element_sum_and_digit_sum_of_an_array.md)|
+|2540|[Minimum Common Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2540_minimum_common_value.md)|
 |2544|[Alternating Digit Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2544_alternating_digit_sum.md)|
 
 ### Databases
