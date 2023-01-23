@@ -142,6 +142,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |492|[Construct the Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/492_construct_the_rectangle.md)|
 |496|[Next Greater Element I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/496_next_greater_element_1.md)|
 |500|[Keyboard Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/500_keyboard_row.md)|
+|501|[Find Mode in Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/501_find_mode_in_binary_search_tree.md)|
 |504|[Base 7](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/504_base_7.md)|
 |506|[Relative Ranks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/506_relative_ranks.md)|
 |509|[Fibonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/509_fibonacci_number.md)|
