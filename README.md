@@ -61,6 +61,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |111|[Minimum Depth of Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/111_minimum_depth_of_binary_tree.md)|
 |112|[Path Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/112_path_sum.md)|
 |125|[Valid Palindrome](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/125_valid_palindrome.md)|
+|129|[Sum Root to Leaf Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/129_sum_root_to_leaf_numbers.md)|
 |136|[Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/136_single_number.md)|
 |137|[Single Number 2](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/137_single_number_2.md)|
 |144|[Binary Tree Preorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/144_binary_tree_preorder_traversal.md)|
