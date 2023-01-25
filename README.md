@@ -449,6 +449,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2418|[Sort the People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2418_sort_the_people.md)|
 |2423|[Remove Letter To Equalize Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2423_remove_letter_to_equalize_frequency.md)|
 |2427|[Number of Common Factors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2427_number_of_common_factors.md)|
+|2428|[Maximum Sum of an Hourglass](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2428_maximum_sum_of_an_hourglass.md)|
 |2432|[The Employee That Worked on the Longest Task](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2432_the_employee_that_worked_on_the_longest_task.md)|
 |2433|[Find The Original Array of Prefix Xor](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2433_find_the_original_array_of_prefix_xor.md)|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2441_largest_positive_integer_that_exists_with_its_negative.md)|
