@@ -257,6 +257,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1332|[Remove Palindromic Subsequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1332_remove_palindromic_subsequences.md)|
 |1337|[The K Weakest Rows in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1337_the_k_weakest_rows_in_a_matrix.md)|
 |1346|[Check if N and its Double Exists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1346_check_if_n_and_its_double_exits.md)|
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1347_minimum_number_of_steps_to_make_two_strings_anagram.md)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1351_count_negative_numbers_in_a_matrix.md)|
 |1356|[Sort Integers by The Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1356_sort_integers_by_the_number_of_one_bits.md)|
 |1357|[Apply Discount every n Orders](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1357_apply_discount_every_n_orders.md)|
