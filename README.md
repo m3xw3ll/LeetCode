@@ -511,3 +511,9 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1872|[Calculate Special Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1873_calculate_special_bonus.md)|
 |1890|[The Latest Login in 202](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1890_the_latest_login_in_2020.md)|
 |1965|[Employee With Missing Information](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1965_employees_with_missing_information.md)|
+
+### Bash
+
+|Number| Problem|
+|:----|:----|
+|195|[Tenth Line](https://github.com/m3xw3ll/LeetCode/blob/master/Bash/195_tenth_line.md)|
