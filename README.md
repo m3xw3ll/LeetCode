@@ -202,6 +202,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |896|[Monotonic Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/896_monotonic_array.md)|
 |905|[Sort Array By Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/905_sort_array_by_parity.md)|
 |912|[Sort an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/912_sort_an_array.md)|
+|914|[X of a Kind in a Deck of Cards](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/914_x_of_a_kind_in_a_deck_of_cards.md)|
 |917|[Reverse Only Letters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/917_reverse_only_letters.md)|
 |921|[Minimum Add to Make Parentheses Valid](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/921_minimum_add_to_make_parentheses_valid.md)|
 |922|[Sort Array By Parity II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/922_sort_array_by_parity_2.md)|
