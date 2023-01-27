@@ -516,4 +516,5 @@ To search for a specific problem please use ```STRG + F``` to search for.
 
 |Number| Problem|
 |:----|:----|
+|193|[Valid Phone Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Bash/193_valid_phone_numbers.md)|
 |195|[Tenth Line](https://github.com/m3xw3ll/LeetCode/blob/master/Bash/195_tenth_line.md)|
