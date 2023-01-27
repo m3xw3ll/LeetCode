@@ -51,7 +51,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |73|[Set Matrix Zeroes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/73_set_matrix_zeroes.md)|
 |78|[Subsets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/78_subsets.md)|
 |79|[Word Search](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/79_word_search.md)|
-|83|[Remove Duplicates from Sorted List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/83_remove_duplicates_from_sorted_list.md)|
+|83|[Remove Duplicates from Sorted List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/83_remove_duplicates_from_sorted.list.md)|
 |88|[Merge Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/88_merge_sorted_array.md)|
 |94|[Binary Tree Inorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/94_binary_tree_inorder_traversal.md)|
 |100|[Same Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/100_same_tree.md)|
@@ -150,7 +150,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |520|[Detect Capital](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/520_detect_capital.md)|
 |521|[Longest Uncommon Subsequence I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/521_longest_uncommon_subsequence_one.md)|
 |541|[Reverse String II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/541_reverse_string_2.md)|
-|551|[Student Attendance Record I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/551_student_attendance_1.md)|
+|551|[Student Attendance Record I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/551_student_attendance_record_1.md)|
 |557|[Reverse Words in a String III](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/557_reverse_words_in_a_string_3.md)|
 |561|[Array Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/561_array_partition.md)|
 |566|[Reshape the Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/566_reshape_the_matrix.md)|
@@ -215,7 +215,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |946|[Validate Stack Sequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/946_validate_stack_sequences.md)|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/961_n_repeated_element_in_size_2n_array.md)|
 |965|[Univalued Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/965_univalued_binary_tree.md)|
-|973|[K Closest Points to Origin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/k_closest_points_to_origin.md)|
+|973|[K Closest Points to Origin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/973_k_closest_points_to_origin.md)|
 |976|[Largest Perimeter Triangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/976_largest_perimeter_triangle.md)|
 |977|[Squares of a Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/977_squares_of_a_sorted_array.md)|
 |989|[Add to Array-Form of Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/989_add_to_array_form_of_integer.md)|
@@ -248,7 +248,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1287|[Element Appearing More Than 25% in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1287_element_appearing_more_than_25_percent_in_sorted_array.md)|
 |1290|[Convert Binary Number in a Linked List to Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1290_convert_binary_number_in_a_linked_list_to_integer.md)|
 |1295|[Find Numbers with Even Number of Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1295_find_numbers_with_even_number_of_digits.md)|
-|1299|[Replace Element with Greatest Element on Right Side](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1299_replace_element_with_greatest_element_on_right_side.md)|
+|1299|[Replace Element with Greatest Element on Right Side](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1299_replace_elements_with_greatest_element_on_right_side.md)|
 |1304|[Find N Unique Integers Sum up to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1304_find_n_unique_integers_sum_up_to_zero.md)|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1309_decrypt_string_from_alphabet_to_integer_mapping.md)|
 |1313|[Decompress Run-Length Encoded List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1313_decompress_run_length_encoded_list.md)|
@@ -260,7 +260,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1337|[The K Weakest Rows in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1337_the_k_weakest_rows_in_a_matrix.md)|
 |1346|[Check if N and its Double Exists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1346_check_if_n_and_its_double_exits.md)|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1347_minimum_number_of_steps_to_make_two_strings_anagram.md)|
-|1351|[Count Negative Numbers in a Sorted Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1351_count_negative_numbers_in_a_matrix.md)|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1351_count_negative_numbers_in_a_sorted_matrix.md)|
 |1356|[Sort Integers by The Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1356_sort_integers_by_the_number_of_one_bits.md)|
 |1357|[Apply Discount every n Orders](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1357_apply_discount_every_n_orders.md)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1365_how_many_numbers_are_smaller_than_the_current_number.md)|
@@ -302,7 +302,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1582|[Special Positions in a Binary Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1582_special_positions_in_a_binary_matrix.md)|
 |1592|[Rearrange Spaces Between Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1592_rearrange_spaces_between_words.md)|
 |1603|[Design Parking System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1603_design_parking_system.md)|
-|1619|[Mean of Array After Removing Some Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/mean_of_array_after_removing_some_elements.md)|
+|1619|[Mean of Array After Removing Some Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1619_mean_of_array_after_removing_some_elements.md)|
 |1629|[Slowest Key](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1629_slowest_key.md)|
 |1636|[Sort Array by Increasing Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1636_sort_array_by_increasing_frequency.md)|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1637_widest_vertical_area_between_two_points_containing_no_points.md)|
@@ -321,7 +321,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1720|[Decode XORed Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1720_decode_xored_array.md)|
 |1725|[Number Of Rectangles That Can Form The Largest Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1725_number_of_rectangles_that_can_form_the_largest_square.md)|
 |1732|[Find the Highest Altitude](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1732_find_the_highest_altitude.md)|
-|1736|[Latest Time by Replacing Hidden Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1736_latest_time_by_replacing_hidding_digits.md)|
+|1736|[Latest Time by Replacing Hidden Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1736_latest_time_by_replacing_hidden_digits.md)|
 |1742|[Maximum Number of Balls in a Box](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1742_maximum_number_of_balls_in_a_box.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1768|[Merge Strings Alternately](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1768_merge_strings_alternately.md)|
@@ -330,7 +330,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1784_check_if_binary_string_has_at_most_one_segment_of_ones.md)|
 |1790|[Check if One String Swap Can Make Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1790_check_if_one_string_swap_can_make_strings_equal.md)|
 |1791|[Find Center of Star Graph](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1791_find_center_of_star_graph.md)|
-|1796|[Second Largest Digit in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1796_second_largest_digit_in_string.md)|
+|1796|[Second Largest Digit in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1796_second_largest_digit_in_a_string.md)|
 |1805|[Number of Different Integers in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1805_number_of_different_integers_in_a_string.md)|
 |1812|[Determine Color of a Chessboard Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1812_determine_color_of_a_chessboard_square.md)|
 |1816|[Truncate Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1816_truncate_sentence.md)|
@@ -347,7 +347,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1869|[1869_longer_contiguous_segments_of_ones_than_zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1869_longer_contiguous_segments_of_ones_than_zeros.md)|
 |1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
 |1886|[Determine Wheather Matrix Can Be Obtained By Rotation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1886_determine_wheather_matrix_can_be_obtained_by_rotation.md)|
-|1898|[Redistribute Characters to Make All Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/redistribute_characters_to_make_all_strings_equal.md)|
+|1898|[Redistribute Characters to Make All Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1898_redistribute_characters_to_make_all_strings_equal.md)|
 |1903|[Largest Odd Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1903_largest_odd_number_in_string.md)|
 |1910|[Remove All Occurrences of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1910_remove_all_occurrences_of_a_string.md)|
 |1913|[Maximum Product Difference Between Two Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1913_maximum_product_difference_between_two_pairs.md)|
@@ -393,7 +393,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2138|[Divide a String Into Groups of Size k](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2138_divide_a_string_into_groups_of_size_k.md)|
 |2148|[Count Elements With Strictly Smaller and Greater Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2148_count_elements_with_strictly_smaller_and_greater_elements.md)|
 |2149|[Rearrange Array Elements by Sign](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2149_rearrange_array_elements_by_sign.md)|
-|2150|[Find All Lonely Numbers in the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2150_find_all_the_lonely_numbers_in_the_array.md)|
+|2150|[Find All Lonely Numbers in the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2150_find_all_lonely_numbers_in_the_array.md)|
 |2154|[Keep Multiplying Found Vales by Two](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2154_keep_multiplying_found_values_by_two.md)|
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2160_minimum_sum_of_four_digit_number_after_splitting_digits.md)|
 |2164|[Sort Even and Odd Indices Independently](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2164_sort_even_and_odd_indices_independently.md)|
