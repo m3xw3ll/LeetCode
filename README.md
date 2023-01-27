@@ -272,6 +272,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1380|[Lucky Numbers in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1380_lucky_numbers_in_a_matrix.md)|
 |1389|[Create Target Array in the Given Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1389_create_target_array_in_the_given_order.md)|
 |1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
+|1399|[Count Largest Group](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1399_count_largest_group.md)|
 |1408|[String Matching in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1408_string_matching_in_an_array.md)|
 |1410|[HTML Entity Parser](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1410_html_entity_parser.md)|
 |1417|[Reformat The String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1417_reformat_the_string.md)|
