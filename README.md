@@ -302,6 +302,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1550|[Three Consecutive Odds](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1550_three_consecutive_odds.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
 |1561|[Maximum Number of Coins You Can Get](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1561_maximum_number_of_coins_you_can_get.md)|
+|1566|[Detect Pattern of Length M Repeated K or More Times](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1566_detect_pattern_of_length_m_repeated_k_or_more_times.md)|
 |1572|[Matrix Diagonal Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1572_matrix_diagonal_sum.md)|
 |1576|[Replace All ?´s to Avoid Consecutive Repeating Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1576_replace_all_questionmarks_to_avoid_consecutive_repeating_characters.md)|
 |1582|[Special Positions in a Binary Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1582_special_positions_in_a_binary_matrix.md)|
