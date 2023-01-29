@@ -482,6 +482,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2535_difference_between_element_sum_and_digit_sum_of_an_array.md)|
 |2540|[Minimum Common Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2540_minimum_common_value.md)|
 |2544|[Alternating Digit Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2544_alternating_digit_sum.md)|
+|2549|[Count Distinct Numbers on Board](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2549_count_distinct_numbers_on_board.md)|
 
 ### Databases
 
