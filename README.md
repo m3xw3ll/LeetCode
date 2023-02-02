@@ -435,6 +435,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2283_check_if_number_has_equal_digit_count_and_digit_value.md)|
 |2284|[Sender With Largest Word Count](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2284_sender_with_largest_word_count.md)|
+|2287|[Rearrange Characters to Make Target String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2287_rearrange_characters_to_make_target_string.md)|
 |2288|[Apply Discount to Prices](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2288_apply_discount_to_prices.md)|
 |2293|[Min Max Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2293_min_max_game.md)|
 |2299|[Strong Password Checker II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2299_strong_password_checker_2.md)|
