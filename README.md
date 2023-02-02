@@ -390,6 +390,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2057|[Smallest Index With Equal Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2057_smallest_index_with_equal_value.md)|
 |2062|[Count Vowel Substrings of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2062_count_vowel_substrings_of_a_string.md)|
 |2068|[Check Whether Two Strings are Almost Equivalent](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2068_check_whether_two_strings_are_almost_equivalent.md)|
+|2073|[Time Needed to Buy Tickets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2073_time_needed_to_buy_tickets.md)|
 |2078|[Two Furthest Houses With Different Colors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2078_two_furthest_houses_with_different_colors.md)|
 |2085|[Count Common Words With One Occurence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2085_count_common_words_with_one_occurence.md)|
 |2089|[Find Target Indices After Sorting Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2089_find_target_indices_after_sorting_array.md)|
