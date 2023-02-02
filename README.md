@@ -227,6 +227,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |989|[Add to Array-Form of Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/989_add_to_array_form_of_integer.md)|
 |997|[Find the Town Judge](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/997_find_the_town_judge.md)|
 |1002|[Find Common Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1002_find_common_characters.md)|
+|1005|[Maximize Sum Of Array After K Negations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1005_maximize_sum_of_array_after_k_negations.md)|
 |1009|[Complement of Base 10 Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1009_complement_of_base_10_integer.md)|
 |1013|[Partition Array Into Three Parts With Equal Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1013_partition_array_into_three_parts_with_equal_sum.md)|
 |1018|[Binary Prefix Divisible By 5](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1018_binary_prefix_divisible_by_5.md)|
