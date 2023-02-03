@@ -288,6 +288,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1431|[Kids With the Greatest Number of Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1431_kids_with_the_greatest_number_of_candies.md)|
 |1432|[Number of Steps to Reduce a Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1432_number_of_steps_to_reduce_a_number_to_zero.md)|
 |1436|[Destination City](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1436_destination_city.md)|
+|1437|[Check If All 1´s Are at Least Length K Places Away](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1437_check_if_all_ones_are_at_least_length_k_places_away.md)|
 |1446|[Consecutive Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1446_consecutive_characters.md)|
 |1450|[Number of Students Doing Homework at a Given Time](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1450_number_of_students_doing_homework_at_a_given_time.md)|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.md)|
