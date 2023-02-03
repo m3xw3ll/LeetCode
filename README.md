@@ -348,6 +348,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1790|[Check if One String Swap Can Make Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1790_check_if_one_string_swap_can_make_strings_equal.md)|
 |1791|[Find Center of Star Graph](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1791_find_center_of_star_graph.md)|
 |1796|[Second Largest Digit in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1796_second_largest_digit_in_a_string.md)|
+|1800|[Maximum Ascending Subarray Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1800_maximum_ascending_subarray_sum.md)|
 |1805|[Number of Different Integers in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1805_number_of_different_integers_in_a_string.md)|
 |1812|[Determine Color of a Chessboard Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1812_determine_color_of_a_chessboard_square.md)|
 |1816|[Truncate Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1816_truncate_sentence.md)|
