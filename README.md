@@ -148,6 +148,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |501|[Find Mode in Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/501_find_mode_in_binary_search_tree.md)|
 |504|[Base 7](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/504_base_7.md)|
 |506|[Relative Ranks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/506_relative_ranks.md)|
+|507|[Perfect Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/507_perfect_number.md)|
 |509|[Fibonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/509_fibonacci_number.md)|
 |520|[Detect Capital](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/520_detect_capital.md)|
 |521|[Longest Uncommon Subsequence I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/521_longest_uncommon_subsequence_one.md)|
