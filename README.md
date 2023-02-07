@@ -305,6 +305,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1491_average_salary_excluding_the_minimum_and_maximum_salary.md)|
 |1492|[The kth Factor of n](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1492_the_kth_factor_of_n.md)|
 |1496|[Path Crossing](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1496_path_crossing.md)|
+|1502|[Can Make Arithmetic Progression From Sequence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1502_can_make_arithmetic_progression_from_sequence.md)|
 |1507|[Reformat Date](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1507_reformat_date.md)|
 |1512|[Number of Good Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1512_number_of_good_pairs.md)|
 |1518|[Water Bottles](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1518_water_bottles.md)|
