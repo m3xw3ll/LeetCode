@@ -242,6 +242,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1078|[Occurrences After Bigram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1078_occurrences_after_bigram.md)|
 |1079|[Letter Tile Possibilities](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1079_letter_tile_possibilities.md)|
 |1089|[Duplicate Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1089_duplicate_zeros.md)|
+|1103|[Distribute Candies to People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1103_distribute_candies_to_people.md)|
 |1108|[Defanging an IP Address](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1108_defanging_an_ip_address.md)|
 |1122|[Relative Sort Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1122_relative_sort_array.md)|
 |1137|[N-th Tribonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1137_nth_tribonacci_number.md)|
