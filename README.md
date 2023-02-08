@@ -324,6 +324,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1588|[Sum of All Odd Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1588_sum_of_all_odd_length_subarrays.md)|
 |1592|[Rearrange Spaces Between Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1592_rearrange_spaces_between_words.md)|
 |1603|[Design Parking System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1603_design_parking_system.md)|
+|1614|[Maximum Nesting Depth of the Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1614_maximum_nesting_depth_of_the_parentheses.md)|
 |1619|[Mean of Array After Removing Some Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1619_mean_of_array_after_removing_some_elements.md)|
 |1624|[Largest Substring Between Two Equal Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1624_largest_substring_between_two_equal_characters.md)|
 |1629|[Slowest Key](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1629_slowest_key.md)|
