@@ -154,6 +154,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |521|[Longest Uncommon Subsequence I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/521_longest_uncommon_subsequence_one.md)|
 |530|[Minimum Absolute Difference in BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/530_minimum_absolute_difference_in_bst.md)|
 |541|[Reverse String II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/541_reverse_string_2.md)|
+|543|[Diameter of Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/543_diameter_of_binary_tree.md)|
 |551|[Student Attendance Record I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/551_student_attendance_record_1.md)|
 |557|[Reverse Words in a String III](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/557_reverse_words_in_a_string_3.md)|
 |561|[Array Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/561_array_partition.md)|
