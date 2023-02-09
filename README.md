@@ -188,6 +188,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |762|[Prime Number of Set Bits in Binary Representation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/762_prime_number_of_set_bits_in_binary_representation.md)|
 |766|[Toeplitz Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/766_toeplitz_matrix.md)|
 |771|[Jewels and Stones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/771_jewels_and_stones.md)|
+|783|[Minimum Distance Between BST Nodes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/783_minimum_distance_between_bst_nodes.md)|
 |788|[Rotated Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/788_rotated_digits.md)|
 |796|[Rotate String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/796_rotate_string.md)|
 |804|[Unique Morse Code Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/804_unique_morse_code_words.md)|
