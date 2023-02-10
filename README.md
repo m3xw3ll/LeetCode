@@ -381,6 +381,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1893|[Check if All the Integers in a Range Are Covered](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1893_check_if_all_the_integers_in_a_range_are_covered.md)|
 |1898|[Redistribute Characters to Make All Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1898_redistribute_characters_to_make_all_strings_equal.md)|
 |1903|[Largest Odd Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1903_largest_odd_number_in_string.md)|
+|1909|[Remove One Element to Make the Array Strictly Increasing](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1909_remove_one_element_to_make_the_array_strictly_increasing.md)|
 |1910|[Remove All Occurrences of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1910_remove_all_occurrences_of_a_string.md)|
 |1913|[Maximum Product Difference Between Two Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1913_maximum_product_difference_between_two_pairs.md)|
 |1920|[Build Array from Permutation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1920_build_array_from_permutation.md)|
