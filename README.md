@@ -238,7 +238,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1009|[Complement of Base 10 Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1009_complement_of_base_10_integer.md)|
 |1013|[Partition Array Into Three Parts With Equal Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1013_partition_array_into_three_parts_with_equal_sum.md)|
 |1018|[Binary Prefix Divisible By 5](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1018_binary_prefix_divisible_by_5.md)|
-|1021|[Remove Outermost Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1021_remove_outermost_parentheses.md)|
+|1021|[Remove Outermost Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/d.md)|
 |1022|[Sum of Root To Leaf Binary Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1022_sum_of_root_to_leaf_binary_number.md)|
 |1025|[Divisor Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1025_divisor_game.md)|
 |1037|[Valid Boomerang](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1037_valid_boomerang.md)|
@@ -290,6 +290,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1389|[Create Target Array in the Given Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1389_create_target_array_in_the_given_order.md)|
 |1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
 |1399|[Count Largest Group](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1399_count_largest_group.md)|
+|1403|[Minimum Subsequence in Non-Increasing Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1403_minimum_subsequence_in_non_increasing_order.md)|
 |1408|[String Matching in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1408_string_matching_in_an_array.md)|
 |1410|[HTML Entity Parser](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1410_html_entity_parser.md)|
 |1417|[Reformat The String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1417_reformat_the_string.md)|
