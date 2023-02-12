@@ -356,6 +356,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1736|[Latest Time by Replacing Hidden Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1736_latest_time_by_replacing_hidden_digits.md)|
 |1742|[Maximum Number of Balls in a Box](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1742_maximum_number_of_balls_in_a_box.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
+|1763|[Longest Nice Substring](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1763_longest_nice_substring.md)|
 |1768|[Merge Strings Alternately](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1768_merge_strings_alternately.md)|
 |1773|[Count Items Matching a Rule](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1773_count_items_matching_a_rule.md)|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.md)|
