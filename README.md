@@ -207,6 +207,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |836|[Rectangle Overlap](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/836_rectangle_overlap.md)|
 |844|[Backspace String Compare](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/844_backspace_string_compare.md)|
 |859|[Buddy Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/859_buddy_strings.md)|
+|860|[Lemonade Change](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/860_lemonade_change.md)|
 |867|[Transpose Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/867_transpose_matrix.md)|
 |868|[Binary Gap](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/868_binary_gap.md)|
 |876|[Middle of the Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/876_middle_of_the_linked_list.md)|
