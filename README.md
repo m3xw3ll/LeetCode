@@ -219,6 +219,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |892|[Surface Area of 3D Shapes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/892_surface_area_of_three_d_shapes.md)|
 |896|[Monotonic Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/896_monotonic_array.md)|
 |905|[Sort Array By Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/905_sort_array_by_parity.md)|
+|908|[Smallest Range I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/908_smallest_range_one.md)|
 |912|[Sort an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/912_sort_an_array.md)|
 |914|[X of a Kind in a Deck of Cards](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/914_x_of_a_kind_in_a_deck_of_cards.md)|
 |917|[Reverse Only Letters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/917_reverse_only_letters.md)|
