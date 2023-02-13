@@ -268,6 +268,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1217|[Minimum Costs to Move Chips to The Same Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1217_minimum_cost_to_move_chips_to_the_same_position.md)|
 |1221|[Split a String in Balanced Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1221_split_a_string_in_balanced_strings.md)|
 |1232|[Check If It Is a Straight Line](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1232_check_if_it_is_a_straight_line.md)|
+|1252|[Cells with Odd Values in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1252_cells_with_odd_values_in_a_matrix.md)|
 |1281|[Substract the Product and Sum of Digits of an Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1281_substract_the_product_and_sum_of_digits_of_an_integer.md)|
 |1287|[Element Appearing More Than 25% in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1287_element_appearing_more_than_25_percent_in_sorted_array.md)|
 |1290|[Convert Binary Number in a Linked List to Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1290_convert_binary_number_in_a_linked_list_to_integer.md)|
