@@ -388,6 +388,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1860|[Incremental Memory Leak](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1860_incremental_memory_leak.md)|
 |1869|[1869_longer_contiguous_segments_of_ones_than_zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1869_longer_contiguous_segments_of_ones_than_zeros.md)|
 |1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
+|1880|[Check if Word Equals Summation of Two Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1880_check_if_word_equals_summation_of_two_words.md)|
 |1886|[Determine Wheather Matrix Can Be Obtained By Rotation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1886_determine_wheather_matrix_can_be_obtained_by_rotation.md)|
 |1893|[Check if All the Integers in a Range Are Covered](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1893_check_if_all_the_integers_in_a_range_are_covered.md)|
 |1898|[Redistribute Characters to Make All Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1898_redistribute_characters_to_make_all_strings_equal.md)|
