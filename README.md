@@ -188,6 +188,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |729|[My Calendar I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/729_my_calendar_one.md)|
 |744|[Find Smallest Letter Greater Than Target](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/744_find_smallest_letter_greater_than_target.md)|
 |747|[Largest Number at Least Twice of Others](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/747_largest_number_at_least_twice_of_others.md)|
+|748|[Shortest Completing Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/748_shortest_completing_word.md)|
 |762|[Prime Number of Set Bits in Binary Representation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/762_prime_number_of_set_bits_in_binary_representation.md)|
 |766|[Toeplitz Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/766_toeplitz_matrix.md)|
 |771|[Jewels and Stones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/771_jewels_and_stones.md)|
