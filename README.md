@@ -387,6 +387,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1848|[Minimum Distance to the Target Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1848_minimum_distance_to_the_target_element.md)|
 |1859|[Sorting the Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1859_sorting_the_sentence.md)|
 |1860|[Incremental Memory Leak](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1860_incremental_memory_leak.md)|
+|1863|[Sum of All Subset XOR Totals](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1863_sum_of_all_subset_xor_total.md)|
 |1869|[1869_longer_contiguous_segments_of_ones_than_zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1869_longer_contiguous_segments_of_ones_than_zeros.md)|
 |1876|[Substrings of Size Three with Distinct Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1876_substrings_of_size_three_with_distinct_characters.md)|
 |1880|[Check if Word Equals Summation of Two Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1880_check_if_word_equals_summation_of_two_words.md)|
