@@ -63,6 +63,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |111|[Minimum Depth of Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/111_minimum_depth_of_binary_tree.md)|
 |112|[Path Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/112_path_sum.md)|
 |118|[Pascal´s Triangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/118_pascals_triangle.md)|
+|119|[Pascal´s Triangle II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/119_pascals_triangle_two.md)|
 |121|[Best Time to Buy and Sell Stock](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/121_best_time_to_buy_and_sell_stock.md)|
 |125|[Valid Palindrome](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/125_valid_palindrome.md)|
 |129|[Sum Root to Leaf Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/129_sum_root_to_leaf_numbers.md)|
