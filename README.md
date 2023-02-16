@@ -184,6 +184,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |700|[Search in a Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/700_search_in_a_binary_search_tree.md)|
 |701|[Insert into a Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/701_insert_into_a_binary_search_tree.md)|
 |704|[Binary Search](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/704_binary_search.md)|
+|706|[Design HashMap](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/706_design_hashmap.md)|
 |709|[To Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/709_to_lower_case.md)|
 |717|[1-bit and 2-bit Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/717_one_bit_and_two_bit_characters.md)|
 |724|[Find Pivot Index](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/724_find_pivot_index.md)|
