@@ -292,6 +292,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1313|[Decompress Run-Length Encoded List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1313_decompress_run_length_encoded_list.md)|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1315_sum_of_nodes_with_even_valued_grandparent.md)|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1317_convert_integer_to_the_sum_of_two_no_zero_integers.md)|
+|1324|[Print Words Vertically](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1324_print_words_vertically.md)|
 |1360|[Number of Days Between Two Dates](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1360_number_of_days_between_two_dates.md)|
 |1323|[Maximum 69 Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1323_maximum_69_number.md)|
 |1331|[Rank Transform of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1331_rank_transform_of_an_array.md)|
