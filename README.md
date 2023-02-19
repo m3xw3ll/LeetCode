@@ -546,6 +546,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2553|[Separate the Digits in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2553_separate_the_digits_in_an_array.md)|
 |2558|[Take Gifts From the Richest Pile](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2558_take_gifts_from_the_richest_pile.md)|
 |2562|[Find the Array Concatenation Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2562_find_the_array_concatenation_value.md)|
+|2570|[Merge Two 2D Arrays by Summing Values](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2570_merge_two_two_d_arrays_by_summing_values.md)|
 
 ### Databases
 
