@@ -212,6 +212,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |832|[Flipping an Image](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/832_flipping_an_image.md)|
 |836|[Rectangle Overlap](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/836_rectangle_overlap.md)|
 |844|[Backspace String Compare](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/844_backspace_string_compare.md)|
+|852|[Peak Index in a Mountain Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/852_peak_index_in_a_mountain_array.md)|
 |859|[Buddy Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/859_buddy_strings.md)|
 |860|[Lemonade Change](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/860_lemonade_change.md)|
 |867|[Transpose Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/867_transpose_matrix.md)|
