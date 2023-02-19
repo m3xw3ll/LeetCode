@@ -21,6 +21,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |3|[Longest Substring Without Repeating Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3_longest_substring_without_repeating_characters.md)|
 |4|[Median of Two Sorted Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/4_median_of_two_sorted_arrays.md)|
 |7|[Reverse Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/7_reverse_integer.md)|
+|8|[String to Integer (atoi)](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/8_string_to_integer_atoi.md)|
 |9|[Palindrome Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/9_palindrome_number.md)|
 |11|[Container With Most Water](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/11_container_with_most_water.md)|
 |12|[Integer to Roman](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/12_integer_to_roman.md)|
