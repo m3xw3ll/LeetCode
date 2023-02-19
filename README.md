@@ -465,6 +465,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2180|[Count Integers With Even Digit Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2180_count_integers_with_even_digit_sum.md)|
 |2181|[Merge Nodes in Between Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2181_merge_nodes_in_between_zeros.md)|
 |2185|[Counting Words With a Given Prefix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2185_counting_words_with_a_given_prefix.md)|
+|2190|[Most Frequent Number Following Key In an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2190_most_frequent_number_following_key_in_an_array.md)|
 |2194|[Cells in a Range on an Excel Sheet](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2194_cells_in_a_range_on_an_excel_sheet.md)|
 |2200|[Find All K-Distant Indices in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2200_find_all_k_distant_indices_in_an_array.md)|
 |2206|[Divide Array Into Equal Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2206_divide_array_into_equal_pairs.md)|
