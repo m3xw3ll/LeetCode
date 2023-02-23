@@ -41,6 +41,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/34_find_first_and_last_position_of_element_in_sorted_array.md)|
 |35|[Search Insert Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/35_search_insert_position.md)|
 |41|[First Missing Positive](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/41_first_missing_positive.md)|
+|42|[Trapping Rain Water](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/42_trapping_rain_water.md)|
 |46|[Permutations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/46_permutations.md)|
 |48|[Rotate Image](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/48_rotate_image.md)|
 |49|[Group Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/49_group_anagrams.md)|
