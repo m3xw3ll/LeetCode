@@ -173,6 +173,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |559|[Maximum Depth of N-ary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/599_maximum_depth_of_n_ary_tree.md)|
 |561|[Array Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/561_array_partition.md)|
 |566|[Reshape the Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/566_reshape_the_matrix.md)|
+|572|[Subtree of Another Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/572_subtree_of_another_tree.md)|
 |575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
 |589|[N-Ary Tree Preorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/589_n_ary_tree_preorder_traversal.md)|
 |590|[N-Ary Tree Postorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/590_n_ary_tree_postorder_traversal.md)|
