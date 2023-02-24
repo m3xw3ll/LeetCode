@@ -174,6 +174,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |561|[Array Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/561_array_partition.md)|
 |566|[Reshape the Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/566_reshape_the_matrix.md)|
 |575|[Distribute Candies](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/575_distribute_candies.md)|
+|589|[N-Ary Tree Preorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/589_n_ary_tree_preorder_traversal.md)|
 |594|[Longest Harmonious Subsequence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/594_longest_harmonious_subsequence.md)|
 |599|[Minimum Index Sum of Two Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/599_minimum_index_sum_of_two_lists.md)|
 |605|[Can Place Flowers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/605_can_place_flowers.md)|
