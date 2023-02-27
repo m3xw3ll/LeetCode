@@ -511,6 +511,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2288|[Apply Discount to Prices](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2288_apply_discount_to_prices.md)|
 |2293|[Min Max Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2293_min_max_game.md)|
 |2299|[Strong Password Checker II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2299_strong_password_checker_2.md)|
+|2303|[Calculate Amount Paid in Taxes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2303_calculate_amount_paid_in_taxes.md)|
 |2309|[Greatest English Letter in Upper and Lower Case](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2309_greatest_english_letter_in_upper_and_lower_case.md)|
 |2315|[Count Asterisks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2315_count_asterisks.md)|
 |2319|[Check if Matrix is X-Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2319_check_if_matrix_is_xmatrix.md)|
