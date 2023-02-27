@@ -270,6 +270,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1021|[Remove Outermost Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1021_remove_outermost_parentheses.md)|
 |1022|[Sum of Root To Leaf Binary Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1022_sum_of_root_to_leaf_binary_number.md)|
 |1025|[Divisor Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1025_divisor_game.md)|
+|1030|[Matrix Cells in Distance Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1030_matrix_cells_in_distance_order.md)|
 |1037|[Valid Boomerang](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1037_valid_boomerang.md)|
 |1046|[Last Stone Weight](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1046_last_stone_weight.md)|
 |1047|[Remove All Adjacent Duplicates In String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1047_remove_all_adjacent_duplicates_in_string.md)|
