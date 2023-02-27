@@ -460,6 +460,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2078|[Two Furthest Houses With Different Colors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2078_two_furthest_houses_with_different_colors.md)|
 |2085|[Count Common Words With One Occurence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2085_count_common_words_with_one_occurence.md)|
 |2089|[Find Target Indices After Sorting Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2089_find_target_indices_after_sorting_array.md)|
+|2094|[Finding 3-Digit Even Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2094_finding_three_digit_even_numbers.md)|
 |2095|[Delete the Middle Node of a Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2095_delete_the_middle_node_of_a_linked_list.md)|
 |2099|[Find Subsequence of Length K With the Largest Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2099_find_subsequence_of_length_k_with_the_largest_sum.md)|
 |2103|[Rings and Rods](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2103_rings_and_rods.md)|
