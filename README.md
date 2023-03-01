@@ -529,6 +529,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2367|[Number of Arithmetic Triplets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md)||
 |2373|[Largest Local Value in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2373_largest_local_value_in_a_matrix.md)|
 |2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2379_minimum_recolors_to_get_k_consecutive_black_blocks.md)|
+|2383|[Minimum Hours of Training to Win a Competition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2383_minimum_hours_of_training_to_win_a_competition.md)|
 |2389|[Longest Subsequence With Limited Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2389_longest_subsequence_with_limited_sum.md)|
 |2390|[Remove Stars From a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2390_removing_stars_from_a_string.md)|
 |2395|[Find Subarrays With Equal Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2395_find_subarrays_with_equal_sum.md)|
