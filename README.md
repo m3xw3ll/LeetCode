@@ -234,6 +234,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |860|[Lemonade Change](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/860_lemonade_change.md)|
 |867|[Transpose Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/867_transpose_matrix.md)|
 |868|[Binary Gap](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/868_binary_gap.md)|
+|872|[Leaf Similar Trees](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/872_leaf_similar_trees.md)|
 |876|[Middle of the Linked List](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/876_middle_of_the_linked_list.md)|
 |881|[Boats to Save People](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/881_boats_to_save_people.md)|
 |883|[Projection Area of 3D Shapes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/883_projection_area_of_three_d_shapes.md)|
