@@ -155,6 +155,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |482|[License Key Formatting](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/482_license_key_formatting.md)|
 |485|[Max Consecutive Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/485_max_consecutive_ones.md)|
 |492|[Construct the Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/492_construct_the_rectangle.md)|
+|495|[Teemo Attacking](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/495_teemo_attacking.md)|
 |496|[Next Greater Element I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/496_next_greater_element_1.md)|
 |500|[Keyboard Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/500_keyboard_row.md)|
 |501|[Find Mode in Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/501_find_mode_in_binary_search_tree.md)|
