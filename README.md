@@ -373,6 +373,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1588|[Sum of All Odd Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1588_sum_of_all_odd_length_subarrays.md)|
 |1592|[Rearrange Spaces Between Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1592_rearrange_spaces_between_words.md)|
 |1603|[Design Parking System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1603_design_parking_system.md)|
+|1605|[Find Valid Matrix Given Row and Column Sums](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1605_find_valid_matrix_given_row_and_column_sums.md)|
 |1608|[Special Array With X Elements Greater Than or Equal X](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1608_special_array_with_x_elements_greater_than_or_equal_x.md)|
 |1614|[Maximum Nesting Depth of the Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1614_maximum_nesting_depth_of_the_parentheses.md)|
 |1619|[Mean of Array After Removing Some Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1619_mean_of_array_after_removing_some_elements.md)|
