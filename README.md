@@ -319,6 +319,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1332|[Remove Palindromic Subsequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1332_remove_palindromic_subsequences.md)|
 |1337|[The K Weakest Rows in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1337_the_k_weakest_rows_in_a_matrix.md)|
 |1338|[Reduce Array Size to The Half](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1338_reduce_array_size_to_the_half.md)|
+|1344|[Angle Between Hands of a Clock](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1344_angle_between_hands_of_a_clock.md)|
 |1346|[Check if N and its Double Exists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1346_check_if_n_and_its_double_exits.md)|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1347_minimum_number_of_steps_to_make_two_strings_anagram.md)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1351_count_negative_numbers_in_a_sorted_matrix.md)|
