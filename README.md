@@ -416,6 +416,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1812|[Determine Color of a Chessboard Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1812_determine_color_of_a_chessboard_square.md)|
 |1816|[Truncate Sentence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1816_truncate_sentence.md)|
 |1822|[Sign of the Product of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1822_sign_of_the_product_of_an_array.md)|
+|1823|[Find the Winner of the Circular Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1823_find_the_winner_of_the_circular_game.md)|
 |1827|[Minimum Operations to Make the Array Increasing](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1827_minimum_operations_to_make_the_array_increasing.md)|
 |1832|[Check if Sentence is Pangram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1832_check_if_sentence_is_pangram.md)|
 |1833|[Maximum Ice Cream Bars](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1833_maximum_ice_cream_bars.md)|
