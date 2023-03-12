@@ -409,6 +409,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1742|[Maximum Number of Balls in a Box](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1742_maximum_number_of_balls_in_a_box.md)|
 |1748|[Sum of Unique Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1748_sum_of_unique_elements.md)|
 |1752|[Check if Array is Sorted and Rotated](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1752_check_if_array_is_sorted_and_rotated.md)|
+|1753|[Maximum Score From Removing Stones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1753_maximum_score_from_removing_stones.md)|
 |1758|[Minimum Changes to Make Alternating Binary String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1758_minimum_changes_to_make_alternating_binary_string.md)|
 |1763|[Longest Nice Substring](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1763_longest_nice_substring.md)|
 |1768|[Merge Strings Alternately](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1768_merge_strings_alternately.md)|
