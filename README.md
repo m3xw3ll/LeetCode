@@ -311,6 +311,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1290|[Convert Binary Number in a Linked List to Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1290_convert_binary_number_in_a_linked_list_to_integer.md)|
 |1295|[Find Numbers with Even Number of Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1295_find_numbers_with_even_number_of_digits.md)|
 |1299|[Replace Element with Greatest Element on Right Side](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1299_replace_elements_with_greatest_element_on_right_side.md)|
+|1302|[Deepest Leaves Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1302_deepest_leaves_sum.md)|
 |1304|[Find N Unique Integers Sum up to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1304_find_n_unique_integers_sum_up_to_zero.md)|
 |1305|[All Elements in Two Binary Search Trees](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1305_all_elements_in_two_binary_search_trees.md)|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1309_decrypt_string_from_alphabet_to_integer_mapping.md)|
