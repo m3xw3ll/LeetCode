@@ -453,6 +453,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1952|[Three Divisors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1952_three_divisors.md)|
 |1957|[Delete Character to Make Fancy String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1957_delete_character_to_make_fancy_string.md)|
 |1961|[Check If String Is a Prefix of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1961_check_if_string_is_a_prefix_of_array.md)|
+|1962|[Remove Stones to Minimize the Total](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1962_remove_stones_to_minimize_the_total.md)|
 |1967|[Number of Strings That Appear as Substrings in Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1967_number_of_strings_that_appear_as_substrings_in_word.md)|
 |1974|[Minimum Time to Type Word Using Special Typewriter](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1974_minimum_time_to_type_word_using_special_typewriter.md)|
 |1979|[Find Greatest Common Divisor of Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1979_find_greatest_common_divisor_of_array.md)|
