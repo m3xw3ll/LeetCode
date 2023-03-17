@@ -595,6 +595,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2570|[Merge Two 2D Arrays by Summing Values](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2570_merge_two_two_d_arrays_by_summing_values.md)|
 |2574|[Left and Right Sum Differences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2574_left_and_right_sum_difference.md)|
 |2578|[Split With Minimum Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2578_split_with_minimum_sum.md)|
+|2586|[Count the Number of Vowel Strings in Range](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2586_count_the_number_of_vowel_strings_in_range.md)|
 
 ### Databases
 
