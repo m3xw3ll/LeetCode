@@ -589,6 +589,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2544|[Alternating Digit Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2544_alternating_digit_sum.md)|
 |2549|[Count Distinct Numbers on Board](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2549_count_distinct_numbers_on_board.md)|
 |2553|[Separate the Digits in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2553_separate_the_digits_in_an_array.md)|
+|2554|[Maximum Number of Integers to Choose From a Range I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2554_maximum_number_of_integers_to_choose_from_a_range_one.md)|
 |2558|[Take Gifts From the Richest Pile](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2558_take_gifts_from_the_richest_pile.md)|
 |2562|[Find the Array Concatenation Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2562_find_the_array_concatenation_value.md)|
 |2566|[Maximum Difference by Remapping a Digit](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2566_maximum_difference_by_remapping_a_digit.md)|
