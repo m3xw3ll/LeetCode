@@ -117,6 +117,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |268|[Missing Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/268_missing_number.md)|
 |278|[First Bad Version](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/278_first_bad_version.md)|
 |283|[Move Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/283_move_zeroes.md)|
+|284|[Peeking Iterator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/284_peeking_iterator.md)|
 |287|[Find the Duplicate Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/287_find_the_duplicate_number.md)|
 |290|[Word Pattern](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/290_word_pattern.md)|
 |292|[Nim Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/292_nim_game.md)|
