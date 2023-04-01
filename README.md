@@ -428,6 +428,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1822|[Sign of the Product of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1822_sign_of_the_product_of_an_array.md)|
 |1823|[Find the Winner of the Circular Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1823_find_the_winner_of_the_circular_game.md)|
 |1827|[Minimum Operations to Make the Array Increasing](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1827_minimum_operations_to_make_the_array_increasing.md)|
+|1828|[Queries on Number of Points Inside a Circle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1828_queries_on_number_of_points_inside_a_circle.md)|
 |1832|[Check if Sentence is Pangram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1832_check_if_sentence_is_pangram.md)|
 |1833|[Maximum Ice Cream Bars](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1833_maximum_ice_cream_bars.md)|
 |1837|[Sum of Digits in Base K](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1837_sum_of_digits_in_base_k.md)|
