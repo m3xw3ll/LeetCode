@@ -159,6 +159,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |461|[Hamming Distance](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/461_hamming_distance.md)|
 |463|[Island Perimeter](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/463_island_perimeter.md)|
 |476|[Number Complement](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/476_number_complement.md)|
+|478|[Generate Random Point in a Circle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/478_generate_random_point_in_a_circle.md)|
 |482|[License Key Formatting](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/482_license_key_formatting.md)|
 |485|[Max Consecutive Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/485_max_consecutive_ones.md)|
 |492|[Construct the Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/492_construct_the_rectangle.md)|
