@@ -199,6 +199,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |645|[Set Missmatch](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/645_set_missmatch.md)|
 |648|[Replace Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/648_replace_words.md)|
 |653|[Two Sums IV - Input is a BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/653_two_sum_four_input_is_a_bst.md)|
+|654|[Maximum Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/654_maximum_binary_tree.md)|
 |657|[Robot Return to Origin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/657_robot_return_to_origin.md)|
 |671|[Second Minimum Node in a Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/671_second_minimum_node_in_a_binary_tree.md)|
 |674|[Longest Continuous Increasing Subsequence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/674_longest_continuous_increasing_subsequence.md)|
