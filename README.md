@@ -80,6 +80,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |141|[Linked List Cycle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/141_linked_list_cycle.md)|
 |144|[Binary Tree Preorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/144_binary_tree_preorder_traversal.md)|
 |145|[Binary Tree Postorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/145_binary_tree_postorder_traversal.md)|
+|146|[LRU Cache](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/146_lru_cache.md)|
 |151|[Reverse Words in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/151_reverse_words_in_a_string.md)|
 |155|[Min Stack](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/155_min_stack.md)|
 |160|[Intersection of Two Linked Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/160_intersection_of_two_linked_lists.md)|
