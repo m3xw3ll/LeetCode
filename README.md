@@ -605,6 +605,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2586|[Count the Number of Vowel Strings in Range](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2586_count_the_number_of_vowel_strings_in_range.md)|
 |2595|[Number of Even and Odd Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2595_number_of_even_and_odd_bits.md)|
 |2600|[K Items With the Maximum Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2600_k_items_with_the_maximum_sum.md)|
+|2605|[Form Smallest Number From Two Digit Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2605_form_smallest_number_from_two_digit_arrays.md)|
 
 ### Databases
 
