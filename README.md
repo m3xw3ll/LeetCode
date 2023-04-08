@@ -45,6 +45,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |39|[Combination Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/39_combination_sum.md)|
 |41|[First Missing Positive](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/41_first_missing_positive.md)|
 |42|[Trapping Rain Water](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/42_trapping_rain_water.md)|
+|43|[Multiply Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/43_multiply_strings.md)|
 |46|[Permutations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/46_permutations.md)|
 |48|[Rotate Image](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/48_rotate_image.md)|
 |49|[Group Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/49_group_anagrams.md)|
