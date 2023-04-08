@@ -174,6 +174,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |506|[Relative Ranks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/506_relative_ranks.md)|
 |507|[Perfect Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/507_perfect_number.md)|
 |509|[Fibonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/509_fibonacci_number.md)|
+|515|[Find Largest Value in Each Tree Row](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/515_find_largest_value_in_each_tree_row.md)|
 |520|[Detect Capital](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/520_detect_capital.md)|
 |521|[Longest Uncommon Subsequence I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/521_longest_uncommon_subsequence_one.md)|
 |530|[Minimum Absolute Difference in BST](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/530_minimum_absolute_difference_in_bst.md)|
