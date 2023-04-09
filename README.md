@@ -616,6 +616,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2595|[Number of Even and Odd Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2595_number_of_even_and_odd_bits.md)|
 |2600|[K Items With the Maximum Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2600_k_items_with_the_maximum_sum.md)|
 |2605|[Form Smallest Number From Two Digit Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2605_form_smallest_number_from_two_digit_arrays.md)|
+|2614|[Prime in Diagonal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2614_prime_in_diagonal.md)|
 
 ### Databases
 
