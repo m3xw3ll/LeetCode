@@ -18,6 +18,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |Number|Problem|
 |:----|:----|
 |1|[Two Sums](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1_two_sums.md)|
+|2|[Add Two Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2_add_two_numbers.md)|
 |3|[Longest Substring Without Repeating Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3_longest_substring_without_repeating_characters.md)|
 |4|[Median of Two Sorted Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/4_median_of_two_sorted_arrays.md)|
 |7|[Reverse Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/7_reverse_integer.md)|
