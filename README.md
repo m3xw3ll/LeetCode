@@ -57,6 +57,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |69|[Sqrt(x)](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/69_sqrtx.md)|
 |70|[Climbing Stairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/70_climbing_stairs.md)|
 |73|[Set Matrix Zeroes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/73_set_matrix_zeroes.md)|
+|74|[Search a 2D Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/74_search_a_2d_matrix.md)|
 |75|[Sort Colors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/75_sort_colors.md)|
 |77|[Combinations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/77_combinations.md)|
 |78|[Subsets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/78_subsets.md)|
