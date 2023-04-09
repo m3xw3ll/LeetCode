@@ -65,6 +65,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |88|[Merge Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/88_merge_sorted_array.md)|
 |90|[Subsets II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/90_subsets_two.md)|
 |94|[Binary Tree Inorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/94_binary_tree_inorder_traversal.md)|
+|98|[Validate Binary Search Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/98_validate_binary_search_tree.md)|
 |100|[Same Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/100_same_tree.md)|
 |101|[Symmetric Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/101_symmetric_tree.md)|
 |104|[Maximum Depth of Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/104_maximum_depth_of_binary_tree.md)|
