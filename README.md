@@ -625,6 +625,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2614|[Prime in Diagonal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2614_prime_in_diagonal.md)|
 |2639|[Find the Width of Columns of a Grid](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2639_find_the_width_of_columns_of_a_grid.md)|
 |2643|[Row With Maximum Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2643_row_with_maximum_ones.md)|
+|2651|[Calculate Delayed Arrival Time](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2651_calculate_delayed_arrival_time.md)|
 |2652|[Sum Multiples](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2652_sum_multiples.md)|
 
 ### Databases
