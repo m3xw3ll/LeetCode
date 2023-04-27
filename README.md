@@ -511,6 +511,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2129|[Capitalize the Title](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2129_capitalize_the_title.md)|
 |2133|[Check if Every Row and Column Contains All Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2133_check_if_every_row_and_column_contains_all_numbers.md)|
 |2138|[Divide a String Into Groups of Size k](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2138_divide_a_string_into_groups_of_size_k.md)|
+|2144|[Minimum Cost of Buying Candies With Discount](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2144_minimum_cost_of_buying_candies_with_discount.md)|
 |2148|[Count Elements With Strictly Smaller and Greater Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2148_count_elements_with_strictly_smaller_and_greater_elements.md)|
 |2149|[Rearrange Array Elements by Sign](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2149_rearrange_array_elements_by_sign.md)|
 |2150|[Find All Lonely Numbers in the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2150_find_all_lonely_numbers_in_the_array.md)|
