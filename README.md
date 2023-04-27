@@ -625,6 +625,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2595|[Number of Even and Odd Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2595_number_of_even_and_odd_bits.md)|
 |2600|[K Items With the Maximum Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2600_k_items_with_the_maximum_sum.md)|
 |2605|[Form Smallest Number From Two Digit Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2605_form_smallest_number_from_two_digit_arrays.md)|
+|2609|[Find the Longest Balanced Substring of a Binary String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2609_find_the_longest_balanced_substring_of_a_binary_string.md)|
 |2610|[Convert an Array Into a 2D Array With Conditions](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2610_convert_an_array_into_a_2d_array_with_conditions.md)|
 |2614|[Prime in Diagonal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2614_prime_in_diagonal.md)|
 |2639|[Find the Width of Columns of a Grid](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2639_find_the_width_of_columns_of_a_grid.md)|
