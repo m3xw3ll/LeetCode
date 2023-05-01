@@ -350,6 +350,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1356|[Sort Integers by The Number of 1 Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1356_sort_integers_by_the_number_of_one_bits.md)|
 |1357|[Apply Discount every n Orders](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1357_apply_discount_every_n_orders.md)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1365_how_many_numbers_are_smaller_than_the_current_number.md)|
+|1366|[Rank Teams by Votes](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1366_rank_teams_by_votes.md)|
 |1370|[Increasing Decreasing String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1370_increasing_decreasing_string.md)|
 |1374|[Generate a String With Characters That Have Odd Counts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1374_generate_a_string_with_characters_that_have_odd_counts.md)|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.md)|
