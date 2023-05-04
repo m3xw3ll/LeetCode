@@ -123,6 +123,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |260|[Single Number 3](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/260_single_number_3.md)|
 |263|[Ugly Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/263_ugly_number.md)|
 |268|[Missing Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/268_missing_number.md)|
+|274|[H-Index](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/274_h_index.md)|
 |278|[First Bad Version](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/278_first_bad_version.md)|
 |283|[Move Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/283_move_zeroes.md)|
 |284|[Peeking Iterator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/284_peeking_iterator.md)|
