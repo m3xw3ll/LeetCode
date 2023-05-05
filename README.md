@@ -356,6 +356,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1374|[Generate a String With Characters That Have Odd Counts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1374_generate_a_string_with_characters_that_have_odd_counts.md)|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.md)|
 |1380|[Lucky Numbers in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1380_lucky_numbers_in_a_matrix.md)|
+|1381|[Design a Stack With Increment Operation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1381_design_a_stack_with_increment_operation.md)|
 |1385|[Find the Distance Value Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1385_find_the_distance_value_between_two_arrays.md)|
 |1389|[Create Target Array in the Given Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1389_create_target_array_in_the_given_order.md)|
 |1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
