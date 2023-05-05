@@ -547,6 +547,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2239|[Find Closest Number to Zero](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2239_find_closest_number_to_zero.md)|
 |2243|[Calculate Digit Sum of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2243_calculate_digit_sum_of_a_string.md)|
 |2248|[Intersection of Multiple Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2248_intersection_of_multiple_arrays.md)|
+|2249|[Count Lattice Points Inside a Circle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2249_count_lattice_points_inside_a_circle.md)|
 |2255|[Count Prefixes of a Given String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2255_count_prefixes_of_a_given_string.md)|
 |2259|[Remove Digit From Number to Maximize Result](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2259_remove_digit_from_number_to_maximize_result.md)|
 |2264|[Largest 3-Same-Digit Number in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2264_largest_three_same_digit_number_in_string.md)|
