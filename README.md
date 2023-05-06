@@ -359,6 +359,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1381|[Design a Stack With Increment Operation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1381_design_a_stack_with_increment_operation.md)|
 |1385|[Find the Distance Value Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1385_find_the_distance_value_between_two_arrays.md)|
 |1389|[Create Target Array in the Given Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1389_create_target_array_in_the_given_order.md)|
+|1390|[Four Divisors](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1390_four_divisors.md)|
 |1394|[Find Lucky Integer in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1394_find_lucky_integer_in_an_array.md)|
 |1399|[Count Largest Group](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1399_count_largest_group.md)|
 |1401|[Circle and Rectangle Overlapping](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1401_circle_and_rectangle_overlapping.md)|
