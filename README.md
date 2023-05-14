@@ -561,6 +561,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2269|[Find the K-Beauty of a Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2269_find_the_k_beauty_of_a_number.md)|
 |2273|[Find Resultant Array After Removing Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2273_find_resultant_array_after_removing_anagrams.md)|
 |2278|[Percentage of Letter in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2278_percentage_of_letter_in_string.md)|
+|2279|[Maximum Bags With Full Capacity of Rocks](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2279_maximum_bags_with_full_capacity_of_rocks.md)|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2283_check_if_number_has_equal_digit_count_and_digit_value.md)|
 |2284|[Sender With Largest Word Count](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2284_sender_with_largest_word_count.md)|
 |2287|[Rearrange Characters to Make Target String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2287_rearrange_characters_to_make_target_string.md)|
