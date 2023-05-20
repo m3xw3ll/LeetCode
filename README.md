@@ -660,6 +660,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2660|[Determine the Winner of a Bowling Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2660_determine_the_winner_of_a_bowling_game.md)|
 |2670|[Find the Distinct Difference Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2670_find_the_distinct_difference_array.md)|
 |2678|[Number of Senior Citizens](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2678_number_of_senior_citizens.md)|
+|2679|[Sum in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2679_sum_in_a_matrix.md)|
 
 ### Databases
 
