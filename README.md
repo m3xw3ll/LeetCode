@@ -442,6 +442,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1758|[Minimum Changes to Make Alternating Binary String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1758_minimum_changes_to_make_alternating_binary_string.md)|
 |1763|[Longest Nice Substring](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1763_longest_nice_substring.md)|
 |1768|[Merge Strings Alternately](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1768_merge_strings_alternately.md)|
+|1769|[Minimum Number of Operations to Move All Balls to Each Box](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1769_minimum_number_of_operations_to_move_all_balls_to_each_box.md)|
 |1773|[Count Items Matching a Rule](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1773_count_items_matching_a_rule.md)|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.md)|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1784_check_if_binary_string_has_at_most_one_segment_of_ones.md)|
