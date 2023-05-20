@@ -632,6 +632,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2535_difference_between_element_sum_and_digit_sum_of_an_array.md)|
 |2540|[Minimum Common Value](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2540_minimum_common_value.md)|
 |2544|[Alternating Digit Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2544_alternating_digit_sum.md)|
+|2545|[Sort the Students by Their Kth Score](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2545_sort_the_students_by_their_kth_score.md)|
 |2549|[Count Distinct Numbers on Board](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2549_count_distinct_numbers_on_board.md)|
 |2553|[Separate the Digits in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2553_separate_the_digits_in_an_array.md)|
 |2554|[Maximum Number of Integers to Choose From a Range I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2554_maximum_number_of_integers_to_choose_from_a_range_one.md)|
