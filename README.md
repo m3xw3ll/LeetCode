@@ -286,6 +286,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |942|[DI String Match](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/942_di_string_match.md)|
 |944|[Delete Column to Make Sorted](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/944_delete_column_to_make_sorted.md)|
 |946|[Validate Stack Sequences](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/946_validate_stack_sequences.md)|
+|949|[Largest Time for Given Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/949_largest_time_for_given_digits.md)|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/961_n_repeated_element_in_size_2n_array.md)|
 |965|[Univalued Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/965_univalued_binary_tree.md)|
 |973|[K Closest Points to Origin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/973_k_closest_points_to_origin.md)|
