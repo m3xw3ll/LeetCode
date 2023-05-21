@@ -664,6 +664,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2670|[Find the Distinct Difference Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2670_find_the_distinct_difference_array.md)|
 |2678|[Number of Senior Citizens](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2678_number_of_senior_citizens.md)|
 |2679|[Sum in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2679_sum_in_a_matrix.md)|
+|2696|[Minimum String Length After Removing Substrings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2696_minimum_string_length_after_removing_substrings.md)|
 
 ### Databases
 
