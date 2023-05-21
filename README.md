@@ -371,6 +371,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1401|[Circle and Rectangle Overlapping](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1401_circle_and_rectangle_overlapping.md)|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1403_minimum_subsequence_in_non_increasing_order.md)|
 |1408|[String Matching in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1408_string_matching_in_an_array.md)|
+|1409|[Queries on a Permutation With Key](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1409_queries_on_a_permutation_with_key.md)|
 |1410|[HTML Entity Parser](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1410_html_entity_parser.md)|
 |1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum is K](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1414_find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.md)|
 |1417|[Reformat The String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1417_reformat_the_string.md)|
