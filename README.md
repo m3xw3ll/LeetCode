@@ -665,6 +665,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2678|[Number of Senior Citizens](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2678_number_of_senior_citizens.md)|
 |2679|[Sum in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2679_sum_in_a_matrix.md)|
 |2696|[Minimum String Length After Removing Substrings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2696_minimum_string_length_after_removing_substrings.md)|
+|2706|[Buy Two Chocolates](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2706_buy_two_chocolates.md)|
 |2710|[Remove Trailing Zeros From a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2710_remove_trailing_zeros_from_a_string.md)|
 |2733|[Neither Minimum nor Maximum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2733_neither_minimum_nor_maximum.md)|
 
