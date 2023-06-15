@@ -431,6 +431,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1688|[Count of Matches in Tournament](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1688_count_of_matches_in_tournament.md)|
 |1689|[Partitioning Into Minimum Number of Deci-Binary Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1689_partitioning_into_minimum_number_of_deci_binary_numbers.md)|
 |1694|[Reformat Phone Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1694_reformat_phone_number.md)|
+|1700|[Number of Students Unable to Eat Lunch](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1700_number_of_students_unable_to_eat_lunch.md)|
 |1704|[Determine if String Halves are Alike](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1704_determine_if_string_halves_are_alike.md)|
 |1710|[Maximum Units on a Truck](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1710_maximum_units_on_a_truck.md)|
 |1716|[Calculate Money in Leetcode Bank](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1716_calculate_money_in_leetcode_bank.md)|
