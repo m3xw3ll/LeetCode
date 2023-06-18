@@ -672,6 +672,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2716|[Minimize String Length](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2716_minimize_string_length.md)|
 |2729|[Check if The Number is Fascinating](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2729_check_if_the_number_is_fascinating.md)|
 |2733|[Neither Minimum nor Maximum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2733_neither_minimum_nor_maximum.md)|
+|2739|[Total Distance Traveled](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2739_total_distance_traveled.md)|
 
 ### Databases
 
