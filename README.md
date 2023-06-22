@@ -90,6 +90,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |155|[Min Stack](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/155_min_stack.md)|
 |160|[Intersection of Two Linked Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/160_intersection_of_two_linked_lists.md)|
 |162|[Find Peak Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/162_find_peak_element.md)|
+|167|[Two Sum II - Input Array is Sorted](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/167_two_sum_two_input_array_is_sorted.md)|
 |168|[Excel Sheet Column Title](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/168_excel_sheet_column_title.md)|
 |169|[Majority Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/169_majority_element.md)|
 |171|[Excel Sheet Column Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/171_excel_sheet_column_number.md)|
