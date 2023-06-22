@@ -293,6 +293,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |973|[K Closest Points to Origin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/973_k_closest_points_to_origin.md)|
 |976|[Largest Perimeter Triangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/976_largest_perimeter_triangle.md)|
 |977|[Squares of a Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/977_squares_of_a_sorted_array.md)|
+|985|[Sum of Even Numbers After Queries](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/985_sum_of_even_numbers_after_queries.md)|
 |989|[Add to Array-Form of Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/989_add_to_array_form_of_integer.md)|
 |997|[Find the Town Judge](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/997_find_the_town_judge.md)|
 |999|[Available Captures for Rook](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/999_available_captures_for_rook.md)|
