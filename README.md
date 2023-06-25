@@ -677,6 +677,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2733|[Neither Minimum nor Maximum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2733_neither_minimum_nor_maximum.md)|
 |2739|[Total Distance Traveled](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2739_total_distance_traveled.md)|
 |2740|[Find the Value of the Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2740_find_the_value_of_the_partition.md)|
+|2744|[Find Maximum Number of String Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2744_find_the_maximum_number_of_string_pairs.md)|
 
 ### Databases
 
