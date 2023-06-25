@@ -678,6 +678,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2739|[Total Distance Traveled](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2739_total_distance_traveled.md)|
 |2740|[Find the Value of the Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2740_find_the_value_of_the_partition.md)|
 |2744|[Find Maximum Number of String Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2744_find_the_maximum_number_of_string_pairs.md)|
+|2748|[Number of Beautiful Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2748_number_of_beautiful_pairs.md)|
 
 ### Databases
 
