@@ -52,6 +52,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |49|[Group Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/49_group_anagrams.md)|
 |50|[Length of Last Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/50_length_of_last_word.md)|
 |53|[Maximum Subarray](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/53_maximum_subarray.md)|
+|56|[Merge Intervals](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/56_merge_intervals.md)|
 |66|[Plus One](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/66_plus_one.md)|
 |67|[Add Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/67_add_binary.md)|
 |69|[Sqrt(x)](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/69_sqrtx.md)|
