@@ -724,6 +724,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1872|[Calculate Special Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1873_calculate_special_bonus.md)|
 |1890|[The Latest Login in 202](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1890_the_latest_login_in_2020.md)|
 |1965|[Employee With Missing Information](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1965_employees_with_missing_information.md)|
+|2356|[Number of Unique Subjects Taught by Each Teacher](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2356_number_of_unique_subjects_taught_by_each_teacher.md)|
 
 ### Bash
 
