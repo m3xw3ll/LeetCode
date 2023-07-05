@@ -715,6 +715,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1527|[Patients With a Condition](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1527_patients_with_a_condition.md)|
 |1587|[Bank Accounts Summary II](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1587_bank_accounts_summary_2.md)|
 |1667|[Fix Names in a Table](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1667_fix_names_in_a_table.md)|
+|1683|[Invalid Tweets](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1683_invalid_tweets.md)|
 |1693|[Daily Leads and Partners](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1693_daily_leads_and_partners.md)|
 |1729|[Find Follower Count](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1729_find_followers_count.md)|
 |1741|[Find Total Time Spend by Each Employee](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1741_find_total_time_spent_by_each_employee.md)|
