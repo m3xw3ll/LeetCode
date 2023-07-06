@@ -708,6 +708,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |620|[Not Boring Movies](https://github.com/m3xw3ll/LeetCode/blob/master/Database/620_not_boring_movies.md)|
 |627|[Swap Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Database/627_swap_salary.md)|
 |1050|[Actors and Directors Who Cooperated At Least Three Times](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1050_actors_and_directors_who_cooperated_at_least_three_times.md)|
+|1068|[Product Sales Analysis I](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1068_product_sales_analysis_one.md)|
 |1141|[User Activity for the Past 30 Days I](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1141_user_activity_for_the_past_30_days_1.md)|
 |1148|[Article Views I](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1148_article_views_1.md)|
 |1407|[Top Travellers](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1407_top_travellers.md)|
