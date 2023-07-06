@@ -712,6 +712,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1068|[Product Sales Analysis I](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1068_product_sales_analysis_one.md)|
 |1141|[User Activity for the Past 30 Days I](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1141_user_activity_for_the_past_30_days_1.md)|
 |1148|[Article Views I](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1148_article_views_1.md)|
+|1251|[Average Selling Price](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1251_average_selling_price.md)|
 |1327|[List the Products Ordered in a Period](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1327_list_the_products_ordered_in_a_period.md)|
 |1407|[Top Travellers](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1407_top_travellers.md)|
 |1484|[Group Sold Products By The Date](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1484_group_sold_products_by_the_date.md)|
