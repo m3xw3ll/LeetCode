@@ -722,6 +722,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1729|[Find Follower Count](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1729_find_followers_count.md)|
 |1741|[Find Total Time Spend by Each Employee](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1741_find_total_time_spent_by_each_employee.md)|
 |1757|[Recyclable and Low Fat Products](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1757_recyclable_and_low_fat_products.md)|
+|1789|[Primary Department for Each Employee](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1789_primary_department_for_each_employee.md)|
 |1795|[Rearrange Products Table](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1795_rearrange_products_table.md)|
 |1872|[Calculate Special Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1873_calculate_special_bonus.md)|
 |1890|[The Latest Login in 202](https://github.com/m3xw3ll/LeetCode/blob/master/Database/1890_the_latest_login_in_2020.md)|
