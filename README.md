@@ -695,6 +695,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |:----|:----|
 |169|[Delete Duplicate Emails](https://github.com/m3xw3ll/LeetCode/blob/master/Database/169_delete_duplicate_emails.md)|
 |175|[Combine Two Tables](https://github.com/m3xw3ll/LeetCode/blob/master/Database/175_combine_two_tables.md)|
+|176|[Second Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Database/176_second_highest_salary.md)|
 |181|[Rank Scores](https://github.com/m3xw3ll/LeetCode/blob/master/Database/178_rank_scores.md)|
 |182|[Employee Earning More Than Their Managers](https://github.com/m3xw3ll/LeetCode/blob/master/Database/181_employees_earning_more_than_their_managers.md)|
 |184|[Duplicate Emails](https://github.com/m3xw3ll/LeetCode/blob/master/Database/182_duplicate_emails.md)|
