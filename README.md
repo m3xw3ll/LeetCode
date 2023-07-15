@@ -689,6 +689,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2740|[Find the Value of the Partition](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2740_find_the_value_of_the_partition.md)|
 |2744|[Find Maximum Number of String Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2744_find_the_maximum_number_of_string_pairs.md)|
 |2748|[Number of Beautiful Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2748_number_of_beautiful_pairs.md)|
+|2760|[Longest Even Odd Subarray With Threshold](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2760_longest_even_odd_subarray_with_threshold.md)|
 |2769|[Find the Maximum Achievable Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2769_find_the_maximum_achievable_number.md)|
 
 ### Databases
