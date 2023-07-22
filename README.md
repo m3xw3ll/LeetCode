@@ -692,6 +692,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2760|[Longest Even Odd Subarray With Threshold](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2760_longest_even_odd_subarray_with_threshold.md)|
 |2769|[Find the Maximum Achievable Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2769_find_the_maximum_achievable_number.md)|
 |2778|[Sum of Squares of Special Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2778_sum_of_squares_of_special_elements.md)|
+|2784|[Check if Array is Good](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2784_check_if_array_is_good.md)|
 
 ### Databases
 
