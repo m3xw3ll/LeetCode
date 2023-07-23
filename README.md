@@ -694,6 +694,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2778|[Sum of Squares of Special Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2778_sum_of_squares_of_special_elements.md)|
 |2784|[Check if Array is Good](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2784_check_if_array_is_good.md)|
 |2785|[Sort Vowels in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2785_sort_vowels_in_a_string.md)|
+|2788|[Split Strings by Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2788_split_strings_by_separator.md)|
 
 ### Databases
 
