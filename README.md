@@ -594,6 +594,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2325|[Decode the Message](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2325_decode_the_message.md)|
 |2331|[Evaluate Boolean Binary Tree](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2331_evaluate_boolean_binary_tree.md)|
 |2335|[Minimum Amount of Time to Fill Cups](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2335_minimum_amount_of_time_to_fill_cups.md)|
+|2336|[Smallest Number in Infite Set](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2336_smallest_number_in_infinite_set.md)|
 |2341|[Maximum Number of Pairs in Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2341_maximum_number_of_pairs_in_array.md)|
 |2347|[Best Poker Hand](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2347_best_poker_hand.md)|
 |2351|[First Letter to Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2351_first_letter_to_appear_twice.md)|
