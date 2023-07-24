@@ -692,6 +692,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2744|[Find Maximum Number of String Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2744_find_the_maximum_number_of_string_pairs.md)|
 |2748|[Number of Beautiful Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2748_number_of_beautiful_pairs.md)|
 |2760|[Longest Even Odd Subarray With Threshold](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2760_longest_even_odd_subarray_with_threshold.md)|
+|2761|[Prime Pairs With Target Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2761_prime_pairs_with_target_sum.md)|
 |2769|[Find the Maximum Achievable Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2769_find_the_maximum_achievable_number.md)|
 |2778|[Sum of Squares of Special Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2778_sum_of_squares_of_special_elements.md)|
 |2784|[Check if Array is Good](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2784_check_if_array_is_good.md)|
