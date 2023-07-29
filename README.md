@@ -49,6 +49,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |42|[Trapping Rain Water](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/42_trapping_rain_water.md)|
 |43|[Multiply Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/43_multiply_strings.md)|
 |46|[Permutations](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/46_permutations.md)|
+|47|[Permutations II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/47_permutations_two.md)|
 |48|[Rotate Image](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/48_rotate_image.md)|
 |49|[Group Anagrams](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/49_group_anagrams.md)|
 |50|[Length of Last Word](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/50_length_of_last_word.md)|
