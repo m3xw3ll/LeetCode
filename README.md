@@ -35,6 +35,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |20|[Valid Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/20_valid_parentheses.md)|
 |21|[Merge Two Sorted Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/21_merge_two_sorted_lists.md)|
 |22|[Generate Parentheses](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/22_generate_garentheses.md)|
+|24|[Swap Nodes in Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/24_swap_nodes_in_pairs.md)|
 |26|[Remove Duplicates From Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/26_remove_duplicates_from_sorted_array.md)|
 |27|[Remove Element](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/27_remove_element.md)|
 |28|[Implement strStr](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/28_implement_strStr.md)|
