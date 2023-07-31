@@ -210,6 +210,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |590|[N-Ary Tree Postorder Traversal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/590_n_ary_tree_postorder_traversal.md)|
 |593|[Valid Square](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/593_valid_square.md)|
 |594|[Longest Harmonious Subsequence](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/594_longest_harmonious_subsequence.md)|
+|598|[Range Addition II](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/598_range_addition_two.md)|
 |599|[Minimum Index Sum of Two Lists](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/599_minimum_index_sum_of_two_lists.md)|
 |605|[Can Place Flowers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/605_can_place_flowers.md)|
 |617|[Merge Two Binary Trees](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/617_merge_two_binary_trees.md)|
