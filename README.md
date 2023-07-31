@@ -341,6 +341,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1221|[Split a String in Balanced Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1221_split_a_string_in_balanced_strings.md)|
 |1232|[Check If It Is a Straight Line](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1232_check_if_it_is_a_straight_line.md)|
 |1252|[Cells with Odd Values in a Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1252_cells_with_odd_values_in_a_matrix.md)|
+|1260|[Shift 2D Grid](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1260_shift_2d_grid.md)|
 |1266|[Minimum Time Visiting All Points](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1266_minimum_time_visiting_all_points.md)|
 |1276|[Number of Burgers with No Waste of Ingredients](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1276_number_of_burgers_with_no_waste_of_ingredients.md)|
 |1281|[Substract the Product and Sum of Digits of an Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1281_substract_the_product_and_sum_of_digits_of_an_integer.md)|
