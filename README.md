@@ -441,6 +441,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1640|[Check Array Formation Through Concatenation](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1640_check_array_formation_through_concatenation.md)|
 |1647|[Minimum Deletions to Make Character Frequencies Unique](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1647_minimum_deletions_to_make_character_frequencies_unique.md)|
 |1652|[Defuse the Bomb](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1652_defuse_the_bomb.md)|
+|1656|[Design an Ordered Stream](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1656_design_an_ordered_stream.md)|
 |1662|[Check If Two String Arrays are Equivalent](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1662_check_if_two_string_arrays_are_equivalent.md)|
 |1668|[Maximum Repeating Substring](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1668_maximum_repeating_substring.md)|
 |1672|[Richest Customer Wealth](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1672_richest_customer_wealth.md)|
