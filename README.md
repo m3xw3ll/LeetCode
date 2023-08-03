@@ -346,6 +346,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1275|[Find Winner on a Tic Tac Toe Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1275_find_winner_on_a_tic_tac_toe_game.md)|
 |1276|[Number of Burgers with No Waste of Ingredients](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1276_number_of_burgers_with_no_waste_of_ingredients.md)|
 |1281|[Substract the Product and Sum of Digits of an Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1281_substract_the_product_and_sum_of_digits_of_an_integer.md)|
+|1286|[Iterator for Combination](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1286_iterator_for_combination.md)|
 |1287|[Element Appearing More Than 25% in Sorted Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1287_element_appearing_more_than_25_percent_in_sorted_array.md)|
 |1288|[Remove Covered Intervals](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1288_remove_covered_intervals.md)|
 |1290|[Convert Binary Number in a Linked List to Integer](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1290_convert_binary_number_in_a_linked_list_to_integer.md)|
