@@ -713,6 +713,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2785|[Sort Vowels in a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2785_sort_vowels_in_a_string.md)|
 |2788|[Split Strings by Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2788_split_strings_by_separator.md)|
 |2798|[Number of Employees Who Met the Target](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2798_number_of_employees_two_met_the_target.md)|
+|2810|[Faulty Keyboard](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2810_faulty_keyboard.md)|
 
 ### Databases
 
