@@ -715,6 +715,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2798|[Number of Employees Who Met the Target](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2798_number_of_employees_two_met_the_target.md)|
 |2799|[Count Complete Subarrays in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2799_count_complete_subarrays_in_an_array.md)|
 |2810|[Faulty Keyboard](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2810_faulty_keyboard.md)|
+|2815|[Max Pair Sum in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2815_max_pair_sum_in_an_array.md)|
 
 ### Databases
 
