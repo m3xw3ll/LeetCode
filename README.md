@@ -719,6 +719,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2824|[Count Pairs Whose Sum is Less than Target](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2824_count_pairs_whose_sum_is_less_than_target.md)|
 |2828|[Check if a String is an Acronym of Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2828_check_if_a_string_is_an_acronym_of_words.md)|
 |2833|[Furthest Point From Origin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2833_furthest_point_from_origin.md)|
+|2848|[Points That Intersect With Cars](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2848_points_that_intersect_with_cars.md)|
 
 ### Databases
 
