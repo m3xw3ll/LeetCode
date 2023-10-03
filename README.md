@@ -722,6 +722,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2848|[Points That Intersect With Cars](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2848_points_that_intersect_with_cars.md)|
 |2859|[Sum of Values at Indices With K Set Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2859_sum_of_values_at_indices_with_k_set_bits.md)|
 |2864|[Maximum Odd Binary Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2864_maximum_odd_binary_number.md)|
+|2869|[Minimum Operations to Collect Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2869_minimum_operations_to_collect_elements.md)|
 
 ### Databases
 
