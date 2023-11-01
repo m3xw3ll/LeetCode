@@ -724,6 +724,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2864|[Maximum Odd Binary Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2864_maximum_odd_binary_number.md)|
 |2869|[Minimum Operations to Collect Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2869_minimum_operations_to_collect_elements.md)|
 |2894|[Divisible and Non-divisible Sums Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2894_divisible_and_non_divisible_sums_difference.md)|
+|2908|[Minimum Sum of Mountain Triplets I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2908_minimum_sum_of_mountain_triplets_one.md)|
 |2913|[Subarrays Distinct Element Sum of Squares I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2913_subarrays_distinct_element_sum_of_squares_one.md)|
 
 ### Databases
