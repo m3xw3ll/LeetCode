@@ -720,6 +720,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2828|[Check if a String is an Acronym of Words](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2828_check_if_a_string_is_an_acronym_of_words.md)|
 |2833|[Furthest Point From Origin](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2833_furthest_point_from_origin.md)|
 |2848|[Points That Intersect With Cars](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2848_points_that_intersect_with_cars.md)|
+|2856|[Minimum Array Length After Pair Removals](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2856_minimum_array_length_after_pair_removals.md)|
 |2859|[Sum of Values at Indices With K Set Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2859_sum_of_values_at_indices_with_k_set_bits.md)|
 |2864|[Maximum Odd Binary Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2864_maximum_odd_binary_number.md)|
 |2869|[Minimum Operations to Collect Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2869_minimum_operations_to_collect_elements.md)|
