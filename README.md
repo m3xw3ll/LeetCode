@@ -422,6 +422,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1539|[Kth Missing Positive Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1539_kth_missing_positive_number.md)|
 |1544|[Make The String Great](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1544_make_the_string_great.md)|
 |1550|[Three Consecutive Odds](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1550_three_consecutive_odds.md)|
+|1551|[Minimum Operations to Make Array Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1551_minimum_operations_to_make_array_equal.md)|
 |1556|[Thousand Separator](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1556_thousand_separator.md)|
 |1561|[Maximum Number of Coins You Can Get](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1561_maximum_number_of_coins_you_can_get.md)|
 |1566|[Detect Pattern of Length M Repeated K or More Times](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1566_detect_pattern_of_length_m_repeated_k_or_more_times.md)|
