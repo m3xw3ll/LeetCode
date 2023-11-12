@@ -321,6 +321,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1046|[Last Stone Weight](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1046_last_stone_weight.md)|
 |1047|[Remove All Adjacent Duplicates In String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1047_remove_all_adjacent_duplicates_in_string.md)|
 |1051|[Height Checker](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1051_height_checker.md)|
+|1071|[Greatest Common Divisor of Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1071_greatest_common_divisor_of_strings.md)|
 |1078|[Occurrences After Bigram](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1078_occurrences_after_bigram.md)|
 |1079|[Letter Tile Possibilities](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1079_letter_tile_possibilities.md)|
 |1089|[Duplicate Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1089_duplicate_zeros.md)|
