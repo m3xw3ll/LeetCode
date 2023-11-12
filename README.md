@@ -727,6 +727,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2859|[Sum of Values at Indices With K Set Bits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2859_sum_of_values_at_indices_with_k_set_bits.md)|
 |2864|[Maximum Odd Binary Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2864_maximum_odd_binary_number.md)|
 |2869|[Minimum Operations to Collect Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2869_minimum_operations_to_collect_elements.md)|
+|2873|[Maximum Value of an Ordered Triplet I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2873_maximum_value_of_an_ordered_triplet_one.md)|
 |2894|[Divisible and Non-divisible Sums Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2894_divisible_and_non_divisible_sums_difference.md)|
 |2899|[Last Visited Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2899_last_visited_integers.md)|
 |2903|[Find Indices With Index and Value Difference I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2903_find_indices_with_index_and_value_difference_one.md)|
