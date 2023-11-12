@@ -390,6 +390,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1408|[String Matching in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1408_string_matching_in_an_array.md)|
 |1409|[Queries on a Permutation With Key](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1409_queries_on_a_permutation_with_key.md)|
 |1410|[HTML Entity Parser](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1410_html_entity_parser.md)|
+|1413|[Minimum Value to Get Positive Step by Step Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1413_minimum_value_to_get_positive_step_by_step_sum.md)|
 |1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum is K](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1414_find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.md)|
 |1417|[Reformat The String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1417_reformat_the_string.md)|
 |1422|[Maximum Score After Splitting a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1422_maximum_score_after_splitting_a_string.md)|
