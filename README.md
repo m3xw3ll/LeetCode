@@ -406,6 +406,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |1460|[Make Two Arrays Equal by Reversing Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1460_make_two_arrays_equal_by_reversing_subarrays.md)|
 |1464|[Maximum Product of Two Elements in an Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1464_maximum_product_of_two_elements_in_an_array.md)|
 |1470|[Shuffle the Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1470_shuffle_the_array.md)|
+|1472|[Design Browser History](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1472_design_browser_history.md)|
 |1475|[Final Prices With a Special Discount in a Shop](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1475_final_prices_with_a_special_discount_in_a_shop.md)|
 |1476|[Subrectangle Queries](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1476_subrectangle_queries.md)|
 |1480|[Running Sum of 1d Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1480_running_sum_of_1d_array.md)|
