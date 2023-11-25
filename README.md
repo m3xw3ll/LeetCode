@@ -739,6 +739,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2913|[Subarrays Distinct Element Sum of Squares I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2913_subarrays_distinct_element_sum_of_squares_one.md)|
 |2928|[Distribute Candies Among Children I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2928_distribute_candies_among_children_one.md)|
 |2932|[Maximum Strong Pair XOR I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2932_maximum_strong_pair_xor_one.md)|
+|2937|[Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2937_make_three_strings_equal.md)|
 
 ### Databases
 
