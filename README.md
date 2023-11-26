@@ -740,6 +740,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2928|[Distribute Candies Among Children I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2928_distribute_candies_among_children_one.md)|
 |2932|[Maximum Strong Pair XOR I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2932_maximum_strong_pair_xor_one.md)|
 |2937|[Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2937_make_three_strings_equal.md)|
+|2946|[Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2946_matrix_similiarity_after_cyclic_shifts.md)|
 
 ### Databases
 
