@@ -742,6 +742,13 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2937|[Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2937_make_three_strings_equal.md)|
 |2946|[Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2946_matrix_similiarity_after_cyclic_shifts.md)|
 
+
+### Pandas
+
+|Number| Problem|
+|:----|:----|
+|177|[Nth Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/177_nth_highest_salary.md)|
+
 ### Databases
 
 |Number| Problem|
