@@ -749,6 +749,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | Number | Problem                                                                                                                     |
 |:-------|:----------------------------------------------------------------------------------------------------------------------------|
 | 177    | [Nth Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/177_nth_highest_salary.md)                      |
+| 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)  
 | 2878   | [Get the Size of a Dataframe](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2878_get_the_size_of_a_dataframe.md)   |
 | 2879   | [Display the First Three Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2879_display_the_first_three_rows.md) |
 | 2891   | [Method Chaining](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2891_method_chaining.md)                           |
