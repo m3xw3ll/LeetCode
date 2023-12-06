@@ -756,6 +756,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2879   | [Display the First Three Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2879_display_the_first_three_rows.md) |
 | 2884   | [Modify Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2884_modify_columns.md)                             
 | 2886   | [Change Data Type](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2886_change_data_type.md)                         |
+| 2887      | [Create a DataFrame from List](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2877_create_a_dataframe_from_list.md) |
 | 2891   | [Method Chaining](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2891_method_chaining.md)                           |
 
 ### Databases
