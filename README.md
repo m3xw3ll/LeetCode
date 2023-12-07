@@ -757,6 +757,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2881   | [Create a New Column](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2881_create_a_new_column.md) 
 | 2883   | [Drop Missing Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2883_drop_missing_data.md)                       |
 | 2884   | [Modify Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2884_modify_columns.md)                             
+| 2885   | [Rename Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2885_rename_columns.md) 
 | 2886   | [Change Data Type](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2886_change_data_type.md)                         |
 | 2887   | [Create a DataFrame from List](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2877_create_a_dataframe_from_list.md) |
 | 2891   | [Method Chaining](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2891_method_chaining.md)                           |
