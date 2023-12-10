@@ -756,6 +756,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2878   | [Get the Size of a Dataframe](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2878_get_the_size_of_a_dataframe.md)   |
 | 2879   | [Display the First Three Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2879_display_the_first_three_rows.md) |
 | 2881   | [Create a New Column](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2881_create_a_new_column.md) 
+| 2882   | [Drop Duplicate Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2882_drop_duplicate_rows.md) 
 | 2883   | [Drop Missing Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2883_drop_missing_data.md)                       |
 | 2884   | [Modify Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2884_modify_columns.md)                             
 | 2885   | [Rename Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2885_rename_columns.md) 
