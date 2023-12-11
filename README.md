@@ -766,6 +766,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2887   | [Fill Missing Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2887_fill_missing_data.md)                       |
 | 2888   | [Reshape Data: Concatenate](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2888_reshape_data_concatenate.md)        |
 | 2889   | [Reshape Data: Pivot](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2889_reshape_data_pivot.md)                    |
+| 2890   | [Reshape Data: Melt](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2890_reshape_data_melt.md)                      |
 | 2891   | [Method Chaining](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2891_method_chaining.md)                           |
 
 ### Databases
