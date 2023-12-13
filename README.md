@@ -746,30 +746,31 @@ To search for a specific problem please use ```STRG + F``` to search for.
 
 ### Pandas
 
-| Number | Problem                                                                                                                      |
-|:-------|:-----------------------------------------------------------------------------------------------------------------------------|
-| 177    | [Nth Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/177_nth_highest_salary.md)                       |
-| 183    | [Customers Who Never Order](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/183_customers_who_never_order.md)         
-| 577    | [Employee Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/577_employee_bonus.md)                               |
-| 619    | [Biggest Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/619_biggest_single_number.md)                 |
-| 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                  |
-| 1517   | [Find Users With Valid E-Mails](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1517_find_users_with_valid_emails.md) |
-| 2877   | [Create a DataFrame from List](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2877_create_a_dataframe_from_list.md)  |
-| 2878   | [Get the Size of a Dataframe](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2878_get_the_size_of_a_dataframe.md)    |
-| 2879   | [Display the First Three Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2879_display_the_first_three_rows.md)  |
-| 2881   | [Create a New Column](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2881_create_a_new_column.md)                    
-| 2882   | [Drop Duplicate Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2882_drop_duplicate_rows.md)                    
-| 2880   | [Select Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2880_select_data.md)                                    |
-| 2881   | [Create a New Column](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2881_create_a_new_column.md)                    
-| 2883   | [Drop Missing Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2883_drop_missing_data.md)                        |
-| 2884   | [Modify Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2884_modify_columns.md)                              
-| 2885   | [Rename Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2885_rename_columns.md)                              
-| 2886   | [Change Data Type](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2886_change_data_type.md)                          |
-| 2887   | [Fill Missing Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2887_fill_missing_data.md)                        |
-| 2888   | [Reshape Data: Concatenate](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2888_reshape_data_concatenate.md)         |
-| 2889   | [Reshape Data: Pivot](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2889_reshape_data_pivot.md)                     |
-| 2890   | [Reshape Data: Melt](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2890_reshape_data_melt.md)                       |
-| 2891   | [Method Chaining](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2891_method_chaining.md)                            |
+| Number | Problem                                                                                                                                                                         |
+|:-------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 177    | [Nth Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/177_nth_highest_salary.md)                                                                          |
+| 183    | [Customers Who Never Order](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/183_customers_who_never_order.md)                                                            
+| 577    | [Employee Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/577_employee_bonus.md)                                                                                  |
+| 619    | [Biggest Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/619_biggest_single_number.md)                                                                    |
+| 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
+| 1517   | [Find Users With Valid E-Mails](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1517_find_users_with_valid_emails.md)                                                    |
+| 1581   | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1581_customer_who_visited_but_did_not_make_any_transactions.md) |
+| 2877   | [Create a DataFrame from List](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2877_create_a_dataframe_from_list.md)                                                     |
+| 2878   | [Get the Size of a Dataframe](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2878_get_the_size_of_a_dataframe.md)                                                       |
+| 2879   | [Display the First Three Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2879_display_the_first_three_rows.md)                                                     |
+| 2881   | [Create a New Column](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2881_create_a_new_column.md)                                                                       
+| 2882   | [Drop Duplicate Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2882_drop_duplicate_rows.md)                                                                       
+| 2880   | [Select Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2880_select_data.md)                                                                                       |
+| 2881   | [Create a New Column](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2881_create_a_new_column.md)                                                                       
+| 2883   | [Drop Missing Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2883_drop_missing_data.md)                                                                           |
+| 2884   | [Modify Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2884_modify_columns.md)                                                                                 
+| 2885   | [Rename Columns](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2885_rename_columns.md)                                                                                 
+| 2886   | [Change Data Type](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2886_change_data_type.md)                                                                             |
+| 2887   | [Fill Missing Data](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2887_fill_missing_data.md)                                                                           |
+| 2888   | [Reshape Data: Concatenate](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2888_reshape_data_concatenate.md)                                                            |
+| 2889   | [Reshape Data: Pivot](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2889_reshape_data_pivot.md)                                                                        |
+| 2890   | [Reshape Data: Melt](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2890_reshape_data_melt.md)                                                                          |
+| 2891   | [Method Chaining](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2891_method_chaining.md)                                                                               |
 
 ### Databases
 
