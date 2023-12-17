@@ -615,6 +615,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 |2347|[Best Poker Hand](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2347_best_poker_hand.md)|
 |2351|[First Letter to Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2351_first_letter_to_appear_twice.md)|
 |2352|[Equal Row and Column Pairs](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2352_equal_row_and_column_pairs.md)|
+|2353|[Design a Food Rating System](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2353_design_a_food_rating_system.md)|
 |2357|[Make Array Zero By Subtracting Equal Amounts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2357_make_array_zero_by_substracting_equal_amounts.md)|
 |2363|[Merge Similar Items](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2363_merge_similar_items.md)|
 |2367|[Number of Arithmetic Triplets](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2367_number_of_arithmetic_triplets.md)||
