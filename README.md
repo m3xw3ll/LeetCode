@@ -759,6 +759,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 1378   | [Replace Employee ID With The Unique Identifier](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1378_replace_employee_id_with_the_unique_identifier.md)                 |
 | 1517   | [Find Users With Valid E-Mails](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1517_find_users_with_valid_emails.md)                                                    |
 | 1581   | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1581_customer_who_visited_but_did_not_make_any_transactions.md) |
+| 1661   | [Average Time of Process per Machine](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1661_average_time_of_process_per_machine.md)                                       |
 | 2877   | [Create a DataFrame from List](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2877_create_a_dataframe_from_list.md)                                                     |
 | 2878   | [Get the Size of a Dataframe](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2878_get_the_size_of_a_dataframe.md)                                                       |
 | 2879   | [Display the First Three Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2879_display_the_first_three_rows.md)                                                     |
