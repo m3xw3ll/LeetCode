@@ -758,6 +758,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 577    | [Employee Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/577_employee_bonus.md)                                                                                  |
 | 619    | [Biggest Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/619_biggest_single_number.md)                                                                    |
 | 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
+| 1280   | [Students and Examinations](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1280_students_and_examinations.md)                                                           |
 | 1378   | [Replace Employee ID With The Unique Identifier](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1378_replace_employee_id_with_the_unique_identifier.md)                 |
 | 1517   | [Find Users With Valid E-Mails](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1517_find_users_with_valid_emails.md)                                                    |
 | 1581   | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1581_customer_who_visited_but_did_not_make_any_transactions.md) |
