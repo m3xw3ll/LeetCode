@@ -333,7 +333,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 1137   | [N-th Tribonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1137_nth_tribonacci_number.md)                                                                                          |
 | 1146   | [Snapshot Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1146_snapshot_array.md)                                                                                                         |
 | 1154   | [Day of the Year](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1154_day_of_the_year.md)                                                                                                       |
-| 1155   | [Number of Dice Rolls With Target Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1155_number_of_dice_rolls_with_target_sum.md)                                                                                                   |
+| 1155   | [Number of Dice Rolls With Target Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1155_number_of_dice_rolls_with_target_sum.md)                                                             |
 | 1160   | [Find Words That Can Be Formed by Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1160_find_words_that_can_be_formed_by_characters.md)                                               |
 | 1184   | [Distance Between Bus Stops](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1184_distance_between_bus_stops.md)                                                                                 |
 | 1185   | [Day of the Week](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1185_day_of_the_week.md)                                                                                                       |
@@ -746,6 +746,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2942_find_words_containing_character.md)                                                                         |
 | 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
 | 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2956_find_common_elements_between_two_arrays.md)                                                         |
+| 2974   | [Minimum Number Game](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2974_minimum_number_game.md)                                                                                                 |
 
 
 ### Pandas
