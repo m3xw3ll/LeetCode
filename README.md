@@ -762,6 +762,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
 | 1204   | [Last Person to Fit in the Bus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1204_last_person_to_fit_in_the_bus.md)                                                   |
 | 1280   | [Students and Examinations](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1280_students_and_examinations.md)                                                           |
+| 1366   | [Percentage of Users Attended a Contest](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1366_percentage_of_users_attended_a_contest.md)                                 |
 | 1378   | [Replace Employee ID With The Unique Identifier](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1378_replace_employee_id_with_the_unique_identifier.md)                 |
 | 1517   | [Find Users With Valid E-Mails](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1517_find_users_with_valid_emails.md)                                                    |
 | 1581   | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1581_customer_who_visited_but_did_not_make_any_transactions.md) |
