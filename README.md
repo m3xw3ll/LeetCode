@@ -748,6 +748,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2956_find_common_elements_between_two_arrays.md)                                                         |
 | 2974   | [Minimum Number Game](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2974_minimum_number_game.md)                                                                                                 |
 | 2965   | [Find Missing and Repeated Values](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2965_find_missing_and_repeated_values.md)   
+| 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3005_count_elements_with_maximum_frequency.md)    
 
 
 ### Pandas
