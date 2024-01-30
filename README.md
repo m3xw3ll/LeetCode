@@ -764,6 +764,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 577    | [Employee Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/577_employee_bonus.md)                                                                                  |
 | 610    | [Triangle Judgement](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/610_triangle_judgement.md)                                                                          |
 | 619    | [Biggest Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/619_biggest_single_number.md)                                                                    |
+| 1070   | [Product Sales Analysis III](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1070_product_sales_analysis_three.md)                                                       |
 | 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
 | 1193   | [Monthly Transactions I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1193_monthly_transactions_one.md)                                                               |
 | 1204   | [Last Person to Fit in the Bus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1204_last_person_to_fit_in_the_bus.md)                                                   |
