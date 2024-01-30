@@ -758,6 +758,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | Number | Problem                                                                                                                                                                         |
 |:-------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 177    | [Nth Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/177_nth_highest_salary.md)                                                                          |
+| 180    | [Consecutive Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/180_consecutive_numbers.md)                                                                        |
 | 183    | [Customers Who Never Order](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/183_customers_who_never_order.md)                                                            
 | 197    | [Rising Temperature](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/197_rising_temperature.md)                                                                          |
 | 577    | [Employee Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/577_employee_bonus.md)                                                                                  |
@@ -766,7 +767,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
 | 1193   | [Monthly Transactions I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1193_monthly_transactions_one.md)                                                               |
 | 1204   | [Last Person to Fit in the Bus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1204_last_person_to_fit_in_the_bus.md)                                                   |
-| 1211   | [Queries Quality and Percentage](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1211_queries_quality_and_percentage.md)                                                       |
+| 1211   | [Queries Quality and Percentage](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1211_queries_quality_and_percentage.md)                                                 |
 | 1280   | [Students and Examinations](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1280_students_and_examinations.md)                                                           |
 | 1366   | [Percentage of Users Attended a Contest](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1366_percentage_of_users_attended_a_contest.md)                                 |
 | 1378   | [Replace Employee ID With The Unique Identifier](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1378_replace_employee_id_with_the_unique_identifier.md)                 |
