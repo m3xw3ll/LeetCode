@@ -770,6 +770,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 1045   | [Customers who bought all Products](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1045_customers_who_bought_all_products.md)   
 | 1070   | [Product Sales Analysis III](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1070_product_sales_analysis_three.md)                                                       |
 | 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
+| 1174   | [Immediate Food Delivery II](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1174_immediate_food_delivery_two.md)     
 | 1193   | [Monthly Transactions I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1193_monthly_transactions_one.md)                                                               |
 | 1204   | [Last Person to Fit in the Bus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1204_last_person_to_fit_in_the_bus.md)                                                   |
 | 1211   | [Queries Quality and Percentage](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1211_queries_quality_and_percentage.md)                                                 |
