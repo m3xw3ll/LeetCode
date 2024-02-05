@@ -760,6 +760,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 177    | [Nth Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/177_nth_highest_salary.md)                                                                          |
 | 180    | [Consecutive Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/180_consecutive_numbers.md)                                                                        |
 | 183    | [Customers Who Never Order](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/183_customers_who_never_order.md)                                                            
+| 185    | [Department Top Three Salaries](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/185_department_top_three_salaries.md)      
 | 197    | [Rising Temperature](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/197_rising_temperature.md)                                                                          |
 | 570    | [Managers with at least 5 direct reports](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/570_managers_with_at_least_five_direct_reports.md)     
 | 577    | [Employee Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/577_employee_bonus.md)                                                                                  |
