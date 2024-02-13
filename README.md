@@ -768,6 +768,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 602    | [Friend Requests II: Who Has the Most Friends](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/602_friend_requests_two_who_has_the_most_friends.md)   
 | 610    | [Triangle Judgement](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/610_triangle_judgement.md)                                                                          |
 | 619    | [Biggest Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/619_biggest_single_number.md)                                                                    |
+| 626    | [Exchange Seats](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/626_exchange_seats.md)    
 | 1045   | [Customers who bought all Products](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1045_customers_who_bought_all_products.md)   
 | 1070   | [Product Sales Analysis III](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1070_product_sales_analysis_three.md)                                                       |
 | 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
