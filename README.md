@@ -752,6 +752,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3000   | [Maximum Area of Longest Diagonal Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3000_maximum_area_of_longest_diagonal_rectangle.md)      
 | 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3005_count_elements_with_maximum_frequency.md)
 | 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3232_find_if_digit_game_can_be_won.md)
+| 3427   | [Sum of Variable Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3427_sum_of_variable_length_subarrays.md)
 | 3432   | [Count Partitions with Even Sum Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3432_count_partitions_with_even_sum_difference.md)
 
 
