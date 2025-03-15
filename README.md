@@ -742,19 +742,21 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2913   | [Subarrays Distinct Element Sum of Squares I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2913_subarrays_distinct_element_sum_of_squares_one.md)                                             |
 | 2928   | [Distribute Candies Among Children I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2928_distribute_candies_among_children_one.md)                                                             |
 | 2932   | [Maximum Strong Pair XOR I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2932_maximum_strong_pair_xor_one.md)                                                                                 |
-| 2937   | [Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2937_make_three_strings_equal.md)                                                                                       |
-| 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2942_find_words_containing_character.md)                                                                         |
-| 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
-| 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2956_find_common_elements_between_two_arrays.md)                                                         |
-| 2974   | [Minimum Number Game](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2974_minimum_number_game.md)                                                                                                 |
-| 2965   | [Find Missing and Repeated Values](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2965_find_missing_and_repeated_values.md)   
-| 2980   | [Check if Bitwise OR Has Trailing Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2980_check_if_bitwise_xor_has_trailing_zeros.md)     
-| 3000   | [Maximum Area of Longest Diagonal Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3000_maximum_area_of_longest_diagonal_rectangle.md)      
-| 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3005_count_elements_with_maximum_frequency.md)
-| 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3232_find_if_digit_game_can_be_won.md)
-| 3423   | [Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3423_maximum_difference_between_adjacent_elements_in_a_circular_array.md)
-| 3427   | [Sum of Variable Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3427_sum_of_variable_length_subarrays.md)
-| 3432   | [Count Partitions with Even Sum Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3432_count_partitions_with_even_sum_difference.md)
+| 2937   | [Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2937_make_three_strings_equal.md)                                                                                       |
+| 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2942_find_words_containing_character.md)                                                                         |
+| 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
+| 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2956_find_common_elements_between_two_arrays.md)                                                         |
+| 2974   | [Minimum Number Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2974_minimum_number_game.md)                                                                                                 |
+| 2965   | [Find Missing and Repeated Values](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2965_find_missing_and_repeated_values.md)   
+| 2980   | [Check if Bitwise OR Has Trailing Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2980_check_if_bitwise_xor_has_trailing_zeros.md)     
+| 3000   | [Maximum Area of Longest Diagonal Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3000_maximum_area_of_longest_diagonal_rectangle.md)      
+| 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3005_count_elements_with_maximum_frequency.md)
+| 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3232_find_if_digit_game_can_be_won.md)
+| 3423   | [Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3423_maximum_difference_between_adjacent_elements_in_a_circular_array.md)
+| 3427   | [Sum of Variable Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3427_sum_of_variable_length_subarrays.md)
+| 3432   | [Count Partitions with Even Sum Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3432_count_partitions_with_even_sum_difference.md)
+| 3467   | [Transform Array by Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3467_transform_array_by_parity.md)
+
 
 
 ### Pandas
