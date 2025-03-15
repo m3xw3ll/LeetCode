@@ -755,6 +755,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3423   | [Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3423_maximum_difference_between_adjacent_elements_in_a_circular_array.md)
 | 3427   | [Sum of Variable Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3427_sum_of_variable_length_subarrays.md)
 | 3432   | [Count Partitions with Even Sum Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3432_count_partitions_with_even_sum_difference.md)
+| 3438   | [Find Valid Pair of Adjacent Digits in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3438_find_valid_pair_of_adjacent_digits_in_string.md)
 | 3467   | [Transform Array by Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3467_transform_array_by_parity.md)
 
 
