@@ -742,11 +742,11 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2913   | [Subarrays Distinct Element Sum of Squares I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2913_subarrays_distinct_element_sum_of_squares_one.md)                                             |
 | 2928   | [Distribute Candies Among Children I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2928_distribute_candies_among_children_one.md)                                                             |
 | 2932   | [Maximum Strong Pair XOR I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2932_maximum_strong_pair_xor_one.md)                                                                                 |
-| 2937   | [Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2937_make_three_strings_equal.md)                                                                                       |
-| 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2942_find_words_containing_character.md)                                                                         |
-| 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
-| 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2956_find_common_elements_between_two_arrays.md)                                                         |
-
+| 2937   | [Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2937_make_three_strings_equal.md)                                                                                       |
+| 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2942_find_words_containing_character.md)                                                                         |
+| 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
+| 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2956_find_common_elements_between_two_arrays.md)                                                         |
+| 3467   | [Transform Array by Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/4567_transform_array_by_parity.md)                                                         |
 
 ### Pandas
 
