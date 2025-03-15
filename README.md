@@ -753,6 +753,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3005_count_elements_with_maximum_frequency.md)
 | 3065   | [Minimum Operations to Exceed Threshold Value I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3065_minimum_operations_to_exceed_threshold_value_one.md)
 | 3110   | [Score of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3110_score_of_a_string.md)
+| 3162   | [Find the Number of Good Pairs I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3162_find_the_number_of_good_pairs_one.md)
 | 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3232_find_if_digit_game_can_be_won.md)
 | 3280   | [Convert Date to Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3280_convert_date_to_binary.md)
 | 3285   | [Find Indices of Stable Mountains](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3285_find_indices_of_stable_mountains.md)
