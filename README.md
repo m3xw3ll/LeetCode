@@ -753,6 +753,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3005_count_elements_with_maximum_frequency.md)
 | 3110   | [Score of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3110_score_of_a_string.md)
 | 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3232_find_if_digit_game_can_be_won.md)
+| 3289   | [The Two Sneaky Numbers of Digitville](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3289_the_two_sneaky_numbers_of_digitville.md)
 | 3423   | [Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3423_maximum_difference_between_adjacent_elements_in_a_circular_array.md)
 | 3427   | [Sum of Variable Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3427_sum_of_variable_length_subarrays.md)
 | 3432   | [Count Partitions with Even Sum Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3432_count_partitions_with_even_sum_difference.md)
