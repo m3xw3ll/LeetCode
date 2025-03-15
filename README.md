@@ -751,6 +751,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2980   | [Check if Bitwise OR Has Trailing Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2980_check_if_bitwise_xor_has_trailing_zeros.md)     
 | 3000   | [Maximum Area of Longest Diagonal Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3000_maximum_area_of_longest_diagonal_rectangle.md)      
 | 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3005_count_elements_with_maximum_frequency.md)
+| 3065   | [Minimum Operations to Exceed Threshold Value I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3065_minimum_operations_to_exceed_threshold_value_one.md)
 | 3110   | [Score of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3110_score_of_a_string.md)
 | 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3232_find_if_digit_game_can_be_won.md)
 | 3280   | [Convert Date to Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3280_convert_date_to_binary.md)
