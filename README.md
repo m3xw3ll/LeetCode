@@ -333,7 +333,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 1137   | [N-th Tribonacci Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1137_nth_tribonacci_number.md)                                                                                          |
 | 1146   | [Snapshot Array](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1146_snapshot_array.md)                                                                                                         |
 | 1154   | [Day of the Year](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1154_day_of_the_year.md)                                                                                                       |
-| 1155   | [Number of Dice Rolls With Target Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1155_number_of_dice_rolls_with_target_sum.md)                                                                                                   |
+| 1155   | [Number of Dice Rolls With Target Sum](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1155_number_of_dice_rolls_with_target_sum.md)                                                             |
 | 1160   | [Find Words That Can Be Formed by Characters](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1160_find_words_that_can_be_formed_by_characters.md)                                               |
 | 1184   | [Distance Between Bus Stops](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1184_distance_between_bus_stops.md)                                                                                 |
 | 1185   | [Day of the Week](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/1185_day_of_the_week.md)                                                                                                       |
@@ -742,27 +742,56 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2913   | [Subarrays Distinct Element Sum of Squares I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2913_subarrays_distinct_element_sum_of_squares_one.md)                                             |
 | 2928   | [Distribute Candies Among Children I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2928_distribute_candies_among_children_one.md)                                                             |
 | 2932   | [Maximum Strong Pair XOR I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2932_maximum_strong_pair_xor_one.md)                                                                                 |
-| 2937   | [Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2937_make_three_strings_equal.md)                                                                                       |
-| 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2942_find_words_containing_character.md)                                                                         |
-| 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
-| 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2956_find_common_elements_between_two_arrays.md)                                                         |
-| 3467   | [Transform Array by Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/4567_transform_array_by_parity.md)                                                         |
+| 2937   | [Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2937_make_three_strings_equal.md)                                                                                       |
+| 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2942_find_words_containing_character.md)                                                                         |
+| 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
+| 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2956_find_common_elements_between_two_arrays.md)                                                         |
+| 2974   | [Minimum Number Game](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2974_minimum_number_game.md)                                                                                                 |
+| 2965   | [Find Missing and Repeated Values](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2965_find_missing_and_repeated_values.md)   
+| 2980   | [Check if Bitwise OR Has Trailing Zeros](https://github.com/m3xw3ll/LeetCode/blob/master/Database/2980_check_if_bitwise_xor_has_trailing_zeros.md)     
+| 3000   | [Maximum Area of Longest Diagonal Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3000_maximum_area_of_longest_diagonal_rectangle.md)      
+| 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3005_count_elements_with_maximum_frequency.md)
+| 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3232_find_if_digit_game_can_be_won.md)
+| 3423   | [Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3423_maximum_difference_between_adjacent_elements_in_a_circular_array.md)
+| 3427   | [Sum of Variable Length Subarrays](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3427_sum_of_variable_length_subarrays.md)
+| 3432   | [Count Partitions with Even Sum Difference](https://github.com/m3xw3ll/LeetCode/blob/master/Database/3432_count_partitions_with_even_sum_difference.md)
+
 
 ### Pandas
 
 | Number | Problem                                                                                                                                                                         |
 |:-------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 177    | [Nth Highest Salary](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/177_nth_highest_salary.md)                                                                          |
+| 180    | [Consecutive Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/180_consecutive_numbers.md)                                                                        |
 | 183    | [Customers Who Never Order](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/183_customers_who_never_order.md)                                                            
+| 185    | [Department Top Three Salaries](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/185_department_top_three_salaries.md)      
 | 197    | [Rising Temperature](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/197_rising_temperature.md)                                                                          |
+| 550    | [Game Play Analysis IV](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/550_game_play_analysis_four.md)    
+| 570    | [Managers with at least 5 direct reports](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/570_managers_with_at_least_five_direct_reports.md)     
 | 577    | [Employee Bonus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/577_employee_bonus.md)                                                                                  |
+| 585    | [Investments in 2016](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/585_investments_in_2016.md)     
+| 602    | [Friend Requests II: Who Has the Most Friends](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/602_friend_requests_two_who_has_the_most_friends.md)   
+| 610    | [Triangle Judgement](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/610_triangle_judgement.md)                                                                          |
 | 619    | [Biggest Single Number](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/619_biggest_single_number.md)                                                                    |
+| 626    | [Exchange Seats](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/626_exchange_seats.md)    
+| 1045   | [Customers who bought all Products](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1045_customers_who_bought_all_products.md)   
+| 1070   | [Product Sales Analysis III](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1070_product_sales_analysis_three.md)                                                       |
 | 1075   | [Project Employees I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1075_project_employees_one.md)                                                                     |
+| 1174   | [Immediate Food Delivery II](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1174_immediate_food_delivery_two.md)     
+| 1193   | [Monthly Transactions I](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1193_monthly_transactions_one.md)                                                               |
+| 1204   | [Last Person to Fit in the Bus](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1204_last_person_to_fit_in_the_bus.md)                                                   |
+| 1211   | [Queries Quality and Percentage](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1211_queries_quality_and_percentage.md)                                                 |
+| 1280   | [Students and Examinations](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1280_students_and_examinations.md)                                                           |
+| 1321   | [Restaurant Growth](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1321_restaurant_growth.md)   
+| 1341   | [Movie Rating](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1341_movie_rating.md)     
+| 1366   | [Percentage of Users Attended a Contest](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1366_percentage_of_users_attended_a_contest.md)                                 |
 | 1378   | [Replace Employee ID With The Unique Identifier](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1378_replace_employee_id_with_the_unique_identifier.md)                 |
 | 1517   | [Find Users With Valid E-Mails](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1517_find_users_with_valid_emails.md)                                                    |
 | 1581   | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1581_customer_who_visited_but_did_not_make_any_transactions.md) |
 | 1661   | [Average Time of Process per Machine](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1661_average_time_of_process_per_machine.md)                                       |
 | 1731   | [The Number of Employees Which Report to Each Employee](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1731_the_number_of_employees_which_report_to_each_employee.md)   |
+| 1907   | [Count Salary Categories](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1907_count_salary_categories.md)                                                               |
+| 1934   | [Confirmation Rate](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/1934_confirmation_rate.md)                                                                           |
 | 2877   | [Create a DataFrame from List](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2877_create_a_dataframe_from_list.md)                                                     |
 | 2878   | [Get the Size of a Dataframe](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2878_get_the_size_of_a_dataframe.md)                                                       |
 | 2879   | [Display the First Three Rows](https://github.com/m3xw3ll/LeetCode/blob/master/Pandas/2879_display_the_first_three_rows.md)                                                     |
