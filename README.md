@@ -764,6 +764,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3438   | [Find Valid Pair of Adjacent Digits in String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3438_find_valid_pair_of_adjacent_digits_in_string.md)
 | 3461   | [Check If Digits Are Equal in String After Operations I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3461_check_if_digits_are_equal_in_string_after_operations_one.md)
 | 3467   | [Transform Array by Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3467_transform_array_by_parity.md)
+| 3483   | [Unique 3-Digit Even Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3483_unique_three_digit_even_numbers.md)
 
 
 
