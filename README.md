@@ -752,6 +752,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3000   | [Maximum Area of Longest Diagonal Rectangle](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3000_maximum_area_of_longest_diagonal_rectangle.md)      
 | 3005   | [Count Elements With Maximum Frequency](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3005_count_elements_with_maximum_frequency.md)
 | 3065   | [Minimum Operations to Exceed Threshold Value I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3065_minimum_operations_to_exceed_threshold_value_one.md)
+| 3069   | [Distribute Elements Into Two Arrays I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3069_distribute_elements_into_two_arrays_one.md)
 | 3079   | [Find the Sum of Encrypted Integers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3079_find_the_sum_of_encrypted_integers.md)
 | 3099   | [Harshad Number](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3099_harshad_number.md)
 | 3110   | [Score of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3110_score_of_a_string.md)
