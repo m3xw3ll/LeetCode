@@ -759,6 +759,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3162   | [Find the Number of Good Pairs I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3162_find_the_number_of_good_pairs_one.md)
 | 3174   | [Clear Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3174_clear_digits.md)
 | 3190   | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3190_find_minimum_operations_to_make_all_elements_divisible_by_three.md)
+| 3194   | [Minimum Average of Smallest and Largest Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3194_minimum_average_of_smallest_and_largest_elements.md)
 | 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3232_find_if_digit_game_can_be_won.md)
 | 3264   | [Final Array State After K Multiplication Operations I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3264_find_array_state_after_k_multiplication_operations_one.md)
 | 3280   | [Convert Date to Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3280_convert_date_to_binary.md)
