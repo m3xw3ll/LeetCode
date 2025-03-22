@@ -758,6 +758,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3110   | [Score of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3110_score_of_a_string.md)
 | 3131   | [Find the Integer Added to Array I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3131_find_the_integer_added_to_array_one.md)
 | 3151   | [Special Array I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3151_special_array_one.md)
+| 3158   | [Find the XOR of Numbers Which Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3158_find_the_xor_of_numbers_which_appear_twice.md)
 | 3162   | [Find the Number of Good Pairs I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3162_find_the_number_of_good_pairs_one.md)
 | 3174   | [Clear Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3174_clear_digits.md)
 | 3190   | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3190_find_minimum_operations_to_make_all_elements_divisible_by_three.md)
