@@ -778,7 +778,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3461   | [Check If Digits Are Equal in String After Operations I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3461_check_if_digits_are_equal_in_string_after_operations_one.md)
 | 3467   | [Transform Array by Parity](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3467_transform_array_by_parity.md)
 | 3483   | [Unique 3-Digit Even Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3483_unique_three_digit_even_numbers.md)
-
+| 3492   | [Maximum Containers on a Ship](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3492_maximum_containers_on_a_ship.md)
 
 
 ### Pandas
