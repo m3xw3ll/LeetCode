@@ -762,6 +762,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3158   | [Find the XOR of Numbers Which Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3158_find_the_xor_of_numbers_which_appear_twice.md)
 | 3162   | [Find the Number of Good Pairs I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3162_find_the_number_of_good_pairs_one.md)
 | 3174   | [Clear Digits](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3174_clear_digits.md)
+| 3184   | [Count Pairs That Form a Complete Day I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3184_count_pairs_that_form_a_complete_day_one.md)
 | 3190   | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3190_find_minimum_operations_to_make_all_elements_divisible_by_three.md)
 | 3194   | [Minimum Average of Smallest and Largest Elements](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3194_minimum_average_of_smallest_and_largest_elements.md)
 | 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3232_find_if_digit_game_can_be_won.md)
