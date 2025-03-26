@@ -767,6 +767,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3232   | [Find if Digit Game Can Be Won](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3232_find_if_digit_game_can_be_won.md)
 | 3248   | [Snake in Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3248_snake_in_matrix.md)
 | 3264   | [Final Array State After K Multiplication Operations I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3264_find_array_state_after_k_multiplication_operations_one.md)
+| 3270   | [Find the Key of the Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3270_find_the_key_of_the_numbers.md)
 | 3280   | [Convert Date to Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3280_convert_date_to_binary.md)
 | 3285   | [Find Indices of Stable Mountains](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3285_find_indices_of_stable_mountains.md)
 | 3289   | [The Two Sneaky Numbers of Digitville](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3289_the_two_sneaky_numbers_of_digitville.md)
