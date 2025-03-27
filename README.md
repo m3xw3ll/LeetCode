@@ -746,6 +746,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 2937   | [Make Three Strings Equal](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2937_make_three_strings_equal.md)                                                                                       |
 | 2942   | [Find Words Containing Character](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2942_find_words_containing_character.md)                                                                         |
 | 2946   | [Matrix Similarity After Cyclic Shifts](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2946_matrix_similiarity_after_cyclic_shifts.md)                                                            |
+| 2951   | [Find the Peaks](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2951_find_the_peaks.md)     
 | 2956   | [Find Common Elements Between Two Arrays](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2956_find_common_elements_between_two_arrays.md)                                                         |
 | 2974   | [Minimum Number Game](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2974_minimum_number_game.md)                                                                                                 |
 | 2965   | [Find Missing and Repeated Values](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/2965_find_missing_and_repeated_values.md)   
