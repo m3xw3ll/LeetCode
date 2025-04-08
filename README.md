@@ -763,6 +763,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3110   | [Score of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3110_score_of_a_string.md)
 | 3120   | [Count the Number of Special Characters I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3120_count_the_number_of_special_characters_one.md)
 | 3131   | [Find the Integer Added to Array I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3131_find_the_integer_added_to_array_one.md)
+| 3146   | [Permutation Difference between Two Strings](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3146_permutation_difference_between_two_strings.md)
 | 3151   | [Special Array I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3151_special_array_one.md)
 | 3158   | [Find the XOR of Numbers Which Appear Twice](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3158_find_the_xor_of_numbers_which_appear_twice.md)
 | 3162   | [Find the Number of Good Pairs I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3162_find_the_number_of_good_pairs_one.md)
