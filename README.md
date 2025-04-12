@@ -795,6 +795,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3483   | [Unique 3-Digit Even Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3483_unique_three_digit_even_numbers.md)
 | 3492   | [Maximum Containers on a Ship](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3492_maximum_containers_on_a_ship.md)
 | 3498   | [Reverse Degree of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3498_reverse_degree_of_a_string.md)
+| 3502   | [Minimum Cost to Reach Every Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3502_minimum_cost_to_reach_every_position.md)
 
 
 ### Pandas
