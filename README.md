@@ -778,6 +778,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3248   | [Snake in Matrix](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3248_snake_in_matrix.md)
 | 3264   | [Final Array State After K Multiplication Operations I](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3264_find_array_state_after_k_multiplication_operations_one.md)
 | 3270   | [Find the Key of the Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3270_find_the_key_of_the_numbers.md)
+| 3271   | [Hash Divided String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3271_hash_divided_string.md)
 | 3274   | [Check if Two Chessboard Squares Have the Same Color](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3274_check_if_two_chessboard_squares_have_the_same_color.md)
 | 3280   | [Convert Date to Binary](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3280_convert_date_to_binary.md)
 | 3285   | [Find Indices of Stable Mountains](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3285_find_indices_of_stable_mountains.md)
@@ -795,6 +796,7 @@ To search for a specific problem please use ```STRG + F``` to search for.
 | 3483   | [Unique 3-Digit Even Numbers](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3483_unique_three_digit_even_numbers.md)
 | 3492   | [Maximum Containers on a Ship](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3492_maximum_containers_on_a_ship.md)
 | 3498   | [Reverse Degree of a String](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3498_reverse_degree_of_a_string.md)
+| 3502   | [Minimum Cost to Reach Every Position](https://github.com/m3xw3ll/LeetCode/blob/master/Algorithms/3502_minimum_cost_to_reach_every_position.md)
 
 
 ### Pandas
